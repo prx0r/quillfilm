@@ -1,0 +1,192 @@
+ 
+
+ 
+
+ 
+ Kaccayanagotta Sutta: To Kaccayana Gotta (on Right View) 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ Creative Commons Attribution-NonCommercial 4.0 International License . To view a copy of the license, visit https://creativecommons.org/licenses/by-nc/4.0/ . Documents linked from this page may be subject to other restrictions.}
+{ }
+{1}
+[DIACRITIC_EQUIVALENTS_FOR_INDEXING]=
+[EDITION]={}
+[EDITORS_NOTE]={}
+[EOD]={}
+[EXTENT]={complete}
+[EXTRA_INFO]={}
+[FORMAT_PRINT]={}
+[FORMAT_SUTTAREADINGS]={index.html#sn12.015}
+[FORMAT_ZIP]={}
+[HEADER_POST]={}
+[HEADER_PRE]={}
+[HEAD_EXTRAS]={}
+[LICENSE]={CC-BY-NC}
+[MULTI_AUTHOR]=
+[MY_TITLE]={Kaccayanagotta Sutta}
+[NIKAYA]={Samyutta}
+[NIKAYA_ABBREV]={SN}
+[NO_COLOPHON]={}
+[NO_LINK]={}
+[NUMBER]={15}
+[ORIGIN_YEAR]={}
+[PAGE_COUNT]={}
+[PATH_FetchDoc]={sn12.015.than.html}
+[PATH_my]={}
+[PTS_ID]={S ii 16}
+[REVISION_HISTORY]={}
+[SECTION]={12}
+[SEE_ALSO]={}
+[SOURCE]={Transcribed from a file provided by the translator.}
+[SOURCE_COPYRIGHT_OWNER]={Thanissaro Bhikkhu}
+[SOURCE_COPYRIGHT_YEAR]={1997}
+[SOURCE_ISBN]={}
+[SPECIAL_HEADER]={}
+[SUBTITLE]={To Kaccayana Gotta (on Right View)}
+[SUBTITLE2]={}
+[SUMMARY]={}
+[SUMMARY_SOURCE]={}
+[SURPRISE_ME]={}
+[SUTTA_NOTE]={}
+[TIPITAKA_BOOK]={}
+[TIPITAKA_BOOK_ABBREV]={}
+[TYPE]={sutta}
+
+End ATIDoc metadata dump. -->
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Random sutta 
+ Random article 
+ Abbreviations 
+ Glossary 
+ Index 
+ Help! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tipitaka 
+ 
+ Vinaya Pitaka 
+ Sutta Pitaka 
+ DN 
+ MN 
+ SN 
+ AN 
+ KN 
+ Khp 
+ Dhp 
+ Ud 
+ Iti 
+ Sn 
+ Abhidhamma 
+ 
+ 
+ 
+ 
+ Samyutta Nikaya 
+ SN 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SN 12.15
+ PTS: S ii 16 
+ CDB i 544 
+ 
+ Kaccayanagotta Sutta: To Kaccayana Gotta (on Right View) 
+ 
+ translated from the Pali by Thanissaro Bhikkhu 
+ © 1997 
+ Alternate translation: Walshe 
+ Alternate format: X The updated version is freely available at This version of the text might be out of date. Please click here for more information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dwelling at Savatthi ... Then Ven. Kaccayana Gotta approached the Blessed One and, on arrival, having bowed down, sat to one side. As he was sitting there he said to the Blessed One: "Lord, ' Right view , right view,' it is said. To what extent is there right view?" 
+ "By & large, Kaccayana, this world is supported by (takes as its object) a polarity, that of existence & non-existence. But when one sees the origination of the world as it actually is with right discernment, 'non-existence' with reference to the world does not occur to one. When one sees the cessation of the world as it actually is with right discernment, 'existence' with reference to the world does not occur to one. 
+ "By & large, Kaccayana, this world is in bondage to attachments, clingings (sustenances), & biases. But one such as this does not get involved with or cling to these attachments, clingings, fixations of awareness, biases, or obsessions; nor is he resolved on 'my self.' He has no uncertainty or doubt that just stress, when arising, is arising; stress, when passing away, is passing away. In this, his knowledge is independent of others. It's to this extent, Kaccayana, that there is right view. 
+ "'Everything exists': That is one extreme. 'Everything doesn't exist': That is a second extreme. Avoiding these two extremes, the Tathagata teaches the Dhamma via the middle: From ignorance as a requisite condition come fabrications. From fabrications as a requisite condition comes consciousness. From consciousness as a requisite condition comes name-&-form. From name-&-form as a requisite condition come the six sense media. From the six sense media as a requisite condition comes contact. From contact as a requisite condition comes feeling. From feeling as a requisite condition comes craving. From craving as a requisite condition comes clinging/sustenance. From clinging/sustenance as a requisite condition comes becoming. From becoming as a requisite condition comes birth. From birth as a requisite condition, then aging & death, sorrow, lamentation, pain, distress, & despair come into play. Such is the origination of this entire mass of stress & suffering. 
+ "Now from the remainderless fading & cessation of that very ignorance comes the cessation of fabrications. From the cessation of fabrications comes the cessation of consciousness. From the cessation of consciousness comes the cessation of name-&-form. From the cessation of name-&-form comes the cessation of the six sense media. From the cessation of the six sense media comes the cessation of contact. From the cessation of contact comes the cessation of feeling. From the cessation of feeling comes the cessation of craving. From the cessation of craving comes the cessation of clinging/sustenance. From the cessation of clinging/sustenance comes the cessation of becoming. From the cessation of becoming comes the cessation of birth. From the cessation of birth, then aging & death, sorrow, lamentation, pain, distress, & despair all cease. Such is the cessation of this entire mass of stress & suffering." 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ ©1997 Thanissaro Bhikkhu. 
+ 
+ 
+ The text of this page ("Kaccayanagotta Sutta: To Kaccayana Gotta (on Right View)", by Thanissaro Bhikkhu) is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License . To view a copy of the license, visit https://creativecommons.org/licenses/by-nc/4.0/ . Documents linked from this page may be subject to other restrictions. 
+ Transcribed from a file provided by the translator. Last revised for Access to Insight on 30 November 2013. 
+ 
+ This Access to Insight edition is ©1997. 
+ -->
+ 
+ FAQ . -->
+ 
+ 
+ How to cite this document (a suggested style): "Kaccayanagotta Sutta: To Kaccayana Gotta (on Right View)" (SN 12.15), translated from the Pali by Thanissaro Bhikkhu. Access to Insight (BCBS Edition) , 30 November 2013, https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html . 
+ Alternate format: 
+ 
+ 
+ 
+ Help 
+ | Site map 
+ | About 
+ | Contact 
+ | Terms of use 
+ Access to Insight is owned and managed by the Barre Center for Buddhist Studies 
+ 
+ 
+ 
+ 
+ 
+ 

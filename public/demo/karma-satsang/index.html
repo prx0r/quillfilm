@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Why Karma Governs Your Life — a satsang demo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;1,6..72,300;1,6..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<style>
+:root{--bg:#07070a;--panel:#111116;--line:#2a2a33;--ink:#f3f1ec;--mut:#8d8b93;--gold:#F5C76B;--red:#E8102E;--teal:#5EC4B6;}
+*{box-sizing:border-box}body{background:var(--bg);color:var(--ink);font-family:Inter,system-ui,sans-serif;margin:0;padding:0}
+.wrap{max-width:760px;margin:0 auto;padding:32px 20px 80px}
+.eyebrow{color:var(--gold);font-size:12px;letter-spacing:.18em;text-transform:uppercase}
+h1{font-weight:800;font-size:34px;line-height:1.15;margin:.4em 0 .2em}
+.sub{color:var(--mut);font-size:14px;line-height:1.6}
+.cast{display:flex;gap:10px;margin:22px 0;flex-wrap:wrap}
+.person{display:flex;align-items:center;gap:8px;background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:6px 14px 6px 6px;font-size:13px}
+.dot{width:26px;height:26px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:12px;color:#111}
+.node{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin:14px 0;cursor:pointer;transition:border-color .2s}
+.node:hover{border-color:#4a4a55}.node.open{border-color:var(--gold)}
+.node .who{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--mut);margin-bottom:8px}
+.node .who b{color:var(--ink)}
+.node .claim{font-family:Newsreader,Georgia,serif;font-size:19px;line-height:1.5}
+.node.teacher .claim{font-size:21px}
+.node .body{font-size:14px;line-height:1.7;color:#d8d5cd;margin-top:10px;min-height:1em}
+.node .body .cursor{display:inline-block;width:8px;background:var(--gold);animation:blink 1s infinite}
+@keyframes blink{50%{opacity:0}}
+.node .src{font-size:11px;color:var(--mut);margin-top:10px;font-family:ui-monospace,monospace}
+.node .controls{display:flex;gap:8px;margin-top:12px;align-items:center}
+button{background:none;border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:6px 12px;font-size:12px;cursor:pointer}
+button:hover{border-color:var(--gold)}
+.verdict{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.08em;padding:3px 10px;border-radius:99px;margin-bottom:8px}
+.v-supp{background:rgba(94,196,181,.15);color:var(--teal)}
+.v-silent{background:rgba(139,139,147,.15);color:var(--mut)}
+.v-contra{background:rgba(232,16,46,.15);color:var(--red)}
+.katex-block{background:#0b0b10;border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin:14px 0;overflow-x:auto}
+.katex{color:var(--ink);font-size:1.05em}
+.clip{border:1px dashed #4a4a55;border-radius:14px;padding:14px 18px;margin:14px 0;font-size:13px;color:var(--mut)}
+.clip b{color:var(--ink)} .clip code{color:var(--gold);font-size:12px}
+.arrow{text-align:center;color:var(--mut);font-size:18px;margin:2px 0}
+footer{margin-top:40px;color:var(--mut);font-size:12px;line-height:1.7}
+a{color:var(--gold)}
+audio{display:none}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="eyebrow">quill demo · karma film · pack: karma</div>
+<h1>Why Karma Governs Your Life</h1>
+<p class="sub">A satsang, not a lecture. Tap each node: a voice asks, the teacher answers, the enquiry branches. Every claim below is banked verbatim in the film pack (WEAVE K-IDs) — nothing here is improvised by the model.</p>
+
+<div class="cast">
+<div class="person"><span class="dot" style="background:var(--gold)">N</span> Narrator <span style="color:var(--mut)">· Louis voice</span></div>
+<div class="person"><span class="dot" style="background:#8B5CF6;color:#fff">S</span> Skeptic <span style="color:var(--mut)">· Ari voice</span></div>
+<div class="person"><span class="dot" style="background:var(--teal)">W</span> Wonderer <span style="color:var(--mut)">· Casey voice</span></div>
+</div>
+
+<div id="stage"></div>
+
+<div class="katex-block">
+<div style="font-size:12px;color:var(--mut);margin-bottom:10px">THE DOMINO, FORMALLY (K7 + Q2)</div>
+<div id="katex-domino"></div>
+</div>
+
+<div class="clip">🎬 <b>Clip slot — verification beat.</b> Beth Upton, <i>Discerning the rebirth moment</i> <code>tcur6EplDVA</code> — slots here when the bridge lands YouTube. <button onclick="navigator.clipboard&&navigator.clipboard.writeText('tcur6EplDVA')">copy id</button></div>
+<div class="clip">🎬 <b>Clip slot — hook nod.</b> Hariri on superintelligence &amp; cows <i>(ask-first: commercial author)</i> — no ID pulled without clearance.</div>
+<div class="clip">🎬 <b>Clip slot — Thai forest seat.</b> Ajahn Chah, “No Ajahn Chah — Birth &amp; Death” <code>5cTN2gcHwME</code> — transcript blocked from datacenter IP; needs cookies or bridge. <button onclick="navigator.clipboard&&navigator.clipboard.writeText('5cTN2gcHwME')">copy id</button></div>
+
+<footer>Node claims + bodies here are <i>demo paraphrases</i> for the interactive format — the verbatim banked wording lives in the karma pack (WEAVE K-IDs cited on every node; open any READ there before recording). Owner-verbatim lines are quoted word-for-word in draft1.md. Voices: Fish Audio s2.1-pro-free (Louis / Ari / Casey clones). <a href="https://quill.agi.xn--q9jyb4c/">← back to quill</a></footer>
+</div>
+
+<script>
+const NODES = [
+{id:'coldopen', who:'Narrator', color:'var(--gold)', initial:'N', audio:'audio/narr1.mp3',
+ claim:'Same act. Opposite payoffs. One man garlanded like a king for killing — another marched to the drum for the same deed.',
+ body:'The Buddha ridiculed anyone who says results land here-and-now. If karma is true, the books balance somewhere you cannot see. That is the obscenity — sit in it before solving it. [K1 · garland/drum parable]', src:'WEAVE K1 · ToR garland/drum'},
+{id:'hitler', who:'Skeptic', color:'#8B5CF6', initial:'S', audio:'audio/skep1.mp3',
+ claim:'So you\u2019re saying I was Hitler? And the dog that saved my life was my mother?',
+ body:'Verdict: GRANTED, with receipts. Beginningless wandering means every role was occupied — SN 15:14–19: no being who has not been your mother, father, killer, saint. [K15 · anamatagga roles] No one is essentially anything. That is not an insult. It is the mechanism.', src:'WEAVE K15 · SN 15:14–19'},
+{id:'memory', who:'Wonderer', color:'var(--teal)', initial:'W', audio:'audio/wond1.mp3',
+ claim:'But I don\u2019t remember being anyone\u2019s mother. How is this useful now?',
+ body:'Memory is not the criterion. If someone saved your life ten years ago it would still be vivid — the past doesn\u2019t dilute gratitude. You\u2019re looking at people as their present body; the practice trains you to see through it. The affection is the work. [Chodron · TAKES]', src:'TAKES.md · Chodron + Serkong'},
+{id:'psychosis', who:'Wonderer', color:'var(--teal)', initial:'W', audio:null,
+ claim:'Isn\u2019t this psychosis — imposing something I don\u2019t believe as true?',
+ body:'No — it is explicitly provisional. "Provisionally accept it, to get more of a feeling." Two levels: relate conventionally to people as they are; hold the mother-view at the affection level. Psychosis would be losing the conventional — the practice forbids exactly that. [Berzin two-level · K16/K17]', src:'WEAVE K16/K17 · MOTHER-OBJECTIONS Q2'},
+{id:'grasshopper', who:'Skeptic', color:'#8B5CF6', initial:'S', audio:null,
+ claim:'Might as well say I was a grasshopper and he was the dog.',
+ body:'Yes — and the tradition agrees. No one is inherently human, cockroach, woman, or man. Mother wins on one criterion only: leverage. The figure is interchangeable by the tradition\u2019s own instruction — which proves it is strategic technology, not an ontology claim. [Berzin · Chodron]', src:'MOTHER-OBJECTIONS Q3'},
+{id:'sex', who:'Skeptic', color:'#8B5CF6', initial:'S', audio:'audio/skep2.mp3',
+ claim:'And if everyone is my mother — what about sex?',
+ body:'Honest status: no canonical Q&A found. Best assembly: relate to people as they are (two-level) — the mother-view generates care and makes no claims about your relationships. The tradition never asked you to stop seeing what is in front of you. Flagged open: ask a teacher on camera. [MOTHER-OBJECTIONS Q4]', src:'MOTHER-OBJECTIONS Q4 · ACQUIRE #5'},
+{id:'bridge', who:'Narrator', color:'var(--gold)', initial:'N', audio:'audio/narr2.mp3',
+ claim:'Every role has been occupied. No one is essentially anything.',
+ body:'Karma is not justice — there is no judge. It is momentum: intentions groove tendencies, tendencies bid for the next moment. [AN 6:63 · intention is kamma · K21]', src:'WEAVE K21 · AN 6:63'},
+{id:'practice', who:'Narrator', color:'var(--gold)', initial:'N', audio:'audio/narr3.mp3',
+ claim:'You don\u2019t remember being an infant either. Memory is not the criterion.',
+ body:'Where consciousness does not land, no future becoming. Starve, don\u2019t destroy. The work is possible precisely because nothing is fixed. [SN 12:64 sunbeam · K3]', src:'WEAVE K3 · SN 12.67 reeds'},
+{id:'close', who:'Narrator', color:'var(--gold)', initial:'N', audio:'audio/narr4.mp3',
+ claim:'Relate to people as they are. The mother-view generates care.',
+ body:'So: are you making karma right now? Check. The ladder collapses to the present moment — the only window you can touch. Next video: the practice manual. [v1 cliff rhyme]', src:'STRUCTURE ch.6'},
+];
+
+const stage = document.getElementById('stage');
+let currentAudio = null;
+function stopAudio(){ if(currentAudio){ try{currentAudio.pause();}catch(e){} currentAudio = null; } }
+
+// smooth-stream reveal: buffer full text, rAF typewriter (~Upstash pattern)
+function streamText(el, full, done){
+  const plain = full; let i = 0; const t0 = performance.now();
+  el.innerHTML = '<span class="cursor">&nbsp;</span>';
+  function frame(t){
+    const chars = Math.floor((t - t0) / 12);
+    if (chars >= plain.length) { el.textContent = plain; done && done(); return; }
+    el.innerHTML = plain.slice(0, chars).replace(/</g,'&lt;') + '<span class="cursor">&nbsp;</span>';
+    requestAnimationFrame(frame);
+  }
+  requestAnimationFrame(frame);
+}
+
+NODES.forEach((n, idx) => {
+  if (idx > 0) { const a = document.createElement('div'); a.className = 'arrow'; a.textContent = '↓'; stage.appendChild(a); }
+  const d = document.createElement('div');
+  d.className = 'node' + (n.who === 'Narrator' ? ' teacher' : '');
+  d.innerHTML = `<div class="who"><span class="dot" style="background:${n.color};${n.who==='Skeptic'?'color:#fff':''}">${n.initial}</span><b>${n.who}</b><span>· tap to open</span></div>
+    <div class="claim">${n.claim}</div>
+    <div class="body" style="display:none"></div>
+    <div class="src" style="display:none">${n.src}</div>
+    <div class="controls" style="display:none">${n.audio ? '<button class="play">▶ voice</button>' : '<span style="font-size:12px;color:var(--mut)">text only in this demo</span>'}</div>`;
+  const body = d.querySelector('.body'), src = d.querySelector('.src'), ctrls = d.querySelector('.controls');
+  let opened = false;
+  d.addEventListener('click', (e) => {
+    if (e.target.tagName === 'BUTTON') return;
+    opened = !opened;
+    d.classList.toggle('open', opened);
+    body.style.display = opened ? '' : 'none';
+    src.style.display = opened ? '' : 'none';
+    ctrls.style.display = opened ? '' : 'none';
+    if (opened) { stopAudio(); streamText(body, n.body); if (n.audio) { const a = new Audio(n.audio); currentAudio = a; a.play().catch(()=>{}); } }
+    else { stopAudio(); }
+  });
+  const play = d.querySelector('.play');
+  if (play) play.addEventListener('click', (e) => { e.stopPropagation(); stopAudio(); const a = new Audio(n.audio); currentAudio = a; a.play().catch(()=>{}); });
+  stage.appendChild(d);
+});
+
+// KaTeX domino
+function renderKatex(){
+  if (!window.katex) { setTimeout(renderKatex, 300); return; }
+  katex.render("\\text{Beginningless}(\\text{mindstream}) \\;\\Rightarrow\\; \\forall r\\,\\exists l: \\text{lived}(r,l) \\;\\Rightarrow\\; \\text{rebirth} \\;\\Rightarrow\\; \\text{karma unlocks}", document.getElementById('katex-domino'), {throwOnError:false});
+}
+renderKatex();
+</script>
+</body>
+</html>

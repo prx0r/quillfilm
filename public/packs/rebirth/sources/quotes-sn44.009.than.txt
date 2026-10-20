@@ -1,0 +1,198 @@
+ 
+
+ 
+
+ 
+ Kutuhalasala Sutta: With Vacchagotta 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ Creative Commons Attribution-NonCommercial 4.0 International License . To view a copy of the license, visit https://creativecommons.org/licenses/by-nc/4.0/ . Documents linked from this page may be subject to other restrictions.}
+{ }
+{1}
+[DIACRITIC_EQUIVALENTS_FOR_INDEXING]=
+[EDITION]={}
+[EDITORS_NOTE]={}
+[EOD]={}
+[EXTENT]={complete}
+[EXTRA_INFO]={}
+[FORMAT_PRINT]={}
+[FORMAT_SUTTAREADINGS]={}
+[FORMAT_ZIP]={}
+[HEADER_POST]={}
+[HEADER_PRE]={}
+[HEAD_EXTRAS]={}
+[LICENSE]={CC-BY-NC}
+[MULTI_AUTHOR]=
+[MY_TITLE]={Kutuhalasala Sutta}
+[NIKAYA]={Samyutta}
+[NIKAYA_ABBREV]={SN}
+[NO_COLOPHON]={}
+[NO_LINK]={}
+[NUMBER]={9}
+[ORIGIN_YEAR]={}
+[PAGE_COUNT]={}
+[PATH_FetchDoc]={sn44.009.than.html}
+[PATH_my]={}
+[PTS_ID]={S iv 398}
+[REVISION_HISTORY]={}
+[SECTION]={44}
+[SEE_ALSO]={}
+[SOURCE]={Transcribed from a file provided by the translator.}
+[SOURCE_COPYRIGHT_OWNER]={Thanissaro Bhikkhu}
+[SOURCE_COPYRIGHT_YEAR]={2004}
+[SOURCE_ISBN]={}
+[SPECIAL_HEADER]={}
+[SUBTITLE]={With Vacchagotta}
+[SUBTITLE2]={}
+[SUMMARY]={The Buddha uses the image of a fire to explain what carries a being over into its next rebirth.}
+[SUMMARY_SOURCE]={}
+[SURPRISE_ME]={}
+[SUTTA_NOTE]={}
+[TIPITAKA_BOOK]={}
+[TIPITAKA_BOOK_ABBREV]={}
+[TYPE]={sutta}
+
+End ATIDoc metadata dump. -->
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Random sutta 
+ Random article 
+ Abbreviations 
+ Glossary 
+ Index 
+ Help! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tipitaka 
+ 
+ Vinaya Pitaka 
+ Sutta Pitaka 
+ DN 
+ MN 
+ SN 
+ AN 
+ KN 
+ Khp 
+ Dhp 
+ Ud 
+ Iti 
+ Sn 
+ Abhidhamma 
+ 
+ 
+ 
+ 
+ Samyutta Nikaya 
+ SN 44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SN 44.9
+ PTS: S iv 398 
+ CDB ii 1392 
+ 
+ Kutuhalasala Sutta: With Vacchagotta 
+ 
+ translated from the Pali by Thanissaro Bhikkhu 
+ © 2004 
+ X The updated version is freely available at This version of the text might be out of date. Please click here for more information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Then Vacchagotta the wanderer went to the Blessed One and, on arrival, exchanged courteous greetings with him. After an exchange of friendly greetings & courtesies, he sat to one side. As he was sitting there, he said to the Blessed One, "Master Gotama, a few days ago a large number of contemplatives, brahmans, and wanderers of various sects were sitting together in the Debating Hall when this conversation arose among them: 'This Purana Kassapa — the leader of a community, the leader of a group, the teacher of a group, honored and famous, esteemed as holy by the mass of people — describes a disciple who has died and passed on in terms of places of rebirth: "That one is reborn there; that one is reborn there." Even when the disciple is an ultimate person, a foremost person, attained to the foremost attainment, Purana Kassapa describes him, when he has died and passed on, in terms of places of rebirth: "That one is reborn there; that one is reborn there." 
+ "'This Makkhali Gosala... This Nigantha Nataputta... This Sañjaya Velatthaputta... This Pakudha Kaccana... This Ajita Kesakambala — the leader of a community, the leader of a group, the teacher of a group, honored and famous, esteemed as holy by the mass of people — describes a disciple who has died and passed on in terms of places of rebirth: "That one is reborn there; that one is reborn there." Even when the disciple is an ultimate person, a foremost person, attained to the foremost attainment, Ajita Kesakambala describes him, when he has died and passed on, in terms of places of rebirth: "That one is reborn there; that one is reborn there." 
+ "This contemplative Gotama — the leader of a community, the leader of a group, the teacher of a group, honored and famous, esteemed as holy by the mass of people — describes a disciple who has died and passed on in terms of places of rebirth: "That one is reborn there; that one is reborn there." But when the disciple is an ultimate person, a foremost person, attained to the foremost attainment, Gotama the contemplative does not describe him, when he has died and passed on, in terms of places of rebirth: "That one is reborn there; that one is reborn there." Instead, he describes him thus: "He has cut through craving, severed the fetter, and by rightly breaking through conceit has made an end of suffering & stress."' 
+ "So I was simply befuddled. I was uncertain: How is the teaching of Gotama the contemplative to be understood?" 
+ "Of course you are befuddled, Vaccha. Of course you are uncertain. When there is a reason for befuddlement in you, uncertainty arises. I designate the rebirth of one who has sustenance, Vaccha, and not of one without sustenance. Just as a fire burns with sustenance and not without sustenance, even so I designate the rebirth of one who has sustenance and not of one without sustenance." 
+ "But, Master Gotama, at the moment a flame is being swept on by the wind and goes a far distance, what do you designate as its sustenance then?" 
+ "Vaccha, when a flame is being swept on by the wind and goes a far distance, I designate it as wind-sustained, for the wind is its sustenance at that time." 
+ "And at the moment when a being sets this body aside and is not yet reborn in another body, what do you designate as its sustenance then?" 
+ "Vaccha, when a being sets this body aside and is not yet reborn in another body, I designate it as craving-sustained, for craving is its sustenance at that time." 
+ 
+ 
+ See also: other suttas in the Avyakata Samyutta (and the translator's Introduction ); AN 4.42 . 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ ©2004 Thanissaro Bhikkhu. 
+ 
+ 
+ The text of this page ("Kutuhalasala Sutta: With Vacchagotta", by Thanissaro Bhikkhu) is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License . To view a copy of the license, visit https://creativecommons.org/licenses/by-nc/4.0/ . Documents linked from this page may be subject to other restrictions. 
+ Transcribed from a file provided by the translator. Last revised for Access to Insight on 30 November 2013. 
+ 
+ This Access to Insight edition is ©2004. 
+ -->
+ 
+ FAQ . -->
+ 
+ 
+ How to cite this document (a suggested style): "Kutuhalasala Sutta: With Vacchagotta" (SN 44.9), translated from the Pali by Thanissaro Bhikkhu. Access to Insight (BCBS Edition) , 30 November 2013, https://www.accesstoinsight.org/tipitaka/sn/sn44/sn44.009.than.html . 
+ 
+ 
+ 
+ 
+ Help 
+ | Site map 
+ | About 
+ | Contact 
+ | Terms of use 
+ Access to Insight is owned and managed by the Barre Center for Buddhist Studies 
+ 
+ 
+ 
+ 
+ 
+ 

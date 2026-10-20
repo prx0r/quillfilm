@@ -1,0 +1,250 @@
+import { create } from 'zustand';
+import { db } from '../db/manuscriptDb';
+import { inlineAssetImages, stripAssetImageData } from '../db/assetStore';
+import type { AISettings, Suggestion, Message, HistoryItem } from '../types';
+import * as secureStorage from '../services/secureStorage';
+import { DEFAULT_MODELS } from '../services/models';
+
+/** Only this many most-recent history items are persisted with inlined image bytes. */
+export const HISTORY_INLINE_LIMIT = 50;
+let historyPersistFailureLogged = false;
+
+const DEFAULT_AI_SETTINGS: AISettings = {
+  provider: 'local',
+  geminiApiKey: '',
+  openaiApiKey: '',
+  anthropicApiKey: '',
+  geminiModel: DEFAULT_MODELS.gemini,
+  openaiModel: DEFAULT_MODELS.openai,
+  anthropicModel: DEFAULT_MODELS.anthropic,
+  // Self-hosted build: "local" provider pointed at our Cloudflare Worker,
+  // which holds the OpenCode Go key server-side and proxies to
+  // https://opencode.ai/zen/go/v1. The browser never sees a real key, so
+  // localApiKey can stay empty. Endpoint includes /chat/completions so
+  // callLocalLLM uses it verbatim instead of probing LM Studio paths.
+  localBaseUrl: 'https://quill.agi.みんな/v1/chat/completions',
+  localApiKey: '',
+  localModel: 'longcat-2.5-preview-free',
+  // Large-context mode: no chunking, up to ~50k chars of attached sources in
+  // chat. This is what makes the video-idea packs work (WEAVE + resources
+  // attached verbatim). Small-chunk mode (2000) is for weak local models.
+  localChunkSize: 0,
+  // Gochema compiler law, baked as the chat agent's default system prompt.
+  // Project-agnostic (applies to every film); per-project facts come from
+  // attached pack sources, never from memory. User-editable in Settings.
+  customPrompts: {
+    'manuscript-ai': `You are the owner's script COMPILER for gochema essay-films (Buddhist reincarnation series + 13 tradition films). Compiler law — binding on every reply:
+1. You COMPILE, never author. The owner's words ([OWNER VERBATIM] / draft1) are immutable — never rephrase, smooth, or "improve" them. Suggest cuts with […] only.
+2. [READ — cite] lines are verbatim from the attached sources. If the manuscript's quote differs from the source by even a word, flag it EXACTLY (manuscript wording vs source wording) and propose the verbatim fix.
+3. Doctrines come from the teachers in their own words (quotes + clips). The narrator bridges, never paraphrases a position a teacher could state. If a bridge paragraph states doctrine, rewrite it as quote-setup + [READ], or flag it DRAFT.
+4. Never invent citations, numbers, Pali/Sanskrit terms, dates, or clip windows. If a manuscript claim has no attached-source backing, say SILENT and name which source should carry it.
+5. New narration you draft must be in the owner's register (short, dry, direct) and marked [DRAFT — owner to voice] so it never mixes with locked text.
+Cite evidence as file + quote ID (e.g. WEAVE M1, resources/05, quotes/sn12.015.than.txt).`,
+  },
+};
+
+const DEFAULT_WELCOME_MSG: Message = {
+  id: '1',
+  role: 'assistant',
+  content: "Welcome! I'm your AI Manuscript Manager. Click \"Analyze All\" to get feedback from our specialized agents — Language Surgeon, Reviewer 2, and Clarity & Impact — or chat with any agent individually.",
+  agent: 'manager',
+};
+
+interface AIState {
+  aiSettings: AISettings;
+  isAnalyzing: boolean;
+  suggestions: Suggestion[];
+  messages: Message[];
+  history: HistoryItem[];
+  analysisProgress: { agent: string; total: number; done: number } | null;
+
+  setAiSettings: (s: AISettings) => void;
+  setIsAnalyzing: (v: boolean) => void;
+  setAnalysisProgress: (p: AIState['analysisProgress']) => void;
+
+  addSuggestions: (newSuggestions: Suggestion[]) => void;
+  setSuggestions: (suggestions: Suggestion[]) => void;
+  removeSuggestion: (id: string) => void;
+  clearSuggestions: () => void;
+  updateSuggestion: (id: string, patch: Partial<Suggestion>) => void;
+
+  addMessage: (msg: Message) => void;
+  setMessages: (msgs: Message[]) => void;
+  updateMessageSuggestions: (removedId: string) => void;
+
+  addHistoryItem: (item: HistoryItem) => void;
+  removeHistoryItem: (id: string) => void;
+  setHistory: (items: HistoryItem[]) => void;
+
+  /** Load from Dexie, migrating from localforage if needed. */
+  initialize: () => Promise<void>;
+
+  persistSuggestions: () => Promise<void>;
+  persistMessages: () => Promise<void>;
+  persistHistory: () => Promise<void>;
+}
+
+export const useAIStore = create<AIState>((set, get) => ({
+  aiSettings: DEFAULT_AI_SETTINGS,
+  isAnalyzing: false,
+  suggestions: [],
+  messages: [DEFAULT_WELCOME_MSG],
+  history: [],
+  analysisProgress: null,
+
+  setAiSettings: (aiSettings) => set({ aiSettings }),
+  setIsAnalyzing: (isAnalyzing) => set({ isAnalyzing }),
+  setAnalysisProgress: (analysisProgress) => set({ analysisProgress }),
+
+  addSuggestions: (newSuggestions) => set((state) => ({
+    suggestions: [...state.suggestions, ...newSuggestions].sort((a, b) => a.startIndex - b.startIndex),
+  })),
+  setSuggestions: (suggestions) => set({ suggestions }),
+  removeSuggestion: (id) => set((state) => ({
+    suggestions: state.suggestions.filter(s => s.id !== id),
+    messages: state.messages.map(msg => ({
+      ...msg,
+      suggestions: msg.suggestions?.filter(s => s.id !== id),
+    })),
+  })),
+  clearSuggestions: () => set((state) => ({
+    suggestions: [],
+    messages: state.messages.map(msg => ({ ...msg, suggestions: [] })),
+  })),
+  updateSuggestion: (id, patch) => set((state) => ({
+    suggestions: state.suggestions.map(s => s.id === id ? { ...s, ...patch } : s),
+  })),
+
+  addMessage: (msg) => set((state) => ({ messages: [...state.messages, msg] })),
+  setMessages: (messages) => set({ messages }),
+  updateMessageSuggestions: (removedId) => set((state) => ({
+    messages: state.messages.map(msg => ({
+      ...msg,
+      suggestions: msg.suggestions?.filter(s => s.id !== removedId),
+    })),
+  })),
+
+  addHistoryItem: (item) => set((state) => ({ history: [...state.history, item] })),
+  removeHistoryItem: (id) => set((state) => ({ history: state.history.filter(h => h.id !== id) })),
+  setHistory: (history) => set({ history }),
+
+  initialize: async () => {
+    try {
+      // One-time migration from localStorage → encrypted Electron store
+      await secureStorage.migrateFromLocalStorage('manuscript-ai-settings');
+      // Load AI settings from secure storage (encrypted in Electron, localStorage in browser)
+      const settingsJson = await secureStorage.getItem('manuscript-ai-settings');
+      if (settingsJson) {
+        try {
+          const saved = JSON.parse(settingsJson);
+          set({ aiSettings: { ...DEFAULT_AI_SETTINGS, ...saved } });
+        } catch {}
+      }
+
+      // Load suggestions from Dexie
+      const suggestions = await db.suggestions.toArray();
+      if (suggestions.length > 0) {
+        set({ suggestions: suggestions.sort((a, b) => a.startIndex - b.startIndex) });
+      }
+
+      // Load messages from Dexie
+      const chatRows = await db.chatHistory.orderBy('order').toArray();
+      if (chatRows.length > 0) {
+        set({ messages: chatRows.map(r => r.message) });
+      }
+
+      // Load history from Dexie
+      const histItems = await db.historyItems.orderBy('timestamp').toArray();
+      if (histItems.length > 0) {
+        set({ history: histItems });
+      }
+
+      // Try migrating from legacy localforage
+      if (suggestions.length === 0 && chatRows.length === 0) {
+        const localforage = await import('localforage');
+        const data: any = await localforage.default.getItem('manuscript-ai-editor-autosave');
+        if (data) {
+          if (data.suggestions?.length) {
+            set({ suggestions: data.suggestions });
+            await get().persistSuggestions();
+          }
+          if (data.messages?.length) {
+            set({ messages: data.messages });
+            await get().persistMessages();
+          }
+          if (data.history?.length) {
+            set({ history: data.history });
+            await get().persistHistory();
+          }
+          if (data.aiSettings) {
+            const merged = { ...DEFAULT_AI_SETTINGS, ...data.aiSettings };
+            set({ aiSettings: merged });
+            await secureStorage.setItem('manuscript-ai-settings', JSON.stringify(merged));
+          }
+        }
+      }
+    } catch (err) {
+      console.error('AIStore.initialize failed:', err);
+    }
+  },
+
+  persistSuggestions: async () => {
+    const { suggestions } = get();
+    await db.suggestions.clear();
+    if (suggestions.length > 0) await db.suggestions.bulkPut(suggestions);
+  },
+
+  persistMessages: async () => {
+    const { messages } = get();
+    await db.chatHistory.clear();
+    if (messages.length > 0) {
+      await db.chatHistory.bulkPut(
+        messages.map((message, order) => ({ id: message.id, message, order }))
+      );
+    }
+  },
+
+  persistHistory: async () => {
+    const { history } = get();
+    // History snapshots are editor HTML: after a reload their images are session blob: URLs that die
+    // with the tab. The most recent HISTORY_INLINE_LIMIT items are persisted self-contained (data: URLs)
+    // so "revert" works in a later session; older items are persisted without image bytes (asset ids
+    // only) so storage does not grow without bound.
+    const cutoff = Math.max(0, history.length - HISTORY_INLINE_LIMIT);
+    const replaced = new Map<HistoryItem, HistoryItem>();
+    const stored: HistoryItem[] = [];
+    for (let i = 0; i < history.length; i++) {
+      const h = history[i];
+      if (i < cutoff) {
+        const oldContent = stripAssetImageData(h.oldContent);
+        const newContent = stripAssetImageData(h.newContent);
+        stored.push(oldContent === h.oldContent && newContent === h.newContent ? h : { ...h, oldContent, newContent });
+        continue;
+      }
+      const [oldContent, newContent] = await Promise.all([inlineAssetImages(h.oldContent), inlineAssetImages(h.newContent)]);
+      if (oldContent === h.oldContent && newContent === h.newContent) {
+        stored.push(h);
+        continue;
+      }
+      const next = { ...h, oldContent, newContent };
+      replaced.set(h, next);
+      stored.push(next);
+    }
+    // Keep the inlined copies in memory too, so each item is converted once (identity check skips
+    // items that were replaced or removed meanwhile).
+    if (replaced.size) set(s => ({ history: s.history.map(h => replaced.get(h) ?? h) }));
+    try {
+      // One transaction: if the write fails (e.g. QuotaExceededError) it rolls back and the previously
+      // stored history stays intact instead of the table being left empty.
+      await db.transaction('rw', db.historyItems, async () => {
+        await db.historyItems.clear();
+        if (stored.length > 0) await db.historyItems.bulkPut(stored);
+      });
+    } catch (err) {
+      if (!historyPersistFailureLogged) {
+        historyPersistFailureLogged = true;
+        console.error('Could not persist suggestion history; keeping the previously stored copy:', err);
+      }
+    }
+  },
+}));

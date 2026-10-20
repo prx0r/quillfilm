@@ -1,0 +1,411 @@
+                            I. Static Aspect
+1.      Let o represent a thing.a
+
+2.       If we wish to represent another thing, not o, we must represent
+it by another symbol; for we cannot distinguish between o and o
+except by the fact of their being spatially separated, left and right, on
+this page; and since this is a representation, not of a structure in space
+(i.e. of a spatial object), but of the structure of space (amongst other
+things), which structure is not itself spatial, such spatial distinctions in
+the representation must not be taken into account.b Thus, whether we
+write o once or a hundred times still only one thing is represented.
+
+3.      Let us, then, represent a thing other than o by x. (We are con-
+cerned to represent only the framework within which things exist, that
+is to say the possibility of the existence of things; consequently it does
+not matter whether there are in fact things—it is enough that there
+could be. But the actual existence of things is indispensable evidence
+that they can exist; and when there actually is a given thing o, there
+actually are, also, other things.)c We now have two things, o and x.
+
+     a.    An existing thing is an experience (in German: Erlebnis), either
+present or (in some degree) absent (i.e. either immediately or more or less
+remotely present). See Nàma & Råpa.
+     b.    See Råpa [e], where it is shown that space is a secondary, not a
+primary, quality.
+       c.    All this, of course, is tautologous; for ‘to be a thing’ means ‘to be
+able to be or exist’, and there is no thing that cannot exist. And if anything
+exists, everything else does (see (a) above). Compare this utterance of
+Parmenides: ‘It needs must be that what can be thought of and spoken of is;
+for it is possible for it to be, and it is not possible for what is no thing to be’.
+(Parmenides seems to have drawn excessive conclusions from this principle
+through ignoring the fact that a thought is an imaginary, and therefore
+absent, experience—or rather, a complex of absent experiences—; but the
+principle itself is sound. The images involved in thinking must, individually
+at least [though not necessarily in association], already in some sense be
+given—i.e. as what is elsewhere, or at some other time, or both—at the
+immediate level, before they can be thought. Perhaps the method of this
+Note will suggest a reconciliation between the Parmenidean absolute denial
+of the existence of no thing, with its corollary, the absolute existence of
+whatever does exist, and the merely relative existence of every thing as
+implied by the undeniable fact of change.)
+
+                                                                               107
+                         fundamental structure I
+
+4.       We are, however, still unable to distinguish them; for, since
+spatial distinctions are to be disregarded, we cannot tell which is the
+original thing, o or x. Experience shows us that when we are conscious
+of one thing we are not also equally conscious of another thing; or,
+better, it can always be observed (by reflexion) that two (different)
+experiences are not both the centre of consciousness at the same time.
+The difference between two things is, ultimately, their order of
+priority—one is ‘this’ and the other is ‘that’—, and this difference we
+represent by a difference in shape; for if two things are identical in all
+qualitative respects, have all their properties in common (including
+position if they are tactile things—and it must be remembered that
+the eye, since it is muscular, is also an organ of touch, giving percep-
+tions of space and shape as well as of colour and light),d no priority is
+evident, and there are not two things, but only one; and thus differ-
+ence in priority can be represented by difference of qualitative prop-
+erty. But difference in shape alone only tells us that if one of them is
+‘this’ the other is ‘that’—it does not tell us which is ‘this’.e
+
+5.      We have, then, to distinguish between first and second, or one
+and two. At first sight this seems easy—one is obviously o and two is
+o x. But since it makes no difference where we write these symbols
+(spatial distinctions being of no account), we cannot be sure that they
+will not group themselves o o and x. Since o and o are only one thing,
+namely o, we are back where we started.
+
+6.      To say that o and o are only one thing is to say that there is no
+difference between them; and to say that o and x are two things is to
+say that there is a difference between them (no matter which pre-
+cedes). In other words, two things define a thing, namely the differ-
+ence between them. And the difference between them, clearly, is what
+has to be done to pass from one to the other, or the operation of trans-
+
+      d.   Strictly, we should not go from muscles to spatial perceptions.
+Spatial perceptions come first; then we observe that whenever there are
+spatial perceptions a muscular organ can be found; finally we conclude that
+a muscular organ is very probably a condition for spatial perceptions. See
+Phassa & Råpa.
+      e.   McTaggart, I discover, (op. cit. §45) bases his version of funda-
+mental structure on a twofold direct appeal to experience: first, that some-
+thing exists, and secondly, that more than one thing exists. But this is not
+enough: it is essential also to see that, of two things, in so far as they are
+two, one is ‘this’ and one is ‘that’.
+
+108
+                         fundamental structure I
+
+forming one into the other (that is, of interchanging them). A little
+thought will show that this operation is invariant during the transfor-
+mation (a ‘journey from A to B’—to give a rough illustration—
+remains unchanged as a ‘journey from A to B’ at all stages of the jour-
+ney), and also that the operation is a thing of a higher or more general
+order than either of the two things that define it (a ‘journey from A to
+B’ is more general than either ‘being in A’ or ‘being in B’ since it
+embraces both: a ‘journey from A to B’ may be defined as the operation
+of transforming ‘being in A’ into ‘being in B’ and ‘not being in B’ into
+‘not being in A’). Each of these two things, furthermore, is itself an
+operation of the same nature, but of a lower or more particular order
+(a ‘journey from one part of A [or B] to another’ is ‘being in A [or B]’,
+just as a ‘journey from A to B’ is ‘being in Z’, where A and B are adja-
+cent towns and Z is the province containing them). But we must get
+back to our noughts and crosses.
+
+7.     Since o o is one, and o x is two (though the order of prece-
+dence between o and x is not determined), it is evident that we can
+use these two pairs to distinguish between first and second. In what-
+ever way the four symbols, o, o, o, and x, may pair off, the result is the
+same (and it makes no difference whether o o is regarded as one thing
+and o x as two things, or, as in the last paragraph, o o is regarded as
+no operation and o x as one operation—nought precedes one as one
+precedes two). We have only to write down these four symbols (in any
+pattern we please) to represent ‘two things, o and x, o preceding x’.
+
+8.      As these four symbols pair off, we get two distinguishable
+things, o o and o x (which are ‘o first’ and ‘x second’). These two
+things themselves define an operation—that of transforming o o into
+o x and o x into o o. This operation is itself a thing, which we may
+write, purely for the sake of convenience, thus: oo ox .
+
+9.      It will readily be seen that if oo ox is a thing, then another thing, not
+o o , will be represented by x x ; for if we take o o as ‘o precedes x’, then we
+ox                           xo                   ox
+must take xx xo as ‘x precedes o’. But we do not know which comes first,
+o o or x x . By repetition of the earlier discussion, we see that we must
+ox      xo
+take three of one and one of the other to indicate precedence; and in
+this way we arrive at a fresh thing (of greater complexity) represented
+
+                                                                            109
+                          fundamental structure I
+
+      oooo
+by oo xo ox xx . Here it is clear that though in the fourth quarter, xx xo , x pre-
+      oxxo
+cedes o, yet the first quarter, oo ox , precedes the fourth quarter. So in the
+whole we must say ‘o precedes x first, and then x precedes o’.
+
+10.     Obviously we can represent the negative of this fresh thing by
+xxxx
+x o x o , and repeat the whole procedure to arrive at a thing of still
+xxoo
+xoox
+greater complexity; and there is no limit to the number of times that
+we can do this.
+
+11.     In §7 we said that in whatever way the four symbols, o, o, o,
+and x, may pair off, the result is the same. In how many ways can they
+pair off? To find out we must number them. But a difficulty arises. So
+long as we had the four symbols written down anywhere, the objection
+that we were using spatial distinctions to distinguish one o from
+another did not arise (and in §8 we noted that we chose to write them
+o o purely for convenience’ sake). Once we number them (1, 2, 3, 4),
+ox
+however, the objection becomes valid; for the only distinction
+between o1 and o2 and o3 —apart from the numbers attached to
+them—is their relative spatial positioning on this page. But at least we
+know this, that oo ox represents ‘o precedes x’; and so it follows that,
+even if we cannot distinguish between the first three, x comes fourth.
+In any way, then, in which we happen to write down these four sym-
+bols, x marks the fourth place. (If, for example, we had written them o
+x o o, the symbol x would still mark the fourth place.) And if x comes
+in the fourth place in the first place, it will come in the first place in
+the fourth place. This means that we can choose the first place at our
+convenience (only the fourth place being already fixed) and mark it
+with ‘x in the fourth place’, i.e. oo ox . With the fourth place determined,
+we are left with a choice of three possible arrangements:
+o1o           oo
+ox            o1x
+      xo,     o4x , o o o o . Note that we must adjust the position of x in
+      o4o     o o o1x x4o
+the fourth tetrad to come in whichever place we choose as the first. Let
+us (again purely for convenience’ sake) choose the first of these three
+possibilities. It is clear that if x comes in the fourth place in the first
+place and in the first place in the fourth place, it will come in the third
+
+110
+                                 fundamental structure I
+
+place in the second place and in the second place in the third place. So
+                                     o1o o o
+now we can complete the scheme thus: oo xx xx oo . But although we can
+                                     o o o4o
+now distinguish between the second place and the third place, we
+cannot tell which of the two, ox oo or oo xo , is the second and which the
+third: all we can say is that if one of them is the second the other is the
+third. This, as we shall see, is all that is necessary. Let us refer to them,
+                                              o1o o2/3o
+for convenience, as 2/3 and 3/2, so: oo xx xx oo .
+                                               3/2
+                                              o o o4o
+Replacing the symbols by numbers, we finally have this:
+
+1     2/3 2/3        1
+      1        2/3
+3/2       44    3/2 (the figure is enlarged to accommodate the numerals).
+3/2       44    3/2
+    3/2        4
+1     2/3 2/3        1
+
+
+12.       In this way the four symbols, o, o, o, and x, when written oo ox , can
+             1           2/3
+be numbered 3/2 4 ; and we see that pairing off can be done in three
+ways: [1 – 2/3] [3/2 – 4], [1 – 3/2] [2/3 – 4], and [1 – 4] [2/3 – 3/2].
+These may be understood as the operations, respectively, (i) of inter-
+                 1
+changing column 3/2 with column 24/3 , (ii) of interchanging row 1 2/3
+
+with row 3/2 4 , and (iii) of doing both (i) and (ii) in either order
+and therefore both together (this really means that the three opera-
+tions are mutually independent, do not obstruct one another, and can
+all proceed at once).f And these, when set out in full—first the origi-
+                 1             2/3
+nal arrangement 3/2 4 (which may be taken as the zero operation of
+no interchange), and then the results of the other three operations,
+2/3 1    3/2 4        4 3/2
+ 4 3/2 , 1 2/3 , and 2/3 1 —, make up the figure at the end of the
+
+      f.     If we describe the three operations as ‘horizontal interchange’,
+‘vertical interchange’, and ‘diagonal interchange’, it will readily be seen that
+any one of the three is equivalent to the other two done together. And since
+each is both the other two, it is not either of them.
+
+                                                                           111
+                          fundamental structure I
+
+last paragraph. It is easily seen that no question of priority between
+2/3 and 3/2 arises.
+13.     We have found that a thing can be represented, in increasing com-
+                                              oooo
+plexity of structure, as follows: o, oo ox , oo xo ox xx , and so on, indefinitely.
+                                              oxxo
+The first of these, o, clearly does not allow of further discussion; but
+the second, oo ox , as will be seen from what has gone before, can be re-
+garded as a combination, or rather superposition, of four operations:
+no interchange, interchange of columns oo ox ox oo , interchange of rows
+o o o x , and interchange of columns and rows together o o x o ; the
+ox oo                                                        ox oo
+                             oooo
+whole being represented so: oo xx xx oo . A thing represented by oo ox , that
+                             oooo
+is to say, consists of four members, one of which corresponds to each
+of the four operations. As we go to greater complexity and consider a
+                         oooo
+thing represented by oo xo ox xx , we find that the following operations are
+                         oxxo
+superposed: no interchange; interchange of column 1 with column 2
+and of column 3 with column 4; similar interchange of rows; inter-
+change of column 1-&-2 with column 3-&-4; similar interchange of
+rows; and any or all of these together. The total is sixteen; and the
+whole representation is given below (the numbers are not necessary
+but are given for clarity’s sake, with 2/3 just as 2 and 3/2 as 3 and cor-
+responding simplifications in the other numbers).
+
+                   OO O O OO O O OO O O OO O O
+                   OX OX X O X O OX OX X O X O
+                      1       2      5       6
+                   OO X X OO X X X X O O X X O O
+                   OX X O X O OX X O OX OX X O
+                   OX OX X O X O OX OX X O X O
+                   OO O O OO O O OO O O OO O O
+                      3      4       7       8
+                   OX X O X O OX X O OX OX X O
+                   OO X X OO X X X X O O X X O O
+                   OO X X OO X X X X O O X X O O
+                   OX X O X O OX X O OX OX X O
+                     9       10     13      14
+                   OO O O OO O O OO O O OO O O
+                   OX OX X O X O OX OX X O X O
+                   OX X O X O OX X O OX OX X O
+                   OO X X OO X X X X O O X X O O
+                     11      12     15      16
+                   OX OX X O X O OX OX X O X O
+                   OO O O OO O O OO O O OO O O
+
+112
+                        fundamental structure I
+
+Here we have sixteen members, one corresponding to each operation
+(as before). If we go to still more complex representations of a thing
+(as indicated in §10) we shall get 64 members, and then 256 mem-
+bers, and so on, indefinitely. Note that any of these representations
+can—more strictly, though less conveniently—be written in one line,
+in which case there are no columns-and-rows; and we are then con-
+cerned throughout only with interchanges of symbols—singly and in
+pairs, in pairs of pairs and in pairs of pairs of pairs, and so on. (This,
+incidentally, throws light on the structure of a line; for we are taking
+advantage of the structure of a line to represent structure in general.
+The structure of the line—or, more exactly, of length—is seen when
+we superpose all the members of the representation.)
+
+14.     It is a characteristic of all these representations that the opera-
+tion of transforming any given member into any other member of the
+set transforms every member of the set into another member of the
+same set. The whole, then, is invariant under transformation. Atten-
+tion, in other words, can shift from one aspect of a thing to another
+while the thing as a whole remains absolutely unchanged. (This uni-
+versal property of a thing is so much taken for granted that a struc-
+tural reason for it—or rather, the possibility of representing it
+symbolically—is rarely suspected.) See Cetanà (Husserl’s cube).
+
+15.     Representations of a thing in greater complexity than the 4-
+member figure show the structure of successive orders of reflexion (or,
+more strictly, of pre-reflexion—see Dhamma [b]). Thus, with 16-members
+we represent the fundamental structure of the fundamental structure
+of a thing, in other words the structure of first-order reflexion;
+whereas with four members we have simply first-order reflexion or
+the structure of the immediate thing. (In first-order reflexion, the
+immediate thing is merely an example of a thing: it is, as it were, ‘in
+brackets’. In second-order reflexion—the 16-member figure—, first-
+order reflexion is ‘in brackets’ as an example of fundamental struc-
+ture.) In the 16-member representation, any two of the other 15-mem-
+bers of the set together with a given member uniquely define a tetrad
+with the structure of the 4-member representation; and any such tet-
+rad uniquely defines three other tetrads such that the four tetrads
+together form a tetrad of tetrads, and this again with the same struc-
+ture. From this it can be seen that the structure of the structure of a
+thing is the same as the structure of a thing, or more generally that the
+structure of structure has the structure of structure.g The 16-member
+
+                                                                      113
+                           fundamental structure I
+
+representation gives the fundamental structure of first-order reflexion,
+just as 4-members represent the fundamental structure of immediacy,
+and the single member (o) represents simply immediacy, the thing.
+16.      The same structure, naturally, is repeated at each level of gen-
+erality, as will be evident from the numbers in the figure at the end of
+§11. The whole (either at the immediate or at any reflexive level)
+forms a hierarchy infinite in both directionsh (thus disposing, inciden-
+tally, of the current assumptions of absolute smallness—the electron—
+in quantum physics, and absolute largeness—the universe—in astro-
+nomical physics).i It will also be evident that successive orders of
+reflexion generate a hierarchy that is infinite, though in one direction
+only (perpendicular, as it were, to the doubly infinite particular-and-
+general hierarchy).
+17.     The foregoing discussion attempts to indicate in the barest
+possible outline the nature of fundamental structure in its static
+aspect. Discussion of the dynamic aspect must deal with the structure
+of duration, and will go on to distinguish past, present, and future, at
+
+      g.     There is an old axiom: Quidquid cognoscitur, per modum cognos-
+centis cognoscitur—Whatever is known, is known in the mode of the
+knower. This would imply that, if the mode (or structure) of immediate
+experience were different from that of reflexive experience, it would be sys-
+tematically falsified in the very act of being known. A further act of reflexion
+would then be necessary to reveal the falsification. And this, in turn, would
+involve a further falsification, requiring yet a further act of reflexion. And so on
+indefinitely, with no end to the falsification; and fundamental structure (if
+any) would never be knowable. But we now see that the modes of immedi-
+ate and of reflexive experience are the same, and consequently that any fur-
+ther act of reflexion can only confirm the original reflexive evidence, which
+is therefore apodictic. Fundamental structure guarantees reflexive know-
+ledge of it.
+      h.     The structure of the immediate hierarchy, based on o          o
+                                                                         o x , comes
+into view when the operations of interchange of §12 are themselves sub-
+                                                                        oooo
+jected to these operations. The original operations are given by o        xxo
+                                                                        o x x o , and
+                                                                        oooo
+                              oooo oooo
+                              oxxo xoox
+                              oxxo xoox
+we operate on this to get o     ooo oooo
+                              o x x o x o o x ; and, clearly, we can continue in-
+                              oooo oooo
+                              oooo oooo
+                              oxxo xoox
+definitely. Similarly for the hierarchies of each level of reflexive experience.
+
+114
+                           fundamental structure I
+
+any time, as over-determined, determined, and under-determined,
+respectively. The way will then be open for discussion of intention,
+action, and choice, and the teleological nature of experience generally.
+
+
+
+
+       i.     It is evident, in practice, that limits are encountered. There is, for
+example, a limit to the degree of smallness that can be distinguished. The
+reason for this is to be looked for on the volitional level. In order for a thing to
+be distinguished (or isolated) it must be observable at leisure, and this is a
+voluntary reflexive capacity. Beyond a certain degree of smallness this capa-
+city fails. The smallest thing that can be distinguished has a certain appreci-
+able size, but the visual (tactile) oscillations can no longer be controlled
+reflexively so that one part may be distinguishable from another part. And
+conversely, above a certain degree of largeness it is not possible to pass from
+one part to another at will, so as to appreciate the whole. Similar consider-
+ations will apply to perceptions other than size. The range of voluntary
+reflexion is not dictated by fundamental structure and varies (we may pre-
+sume) from individual to individual, and particularly from individuals of one
+species to those of another. The ranges of an elephant and of an ant, at least
+as regards spatial perceptions, will scarcely overlap at all.
+       The existence of such limits can easily be demonstrated by an artificial
+device. If a cinematograph film is projected slowly enough, we perceive a
+series of stills, each of which we can examine individually. When the projec-
+tion is speeded up, this examination becomes more difficult, and the series
+of stills is seen as a flicker. Then, at a certain point, the flickering ceases and
+we see simply a single (moving) picture. If, on the other hand, the projec-
+tion is slowed down instead of speeded up, there comes a point past which
+the individual stills are no longer grasped as forming part of a series, and
+the unity of the film as a whole is lost.
+
+                                                                               115

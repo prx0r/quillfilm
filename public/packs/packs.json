@@ -1,0 +1,684 @@
+{
+  "packs": [
+    {
+      "slug": "daimon",
+      "title": "Daimon Companion (seed film)",
+      "blurb": "Source essay + 102-shot storyboard + narration + alignment/integrity reports from the volume build.",
+      "manuscripts": [
+        {
+          "file": "SOURCE.md",
+          "title": "SOURCE"
+        },
+        {
+          "file": "STORYBOARD.md",
+          "title": "STORYBOARD"
+        }
+      ],
+      "sources": [
+        "text-audio.txt",
+        "text-concat.txt",
+        "text-narration_script.txt"
+      ]
+    },
+    {
+      "slug": "dependent-origination",
+      "title": "Dependent Origination",
+      "blurb": "Source + structure. The engine room film (v2 spine).",
+      "manuscripts": [
+        {
+          "file": "SOURCE.md",
+          "title": "SOURCE"
+        },
+        {
+          "file": "STRUCTURE.md",
+          "title": "STRUCTURE"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "devas-real",
+      "title": "Are Devas Real?",
+      "blurb": "NEW: what is a deva, is it an angel (six negations), Brahmali seat, Upton pick. Library extracts D1-D5 banked; Wikipedia/DN11/clip to acquire.",
+      "manuscripts": [
+        {
+          "file": "STRUCTURE.md",
+          "title": "STRUCTURE"
+        }
+      ],
+      "sources": [
+        "ACQUIRE.md",
+        "WEAVE.md",
+        "quotes-film13-realm.txt",
+        "quotes-hh-235-deva.txt",
+        "quotes-hh-364-deva.txt",
+        "quotes-potter-abhidharma-deva.txt",
+        "quotes-tor-deva.txt"
+      ]
+    },
+    {
+      "slug": "film-astral-archons",
+      "title": "The Toll Booth",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        }
+      ],
+      "sources": [
+        "13-astral-archons.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "film-channeled",
+      "title": "All Your Lives Are Now",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        }
+      ],
+      "sources": [
+        "12-channeled.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "film-daoist",
+      "title": "Death by Appointment",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        }
+      ],
+      "sources": [
+        "09-daoist.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "film-egyptian",
+      "title": "Heart Against a Feather",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        }
+      ],
+      "sources": [
+        "05-egyptian.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "film-gnostic",
+      "title": "Light Wearing Meat",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        }
+      ],
+      "sources": [
+        "07-gnostic-origen.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "film-greek",
+      "title": "Practising Dying",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        }
+      ],
+      "sources": [
+        "03-greek.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "film-hindu",
+      "title": "Change of Clothes",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        }
+      ],
+      "sources": [
+        "01-hindu.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "film-jain",
+      "title": "The Dust That Sticks",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        }
+      ],
+      "sources": [
+        "02-jain.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "film-jewish",
+      "title": "A Hair From Dough",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        }
+      ],
+      "sources": [
+        "06-jewish.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "film-orthodox-christian",
+      "title": "In the Twinkling of an Eye",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        }
+      ],
+      "sources": [
+        "08-orthodox-christian.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "film-saiva",
+      "title": "Recognition, Not Rebirth",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "STORYBOARD.md",
+          "title": "STORYBOARD"
+        },
+        {
+          "file": "STRUCTURE.md",
+          "title": "STRUCTURE"
+        }
+      ],
+      "sources": [
+        "11-saiva.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "film-yoruba",
+      "title": "You Chose Your Head",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        }
+      ],
+      "sources": [
+        "10-yoruba.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "film-zoroastrian",
+      "title": "The Bridge That Narrows",
+      "blurb": "Tradition film: core + movie spec with beats, cinematography, READ list.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        }
+      ],
+      "sources": [
+        "04-zoroastrian.md",
+        "CINEMA.md",
+        "CLOSE.md",
+        "FRAME.md",
+        "ONTOLOGY.md",
+        "STRUCTURE.md",
+        "TITLES.md",
+        "VISUAL-GRAMMAR.md",
+        "WEAVE-GLOBAL.md"
+      ]
+    },
+    {
+      "slug": "fire-simile",
+      "title": "Fire Simile",
+      "blurb": "v1 reading + v2 analysis + source texts. The extinction-mechanism film.",
+      "manuscripts": [
+        {
+          "file": "VIDEO.md",
+          "title": "VIDEO"
+        }
+      ],
+      "sources": [
+        "text-SOURCE-RAW.txt",
+        "text-SOURCE-TEXT.txt"
+      ]
+    },
+    {
+      "slug": "fundamental-structure",
+      "title": "Fundamental Structure (Nanavira)",
+      "blurb": "fs extracts + structure + video spec. Time-doctrine material for the rebirth ch.9.",
+      "manuscripts": [
+        {
+          "file": "STRUCTURE.md",
+          "title": "STRUCTURE"
+        },
+        {
+          "file": "VIDEO.md",
+          "title": "VIDEO"
+        }
+      ],
+      "sources": [
+        "text-fs-TIME-PASSAGES.txt",
+        "text-fs-dynamic.txt",
+        "text-fs-static.txt"
+      ]
+    },
+    {
+      "slug": "guru-finds-you",
+      "title": "What If the Guru Doesn't Find You?",
+      "blurb": "NEW: Theosophy origin (1914, NOT Buddhist), Nachiketa/Yama, Eklavya counter-case, Osho/Buddhist-Voice interpretations. Owner cold-open + close to write.",
+      "manuscripts": [
+        {
+          "file": "STRUCTURE.md",
+          "title": "STRUCTURE"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "karma",
+      "title": "Why Karma Governs Your Life",
+      "blurb": "NEW — owner brief locked: unfairness-first, rebirth-domino, habits bridge, fractal ladder, practice. 8 quote extracts banked.",
+      "manuscripts": [
+        {
+          "file": "STRUCTURE.md",
+          "title": "STRUCTURE"
+        },
+        {
+          "file": "draft1.md",
+          "title": "draft1"
+        }
+      ],
+      "sources": [
+        "ACQUIRE.md",
+        "JOURNEY.md",
+        "MOTHER-OBJECTIONS.md",
+        "TAKES.md",
+        "WEAVE.md",
+        "quotes-karma-ajita.txt",
+        "quotes-karma-an5161-ownership.txt",
+        "quotes-karma-anamatagga-roles.txt",
+        "quotes-karma-burley-abstract.txt",
+        "quotes-karma-continuum.txt",
+        "quotes-karma-field-seed.txt",
+        "quotes-karma-garland-drum.txt",
+        "quotes-karma-habit-wood.txt",
+        "quotes-karma-intention-iskamma.txt",
+        "quotes-karma-mn135-owners.txt",
+        "quotes-karma-reeds-satta.txt",
+        "quotes-karma-sivaka-noteverything.txt",
+        "quotes-karma-sn1267-reeds.txt",
+        "quotes-karma-sn23-satta.txt",
+        "quotes-karma-sunbeam.txt",
+        "quotes-karma-tears.txt",
+        "quotes-karma-unconjecturable.txt",
+        "quotes-karma-wager.txt"
+      ]
+    },
+    {
+      "slug": "prayer",
+      "title": "What Actually Happens When You Pray",
+      "blurb": "NEW — scaffold v0.1: tour of takes (nembutsu + Saiva japa banked, 6 stops to acquire). Structure + WEAVE + acquire list.",
+      "manuscripts": [
+        {
+          "file": "STRUCTURE.md",
+          "title": "STRUCTURE"
+        }
+      ],
+      "sources": [
+        "ACQUIRE.md",
+        "WEAVE.md",
+        "quotes-paramarthasara-78.txt",
+        "quotes-tantrasara-japa.txt"
+      ]
+    },
+    {
+      "slug": "rebirth",
+      "title": "Buddhist Reincarnation, Actually Explained",
+      "blurb": "30-min magnum cut: v1.2 script, storyboard, draft1 + WEAVE quote bank, 13 school resources, sutta extracts.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "STORYBOARD.md",
+          "title": "STORYBOARD"
+        },
+        {
+          "file": "draft1.md",
+          "title": "draft1"
+        }
+      ],
+      "sources": [
+        "WEAVE.md",
+        "quotes-mn.038.than.txt",
+        "quotes-mn.072.than.txt",
+        "quotes-sn12.015.than.txt",
+        "quotes-sn22.085.than.txt",
+        "quotes-sn22.086.than.txt",
+        "quotes-sn44.009.than.txt",
+        "resources-01-tibetan.md",
+        "resources-02-yogacara.md",
+        "resources-03-theravada.md",
+        "resources-04-thai-forest.md",
+        "resources-05-early-buddhism.md",
+        "resources-06-pure-land.md",
+        "resources-07-madhyamaka.md",
+        "resources-08-shared-ontology.md",
+        "resources-09-time-doctrine.md",
+        "resources-10-v2-stream-entry.md",
+        "resources-11-v3-nirvana.md",
+        "resources-12-anchor-map.md",
+        "resources-13-dharmakirti-and-goats.md"
+      ]
+    },
+    {
+      "slug": "shamatha",
+      "title": "How to Actually Achieve Shamatha",
+      "blurb": "SUPER-LONG: elephant pathway (Wallace), shamatha before vipassana, tradition definitions, nine stages, daily life vs monastery.",
+      "manuscripts": [
+        {
+          "file": "STRUCTURE.md",
+          "title": "STRUCTURE"
+        }
+      ],
+      "sources": [
+        "ACQUIRE.md",
+        "WEAVE.md",
+        "quotes-hh-229-calming.txt",
+        "quotes-hh-38-samatha-mention.txt",
+        "quotes-hh-407-anapanasati.txt"
+      ]
+    },
+    {
+      "slug": "special-enter-another-body",
+      "title": "Enter Another Body At Will (special)",
+      "blurb": "Voluntary transfer across 8 traditions: Saiva paradehapravesa + ibbur/dybbuk + phowa + Varanasi.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "special-gateway",
+      "title": "How to Leave Your Body (gateway special)",
+      "blurb": "Lineage canon: filter to Bergson to Monroe to Campbell + Saiva/Tibetan metaphysics verdict.",
+      "manuscripts": [
+        {
+          "file": "SPEC.md",
+          "title": "SPEC"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "transmission",
+      "title": "What Actually Is Transmission?",
+      "blurb": "NEW: diksha/Tibetan/wang under the hood. Paramarthasara banked (5 extracts), Dyczkowski/Lakshmanjoo insight. ACQUIRE: Dyczkowski clip, Tibetan sources.",
+      "manuscripts": [
+        {
+          "file": "STRUCTURE.md",
+          "title": "STRUCTURE"
+        }
+      ],
+      "sources": [
+        "quotes-dyczkowski-lakshmanjoo-insight.txt",
+        "quotes-paramarthasara-initiation.txt"
+      ]
+    },
+    {
+      "slug": "vipassana",
+      "title": "Vipassana: What Actually Happens",
+      "blurb": "SUPER-LONG: Goenka vs Mahasi vs Tsongkhapa vs Thai forest, dry insight, 16 stages, after mastery, daily life, monastery question.",
+      "manuscripts": [
+        {
+          "file": "STRUCTURE.md",
+          "title": "STRUCTURE"
+        }
+      ],
+      "sources": [
+        "ACQUIRE.md",
+        "WEAVE.md",
+        "quotes-hh-104-not-observation.txt",
+        "quotes-hh-48-what-is-present.txt",
+        "quotes-hh-52-vipassana.txt",
+        "quotes-hh-53-right-questioning.txt"
+      ]
+    },
+    {
+      "slug": "what-is-jhana",
+      "title": "What Is a Jhana?",
+      "blurb": "FULL SCRIPT v0.2 + STORYBOARD 27 shots: inversion, blank screen, MN27 bribe, Nyanamoli definitions. All READs banked.",
+      "manuscripts": [
+        {
+          "file": "ESSAY.md",
+          "title": "ESSAY"
+        },
+        {
+          "file": "PUSHBACK.md",
+          "title": "PUSHBACK"
+        },
+        {
+          "file": "STORYBOARD.md",
+          "title": "STORYBOARD"
+        },
+        {
+          "file": "STRUCTURE.md",
+          "title": "STRUCTURE"
+        },
+        {
+          "file": "draft1.md",
+          "title": "draft1"
+        }
+      ],
+      "sources": [
+        "ACQUIRE.md",
+        "WEAVE.md",
+        "arguments-pushback-review.json",
+        "quotes-hh-205-jhana-lifestyle.txt",
+        "quotes-hh-205-lifestyle.txt",
+        "quotes-hh-284-right-samadhi-def.txt",
+        "quotes-hh-284-right-samadhi.txt",
+        "quotes-hh-38-natural-state.txt",
+        "quotes-hh-38-samadhi-jhana.txt",
+        "quotes-mn27-four-jhanas.txt"
+      ]
+    },
+    {
+      "slug": "nibbana-movie",
+      "title": "33 Sermons of Nibbana — the movie",
+      "blurb": "Motif film: intro (verbatim), thesis (no progression/resolution/time), zone world, bell quote bank from the 33 sermons. Board stage: stills, timings, narration.",
+      "manuscripts": [
+        {
+          "file": "INTRO.md",
+          "title": "INTRO"
+        },
+        {
+          "file": "MOVIE.md",
+          "title": "MOVIE"
+        },
+        {
+          "file": "STORYBOARD.md",
+          "title": "STORYBOARD"
+        }
+      ],
+      "sources": [
+        "WEAVE.md"
+      ]
+    }
+  ]
+}

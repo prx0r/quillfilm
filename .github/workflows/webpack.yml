@@ -1,0 +1,31 @@
+name: Build NodeJS App
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        # Updated to 22.x to satisfy electron/rebuild engine requirements
+        node-version: [22.x] 
+
+    steps:
+    - uses: actions/checkout@v4.2.2
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4.1.0
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Build
+      run: |
+        npm install
+        npx tsc --noEmit
+        npx vitest run
+        npm run build

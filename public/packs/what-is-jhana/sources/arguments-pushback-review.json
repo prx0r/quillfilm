@@ -1,0 +1,253 @@
+{
+ "nodes": [
+  {
+   "id": "n1",
+   "kind": "question",
+   "text": "OBJECTION 1 — \"each moment you are actively taking yourself out of a",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 10
+   }
+  },
+  {
+   "id": "n2",
+   "kind": "resolution",
+   "text": "the owner's line is poetically right and mechanism-\ncorrect at the level the video operates. The bridge text after it\nshould name the five hindrances as the \"you\" — otherwise a viewer\nthinks it's mystical.",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 10
+   }
+  },
+  {
+   "id": "n3",
+   "kind": "gap",
+   "text": "does naming the hindrances make it sound like\n\"just don't have desire\" (the prescriptive trap)? The video must not\npreach — the blank-screen beat is the teaching, not the explanation.\n\n---",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 10
+   }
+  },
+  {
+   "id": "n4",
+   "kind": "question",
+   "text": "OBJECTION 2 — the blank screen: is 20 seconds too long or not long",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 34
+   }
+  },
+  {
+   "id": "n5",
+   "kind": "resolution",
+   "text": "keep 20 seconds. The DIR card already notes the chapter\nmarker. But: check the YouTube chapter timestamp matches (CH.3 starts\nat 4:00 — chapter marker must read exactly 4:00, no drift).",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 34
+   }
+  },
+  {
+   "id": "n6",
+   "kind": "gap",
+   "text": "mobile viewers may close the app during 20s of\nblack. Acceptable — the debrief catches them when they scrub back.\n\n---",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 34
+   }
+  },
+  {
+   "id": "n7",
+   "kind": "question",
+   "text": "OBJECTION 3 — \"Ajahn Brahm is having terrible sex\" — is this a",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 55
+   }
+  },
+  {
+   "id": "n8",
+   "kind": "resolution",
+   "text": "two options: (a) find the clip — Brahm talks are widely\npublished, check if the specific line is in a freely-licensed talk;\n(b) if not clearable, use a paraphrase card attributed to Brahm with\nthe source citation — but this weakens the beat because the whole point\nis hearing HIM say it.",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 55
+   }
+  },
+  {
+   "id": "n9",
+   "kind": "gap",
+   "text": "clearance is the blocker, not the writing. Mark\nas CONTINGENT — if clip fails, the beat reverts to CH.6 definitions\nwith the \"real phenomenon\" bridge carrying the weight.\n\n---",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 55
+   }
+  },
+  {
+   "id": "n10",
+   "kind": "question",
+   "text": "OBJECTION 4 — \"use cases in rehab\" — the owner flagged this \"bit",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 77
+   }
+  },
+  {
+   "id": "n11",
+   "kind": "resolution",
+   "text": "cut it or mark [DRAFT — owner to voice]. Never leave\nan unsourced claim in a script that's otherwise citation-locked.",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 77
+   }
+  },
+  {
+   "id": "n12",
+   "kind": "gap",
+   "text": "the owner's \"bit shaky here lol\" IS the honesty —\nthe line works as self-aware hedging if delivered as-is with a laugh.\n\n---",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 77
+   }
+  },
+  {
+   "id": "n13",
+   "kind": "question",
+   "text": "OBJECTION 5 — \"it is the natural state of the mind\" — Nyanamoli's",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 94
+   }
+  },
+  {
+   "id": "n14",
+   "kind": "resolution",
+   "text": "the script structure is correct: definition → immediate\npushback → phenomenological discovery. The definition is intentionally\nunsatisfying; the unsatisfying-ness IS the bridge to the deeper\nquestion (why aren't people in ecstasy?).",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 94
+   }
+  },
+  {
+   "id": "n15",
+   "kind": "gap",
+   "text": "we don't have the actual Nyanamoli book passages\nbanked yet (ACQUIRE #2). Until then, the READ uses HH 38hh/284hh\nextracts as stand-ins. Must swap before synth.\n\n---",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 94
+   }
+  },
+  {
+   "id": "n16",
+   "kind": "question",
+   "text": "OBJECTION 6 — the \"8 jhanas\" question gets deferred (CH.7) — is",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 114
+   }
+  },
+  {
+   "id": "n17",
+   "kind": "resolution",
+   "text": "correct to defer. But CH.7 must PROMISE it: \"the 8\njhana, mapped\" end card = the hook for the next video (or the shamatha\nvideo which already has the Vism stages).",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 114
+   }
+  },
+  {
+   "id": "n18",
+   "kind": "gap",
+   "text": "if the owner wants it IN this video (his brief\nmentions it early), move one 8-jhana card into CH.6 after definitions.\n\n---",
+   "source": {
+    "file": "PUSHBACK.md",
+    "line": 114
+   }
+  }
+ ],
+ "edges": [
+  {
+   "from": "n2",
+   "to": "n1",
+   "rel": "resolves"
+  },
+  {
+   "from": "n2",
+   "to": "n3",
+   "rel": "leaves-open"
+  },
+  {
+   "from": "n1",
+   "to": "n4",
+   "rel": "follows"
+  },
+  {
+   "from": "n5",
+   "to": "n4",
+   "rel": "resolves"
+  },
+  {
+   "from": "n5",
+   "to": "n6",
+   "rel": "leaves-open"
+  },
+  {
+   "from": "n4",
+   "to": "n7",
+   "rel": "follows"
+  },
+  {
+   "from": "n8",
+   "to": "n7",
+   "rel": "resolves"
+  },
+  {
+   "from": "n8",
+   "to": "n9",
+   "rel": "leaves-open"
+  },
+  {
+   "from": "n7",
+   "to": "n10",
+   "rel": "follows"
+  },
+  {
+   "from": "n11",
+   "to": "n10",
+   "rel": "resolves"
+  },
+  {
+   "from": "n11",
+   "to": "n12",
+   "rel": "leaves-open"
+  },
+  {
+   "from": "n10",
+   "to": "n13",
+   "rel": "follows"
+  },
+  {
+   "from": "n14",
+   "to": "n13",
+   "rel": "resolves"
+  },
+  {
+   "from": "n14",
+   "to": "n15",
+   "rel": "leaves-open"
+  },
+  {
+   "from": "n13",
+   "to": "n16",
+   "rel": "follows"
+  },
+  {
+   "from": "n17",
+   "to": "n16",
+   "rel": "resolves"
+  },
+  {
+   "from": "n17",
+   "to": "n18",
+   "rel": "leaves-open"
+  }
+ ]
+}

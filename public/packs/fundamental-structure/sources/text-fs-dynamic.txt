@@ -1,0 +1,552 @@
+                      II. Dynamic Aspect
+1.     Between its appearance and its disappearance a thing endures.
+2.     To fix the idea of duration we might imagine some rigid
+object—a lamp, say—together with the ticking of a clock. Both are
+necessary; for if either is missing the image fails. The image is no
+doubt rather crude, but will perhaps serve to make it clear that
+duration—what we sometimes call ‘the passage of time’—is a combi-
+nation of unchange and change. Duration and Invariance under Trans-
+formation are one and the same.
+3.     We saw, in Part I, that a thing can be represented by the four
+symbols, o, o, o, and x, which pair off to define the operation of inter-
+changing o o and o x. This, we found, can be done in three ways,
+          oo        oo
+o o o o , o x , and o x
+oxxo ox                 x o , or by interchange of columns, of rows, and
+          oo            xo
+of both together. We do not need, at present, to distinguish them, and
+we can take interchange of columns, oo ox ox oo , as representative of the
+whole. When o o is transformed into o x and vice versa, the thing or
+operation (o, o, o, x) is invariant—all that has happened is that the
+symbols have rearranged themselves: oo ox has become ox oo . This is one
+unit of duration—one moment. Clearly enough we can repeat the
+operation, so: ox oo oo ox . It is still the same operation, namely inter-
+change of columns. (The operation of transforming o o into o x auto-
+matically transforms o x into o o—when the old ‘o first’ becomes the
+new ‘x second’, the old ‘x second’ becomes the new ‘o first’, as with our
+journey of §I/6 from A to B—, and each time we are ready to start
+afresh.) This gives us a second moment; and by continued repetition
+we can get as many moments as we please, with the thing as a whole
+remaining unchanged.
+4.     We know, however, that the structure is hierarchical; and ‘a time
+must come’ when the thing as a whole changes—just as oo ox becomes
+o o , so O O must become O O . How many times must the transforma-
+xo       OX              XO
+tion be repeated before the transformation is itself transformed? For
+how many moments does a thing endure? Let us suppose that it en-
+dures for a certain finite number of moments, say a hundred. Then, af-
+ter a hundred moments the thing changes, and after another hundred
+
+116
+                         fundamental structure II
+
+moments it changes again, and after yet another hundred moments it
+changes yet again, and so on. It will be seen that we do not, in fact,
+have a combination of unchange and change, but two different rates
+of change, one slow and one fast, just like two interlocking cog-wheels
+of which one revolves once as the other revolves a hundred times. And
+we see that this fails to give the idea of duration; for if we make the
+large cog-wheel really unchanging by holding it fast, the small cog-
+wheel also is obliged to stop. Similarly, we do not say ‘a minute en-
+dures for sixty seconds’ but ‘a minute is sixty seconds’—it would never
+occur to us to time a minute with a stop-watch. To get duration, the
+difference between the unchanging and the changing must be abso-
+lute: the unchanging must be unchanging however much the changing
+changes. j If a thing endures, it endures for ever. A thing is eternal.
+
+5.      A thing changes, then, after an infinity of moments. And since
+the structure is hierarchical, each moment must itself endure for an
+infinity of moments of lesser order before it can give place to the next
+moment. And, naturally, the same applies to each of these lesser
+moments. It might perhaps seem that with such a congestion of eterni-
+ties no change can ever take place at any level. But we must be careful
+not to introduce preconceived notions of time: just as the structure is
+
+      j.    This will clearly permit different relative rates of change, or fre-
+quencies, at the same level. The ratios between such frequencies would
+seem to be arbitrary, but it is clear that they can change only discontinu-
+ously. In other words, the substance of my world (real and imaginary) at any
+time is not dictated by fundamental structure, and vanishes abruptly. (See
+Råpa [c].) The only change considered by the main body of this Note, in its
+present incomplete form, is change of orientation or perspective. Duration
+does not require change of substance, though the converse is not true.
+(Might it not be that with every change of orientation in the world of one
+sense there is a corresponding change of substance in the world of each of
+the others? This is partly observable at least in the case of intentional bodily
+action; which, indeed, seems to change the substance also of its own
+world—as when the left hand alters the world of the right. But this supposi-
+tion is not without its difficulties.) The ‘unchange’ that is here in question is
+on no account to be confused with what is described in Attà as an ‘extra-
+temporal changeless “self”’. Experience of the supposed subject or ‘self’
+(a would-be extra-temporal personal nunc stans) is a gratuitous (though
+beginningless) imposition or parasite upon the structure we are now dis-
+cussing. See Cetanà [f]. (Cf. in this connexion the equivocal existentialist
+positions discussed by M. Wyschogrod in Kierkegaard and Heidegger (The
+Ontology of Existence), Routledge & Kegan Paul, London 1954.)
+
+                                                                            117
+                         fundamental structure II
+
+not in space but of space (amongst other things)—see §I/2—, so the
+structure is not in time but of time. Thus we are not at all obliged to
+regard each moment as lasting the same length of absolute time as its
+predecessor; for we have not encountered ‘absolute time’. Naturally, if
+we regard a given thing as eternal, then each of the infinite moments
+for which it endures will be of the same duration—one unit. But if this
+eternal thing is to change (or transform), then clearly the infinite
+series of moments must accelerate. If each successive moment is a def-
+inite fraction (less than unity) of its predecessor, then the whole infi-
+nite series will come to an end sooner or later.
+6.      Now we see that three levels of the hierarchy are involved: on
+top, at the most general level of the three, we have a thing enduring
+eternally unchanged; below this, we have a thing changing at regular
+intervals of one unit of duration, one moment; and below this again,
+in each of these regular intervals, in each of these moments, we have
+an infinite series of moments of lesser order accelerating and coming
+to an end. We have only to take into account an eternal thing of still
+higher order of generality to see that our former eternal thing will
+now be changing at regular intervals, that the thing formerly changing
+at regular intervals will be accelerating its changes (and the series of
+changes repeatedly coming to an end at regular intervals), and that
+the formerly accelerating series will be a doubly accelerating series of
+series. There is no difficulty in extending the scheme infinitely in both
+directions of the hierarchy; and when we have done so we see that
+there is no place for anything absolutely enduring for ever, and that
+there is no place for anything absolutely without duration.k
+7.      We can represent a thing by O. This, however, is eternal. To
+see the structure of change we must go to the 4-symbol representation
+o o , where o and x are things of the next lower order of generality.
+ox
+From §3 it will be seen that O is the invariant operation of interchange
+of columns: oo ox becomes ox oo , and then ox oo becomes oo ox , and so on, to
+infinity. But now that we have found that moments (or things) come to
+
+      k.    It would be a mistake to attempt to take up a position outside
+the whole system in order to visualize it as passing from the future into the
+past through a ‘present moment’ in a kind of universal time. At any given
+level of generality, the ‘present moment’ lasts for one whole eternity relative
+to the next lower level, and there is thus no such thing as a ‘present
+moment’ for the system as a whole; nor has the system any outside (even
+imaginary) from which it may be viewed ‘as a whole’.
+
+118
+                         fundamental structure II
+
+an end, some modification in this account is needed. In oo ox , o is ‘this’
+and x is ‘that’ (i.e. ‘not-this’), as we saw in Part I. When the moment
+marked by one interchange of columns comes to an end, ‘this’ van-
+ishes entirely, and we are left just with ‘that’, which, clearly, is the new
+‘this’. The o’s disappear, in other words. Thus when oo ox has become
+o o we shall not, contrary to what we have just said, have the same
+xo
+operation simply in the opposite sense, i.e. ox oo oo ox , since all that re-
+mains is x x . In the repetition of the operation, then, x will occupy the
+same position as o in the original, and O (i.e. ‘interchange of columns’)
+will now be represented by xx xo . The second interchange of columns will
+thus be xx xo xo xx , the third interchange will be oo ox ox oo , and the fourth
+x x x x , and so on. It will be evident that, while O is invariant (eter-
+xoox
+nally), the symbols at the next lower level of generality will be alter-
+nating between o and x. (For convenience we may start off the whole
+system with the symbol o at each level, though in different sizes, to
+represent ‘this’; and we may then allow these to change to x as the sys-
+tem is set in motion. But we can only do this below a given level, since
+if only we go up far enough we shall always find that the system has
+already started. We cannot, therefore, start the system at any absolute
+first point—we can only ‘come in in the middle’. It will be seen, also,
+that the system is not reversible: future is future and past is past. But
+this will become clearer as we proceed.)
+
+8.      Disregarding other things, consciousness of a thing while it en-
+dures is constant: and this may be counted as unity. We can regard
+consciousness of a thing as the thing’s intensity or weight—quite sim-
+ply, the degree to which it is. In §I/12 (ƒ) we noted that any inter-
+change is equivalent to the other two done together. Thus, to pass from
+                                                                    o o
+1 to 4 it is necessary to go by way of both 2/3 and 3/2, so:            . The
+                                                                    o o
+intensity or weight must therefore be distributed among the four sym-
+                               oo o       2 1
+bols in the following way:         x , or     . This will mean that the in-
+                               o x        1 2
+tensity of o is two-thirds of the whole, and of x, one-third. (A mo-
+ment’s reflexion will verify that ‘this’ is necessarily more intense than
+‘that’. Visual reflexion will do here; but it must be remembered that
+visual experience, which is easy to refer to, is structurally very
+complex—see §I/4—, and visual evidence normally requires further
+
+                                                                           119
+                            fundamental structure II
+
+break-down before revealing aspects of fundamental structure. It is
+usually less misleading to think in terms of sound or of extension than
+of vision, and it is advisable in any case to check the evidence of one
+sense with that of another.) When oo o vanishes we shall be left with x,
+whose intensity is only one-third of the whole. But just as oo o stands to x
+in the proportion of intensity of 2:1, so xx x of a lesser order stands to o of
+the same lesser order in the same proportion, and so on indefinitely.
+Thus we obtain a hierarchy of intensity 1
+                                        2
+                                                     1 , 1 ,… to infin-
+                                          , 1 , 1 , 16   32
+                                                 4     8
+ity, the sum of which is unity. The total intensity at any time must be
+unity, as we noted above; and when the first term of this hierarchy,
+o o , which is 1 the total intensity, vanishes, it is necessary to increase the
+o              2
+intensity of the rest to compensate for this loss; and to do this we must
+make x, when it becomes xx x , be (or exist) correspondingly faster. This
+is achieved, clearly enough, by doubling the rate of existence (i.e. halv-
+ing the relative length) of each successive moment. (When the first term
+of 1 + 1 + 1 + 1 + 1 + … vanishes, it is only necessary to double
+     2   4     8       16       32
+the remainder, 1 + 1 + 1 + 1 + …, to restore the status quo.)
+                   4        8        16    32
+
+9.       If we go to the 16-member representation it will be clearer what is
+                                          oooo
+happening. This representation, oo xo ox xx , combines two adjacent levels of
+                                 oxxo
+generality: it is a combination of O  O       oo
+                                    O X and o x . But this combination,
+                                     oo          oo
+we see, can be made in two ways: o x             ox
+                                                     oo          x x and
+                                                     ox          xo
+ o o      o o
+                  o o      x x . Alternatively, however, we can regard
+ o x      o x
+                  o x      x o
+the combination of O    O     oo
+                      O X and o x , not as that of two adjacent levels of
+generality, but as that of the present and the future on the same level
+of generality; and, clearly, this too can be made in these two ways. If,
+furthermore, we regard the first of these two ways in which the combi-
+nation of O O      oo
+          O X and o x can be made as the combination of two adjacent,
+equally present, levels of generality, we must regard the second way as
+the combination of the present and the future, both of the same level
+
+120
+                        fundamental structure II
+
+of generality; and, of course, vice versa. This means that, from the point
+of view of O O oo
+           O X , o x can be regarded either as present but of lower order or
+as of the same order but future. (And, of course, from the point of view
+of oo ox , O O
+           O X can be regarded either as present but of higher order or as
+of the same order but past.) In other words, the general/particular hi-
+erarchy can equally well be regarded—or rather, must at the same
+time be regarded—as the past, present, and future, at any one level of
+generality. (A simple illustration can be given. Consider this figure:
+
+
+
+
+It presents itself either as a large square enclosing a number of pro-
+gressively smaller squares all within one plane at the same distance
+from the observer, or as a number of squares of equal size but in sepa-
+rate planes at progressively greater distances from the observer, giving
+the appearance of a corridor. A slight change of attention is all that is
+needed to switch from one aspect to the other. In fundamental struc-
+ture, however, both aspects are equally in evidence.) This allows us to
+dispose of the tiresome paradox (noted, but not resolved, by Augus-
+tine) that, (i) since the past is over and done with and the future has
+not yet arrived, we cannot possibly know anything about them in the
+present; and (ii) there is, nevertheless, present perception and know-
+
+                                                                       121
+                         fundamental structure II
+
+ledge of the past and of the future (memory is familiar to everyone,l
+and retrocognition and precognition are well-known occurrences;
+though it is clear that awareness of movement or of change of sub-
+stance provides more immediate evidencem )—the very words past
+and future would not exist if experience of what they stand for were
+inherently impossible.n
+10.    Past and future (as well as present) exist in the present; but
+they exist as past and as future (though what exactly the pastness of
+the past—‘this is over and done with’—and the futurity of the
+future—‘this has not yet arrived’—consist of will only become appar-
+ent at a later stage when we discuss the nature of intention). And
+
+      l.    All memory involves perception of the past, but perception of the
+past is not in itself memory. The question of memory, however, does not
+otherwise concern us in these Notes. (The attention we give to whatever
+happens to be present will, no doubt, permanently increase its weightage
+relative to all that does not come to be present.)
+      m. Neither movement nor change of substance is fundamental: fun-
+damental structure is necessary for them to be possible, and this is true also
+of their respective times (see §4 (j)). In other words, the time (past, present,
+future) that is manifest in movement and in change of substance is depend-
+ent upon, but does not share the structure of, the time that is discussed in
+these pages. Thus, in movement, the time is simply that of the hierarchy of
+trajectories (see Pañiccasamuppàda [c]), and its structure is therefore that of
+the straight line (see §I/13): the time of movement, in other words, is per-
+fectly homogeneous and infinitely subdivisible. In itself, therefore, this time
+makes no distinction between past, present, and future, and must necessarily
+rest upon a sub-structure that does give a meaning to these words. In funda-
+mental time, each unit—each moment—is absolutely indivisible, since
+adjacent levels are heterogeneous.
+      n.     McTaggart has argued (op. cit., §§325 et seq.) that the ideas of
+past, present, and future, which are essential characteristics of change and
+time, involve a contradiction that can only be resolved in an infinite regress.
+This regress, he maintained, is vicious, and change and time are therefore
+‘unreal’. It is clear enough that perception of movement, and therefore of
+time, does involve an infinite reflexive (or rather, pre-reflexive) regress. We
+perceive uniform motion; we perceive accelerated motion, and recognize it
+as such; we can perhaps also recognize doubly accelerated motion; and the
+idea of still higher orders of acceleration is perfectly acceptable to us, with-
+out any definite limit: all this would be out of the question unless time had
+an indefinitely regressive hierarchical structure. If this regress is vicious,
+then so much the worse for virtue. But see §I/15 (g), which indicates that it
+is not in fact vicious.
+
+122
+                         fundamental structure II
+
+since each ‘present’ is a self-sufficient totality, complete with the
+entire past and the entire future, it is meaningless to ask whether the
+past and the future that exist at present are the same as the real past
+or future, that is to say as the present that was existing in the past and
+the present that will be existing in the future: ‘the present that existed
+in the past’ is simply another way of saying ‘the past that exists in the
+present’.o From this it will be understood that whenever we discuss
+past, present, and future, we are discussing the present hierarchy, and
+whenever we discuss the present hierarchy we are discussing past,
+present, and future. The two aspects are rigorously interchangeable:
+  OO O O O O O O
+  OX O X O X O X
+  O O X X O O X X
+  O X X O O X X O
+  O O O O X X X X             O O O O
+  O X O X X O X O             O X O X
+  O O X X X X O O             O O X X                 O O
+  O X X O X O O X             O X X O                 O X                   O
+
+
+    O    O   O    O
+
+
+    O    X   O    X
+
+
+    O    O   X    X             O    O
+
+
+    O    X   X    O             O    X                  O
+
+
+
+
+         O        O
+
+
+
+
+         O        X                  O
+
+
+
+
+                  O
+
+
+      o.    These remarks do not imply that the present that will be existing
+in the future is now determined; on the contrary (as we shall see) it is under-
+determined—which is what makes it future. Similarly, the past is now what
+is over-determined.
+
+                                                                          123
+                        fundamental structure II
+
+11.     In §3 we took the interchange of columns as representative of
+all three possible interchanges: (i) of columns, (ii) of rows, and (iii) of
+both together. We must now discriminate between them. Neglecting
+the zero operation of no interchange, we may regard a thing as a
+superposition of these three interchanges (§I/13). We saw in §8 that
+o o (‘this’) has twice the intensity or weight of x x (‘that’), and this is
+o                                                 x
+obviously true of each of the three possible interchanges. But this
+imposes no restriction whatsoever on the intensities of the three inter-
+changes relative one to another: what these relative intensities shall be
+is a matter of complete indifference to fundamental structure. Let us,
+therefore, choose convenient numbers; let us suppose that the weight
+of interchange of columns, oo ox ox oo , is one-half of the total, of inter-
+                oo                                           oo
+change of rows, o x , one-third, and of interchange of both, o x x o ,
+                o x
+                oo                                               oo
+one-sixth, the total being unity. Then, in interchange of columns, ‘this’
+oo                       6              oo             3
+o x will have the value 18 , and ‘that’ x o the value 18 ; in inter-
+
+change of rows, ‘this’ oo ox will have the value 18
+                                                  4 , and ‘that’ o x the
+                                                                 oo
+       2 ; and in interchange of both, ‘this’    oo
+value 18                                      o x will have the value
+  2                xo              1
+ 18 , and ‘that’ o o the value 18 . It will be observed that the three
+                                                             oo ox
+‘this’ oo ox are indistinguishable, whereas the three ‘that’ x o, o o , and
+x o are not; and that consequently we simply have one single ‘this’, of
+oo
+value 12
+      18
+         or 2                                                    3 2
+            3 , and three separate ‘that’, of respective values 18 , 18 ,
+      1
+and 18  , totalling 1
+                    3 . No matter what the relative weights of the three
+interchanges may be, the weight of ‘this’ is always twice the combined
+weights of the three ‘that’. This means, in effect, that however much the
+relative weights of the three ‘that’ may vary among themselves, the
+weight of ‘this’ remains constant.
+
+12.     The question now arises, which of these three possible inter-
+changes is the one that will take place when the time comes for ‘this’
+to vanish and ‘that’ to become ‘this’. We said, in §7, that a thing, O, is
+the invariant operation of interchange of columns to infinity. This,
+however, is equally true of interchange of rows and of both columns
+
+124
+                            fundamental structure II
+
+and rows. In other words, O is simply the invariant operation of inter-
+change, no matter whether of columns, of rows, or of both. Any or all
+of these interchanges are O. It will be seen, then, that the invariance
+of O is unaffected by the distribution of weight among the three possi-
+ble interchanges that can take place. A simplified illustration may
+make this clearer. Suppose my room contains a chair, a table, a bed,
+and a wardrobe. If there is no other article of furniture in the room,
+the chair is determined as the chair by its not being the table, the bed,
+or the wardrobe. In other words, the piece of furniture in my room
+that is not-the-table, not-the-bed, and not-the-wardrobe, is the chair.
+But so long as all these determinations are to some extent present it
+matters not at all where the emphasis is placed. The question of
+degree, that is to say, does not arise. If, when I am about to sit down
+and start writing, I pay attention to the chair, it will present itself
+strongly to me as being not-the-table, but perhaps only faintly as not-
+the-wardrobe, and hardly at all as not-the-bed; but if I pay attention to
+it when I am feeling sleepy, it will be most strongly present as not-the-
+bed, and much less as not-the-table and not-the-wardrobe. In either
+case the chair keeps its identity unaltered as ‘the piece of furniture
+that is neither table, bed, nor wardrobe’.
+
+13.     Let us consider two adjacent levels of generality, O and o,
+where O endures for one moment while o undergoes an infinity of
+transformations in an accelerating series. But the symbols O and o
+simply give the immediate thing (§I/15), and we need to see the struc-
+ture of the thing. We must therefore write each thing in the form oo ox
+and expand accordingly. We also need to see the structure of the two
+adjacent levels at the same time. This will give us the figure of §I/16
+            o o       o o   o o       o o
+             a         b
+            o x       x o   x o       o x
+                  A               B
+            o x       x o   x o       o x
+             c         d
+            o o       o o   o o       o o
+(h), viz:   o x       x o   x o       o x
+                                            .
+            o o       o o   o o       o o
+                  C               D
+            o o       o o   o o       o o
+            o x       x o   x o       o x
+
+(This figure is out of scale: it should be one-quarter the size.)
+
+                                                                    125
+                       fundamental structure II
+
+We see that O is represented by A B          ab
+                                C D and o by c d . (Note that D, for
+example, is simply ac db with interchange of both columns and rows,
+
+i.e. d c
+     b a , and similarly with B and C.) Let us suppose that, at the lower
+level, repeated interchange of columns (a-b, c-d) is taking place.
+This, naturally, will be taking place in all four quarters, A, B, C, and
+D. Let us also suppose that, to begin with, the relative weights of the
+three possible interchanges of O are 1(A-B) : 2(A-D) : 3(A-C). We
+have seen in §7 that whenever an interchange, oo ox ox oo say, takes
+place, it is actually not simply an interchange, but a disappearance of
+o o leaving just x. This x is then the fresh x x , which in its turn be-
+o                                            xo
+comes o, and so on. In other words, each time what we have repre-
+sented as an interchange takes place, things lose a dimension. This
+statement can be inverted, and we can say that the present, each
+time it advances into the future, gains a dimension, with the conse-
+quence that immediately future things, when they become present,
+will necessarily appear with one dimension less. Though, from one
+point of view, O remains invariant throughout the series of inter-
+changes (it is the series of interchanges, of any or all of the three pos-
+sible kinds), from another point of view, each time an interchange
+takes place O vanishes and is replaced by another O differing from
+the earlier O only in that having been future to it (or of lower
+order— see §9) it has, relative to it, a second dimension. We must at
+once qualify this statement. The loss of a dimension takes place at
+the level, not of O, but of o, which is at a lower level of generality;
+and properly speaking we should say that O loses an infinitesimal
+part of its one dimension each time there is the loss of a dimension at
+the level of o. Similarly, O’s successor is only infinitesimally future or
+of lower order. In other words, O’s dimension is of a higher order
+than that of o. But consideration of O’s possible interchanges takes
+place at the level of o, as we may gather from the necessity, noted
+above, of writing O in the reflexive form oo ox . It must therefore be un-
+derstood that when we say that each future O has one more dimen-
+sion than the present O, the dimension in question is a dimension of
+o, not of O. The original O, then, while present, has one dimension:
+its successor, so long as it is future, has two dimensions: and when
+this becomes present it appears as having one dimension, just as its
+predecessor did when present. But the original O now has no
+
+126
+                        fundamental structure II
+
+dimension; for it has vanished. (That is to say, o has vanished: O is
+actually no more than infinitesimally closer to the point of
+vanishing —which means that it remains absolutely the same, in the
+ordinary meaning of that word. But we have to remember that
+changes in a thing’s internal distribution of weight —the weight, that
+is, of its determinations— do not affect it.) Relatively speaking, then,
+each next future O has one more dimension, at the level of o, than
+the present O, even though it has but one dimension when it is itself
+present. If, therefore, the relative weights of the possible inter-
+changes of the original O are in the proportions 3:2:1, the relative
+weights of the succeeding O, when it becomes present, will be in the
+proportion 9:4:1, that is, with each number squared. Following that,
+the next O will have relative weights 81:16:1, and so on. It is obvi-
+ous, first, that the most heavily weighted of the possible interchanges
+will tend more and more to dominate the others and, in a manner of
+speaking, to draw all the weight to itself; and secondly, that it can
+only draw the entire weight to itself after an infinity of squarings,
+that is, of interchanges at the level of o. As soon as one of the three
+possible interchanges has drawn the entire weight to itself and alto-
+gether eliminated its rivals, that interchange takes place (at the level
+of O).p In the case we are considering there will be interchange of
+rows, i.e. of A and C, and of B and D. Notice that this interchange is
+quite independent of the kind of interchange that is taking place at
+the next lower level: interchange of rows at the level of O does not in
+the least require that the interchange at the level of o should also
+have been of rows.
+
+
+
+
+                              (Unfinished)
+
+
+
+
+       p.   §I/4 (d) would seem to imply that three different frequencies are
+involved, all converging to infinity together. This will complicate the arith-
+metic, but can scarcely prevent the eventual emergence of one dominating
+interchange. (If they are not all to be squared together, the relative weights
+a : b : c must be made absolute before each squaring:
+    a         b        c    .)
+ a+b+c,    a+b+c  , a+b+c
+
+                                                                         127

@@ -1,0 +1,237 @@
+ 
+
+ 
+
+ 
+ Anuradha Sutta: To Anuradha 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ Creative Commons Attribution-NonCommercial 4.0 International License . To view a copy of the license, visit https://creativecommons.org/licenses/by-nc/4.0/ . Documents linked from this page may be subject to other restrictions.}
+{ }
+{1}
+[DIACRITIC_EQUIVALENTS_FOR_INDEXING]=
+[EDITION]={}
+[EDITORS_NOTE]={}
+[EOD]={}
+[EXTENT]={complete}
+[EXTRA_INFO]={}
+[FORMAT_PRINT]={}
+[FORMAT_SUTTAREADINGS]={index.html#sn22.086}
+[FORMAT_ZIP]={}
+[HEADER_POST]={}
+[HEADER_PRE]={}
+[HEAD_EXTRAS]={}
+[LICENSE]={CC-BY-NC}
+[MULTI_AUTHOR]=
+[MY_TITLE]={Anuradha Sutta}
+[NIKAYA]={Samyutta}
+[NIKAYA_ABBREV]={SN}
+[NO_COLOPHON]={}
+[NO_LINK]={}
+[NUMBER]={86}
+[ORIGIN_YEAR]={}
+[PAGE_COUNT]={}
+[PATH_FetchDoc]={sn22.086.than.html}
+[PATH_my]={}
+[PTS_ID]={S iii 116}
+[REVISION_HISTORY]={}
+[SECTION]={22}
+[SEE_ALSO]={}
+[SOURCE]={Transcribed from a file provided by the translator.}
+[SOURCE_COPYRIGHT_OWNER]={Thanissaro Bhikkhu}
+[SOURCE_COPYRIGHT_YEAR]={2004}
+[SOURCE_ISBN]={}
+[SPECIAL_HEADER]={}
+[SUBTITLE]={To Anuradha}
+[SUBTITLE2]={}
+[SUMMARY]={}
+[SUMMARY_SOURCE]={}
+[SURPRISE_ME]={}
+[SUTTA_NOTE]={This sutta is identical to SN 44.2 .}
+[TIPITAKA_BOOK]={}
+[TIPITAKA_BOOK_ABBREV]={}
+[TYPE]={sutta}
+
+End ATIDoc metadata dump. -->
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Random sutta 
+ Random article 
+ Abbreviations 
+ Glossary 
+ Index 
+ Help! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tipitaka 
+ 
+ Vinaya Pitaka 
+ Sutta Pitaka 
+ DN 
+ MN 
+ SN 
+ AN 
+ KN 
+ Khp 
+ Dhp 
+ Ud 
+ Iti 
+ Sn 
+ Abhidhamma 
+ 
+ 
+ 
+ 
+ Samyutta Nikaya 
+ SN 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SN 22.86
+ PTS: S iii 116 
+ CDB i 936 
+ 
+ Anuradha Sutta: To Anuradha 
+ 
+ translated from the Pali by Thanissaro Bhikkhu 
+ © 2004 
+ Alternate translation: Walshe 
+ This sutta is identical to SN 44.2 . 
+ Alternate format: X The updated version is freely available at This version of the text might be out of date. Please click here for more information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I have heard that on one occasion the Blessed One was staying near Vesali , in the Great Wood , at the Hall of the Gabled Pavilion. At that time Ven. Anuradha was staying not far from the Blessed One in a wilderness hut. 
+ Then a large number of wandering sectarians went to Ven. Anuradha and on arrival exchanged courteous greetings with him. After an exchange of friendly greetings & courtesies, they sat to one side. As they were sitting there, they said to Ven. Anuradha, "Friend Anuradha, the Tathagata — the supreme man, the superlative man, attainer of the superlative attainment — being described, is described with [one of] these four positions: The Tathagata exists after death, does not exist after death, both does & does not exist after death, neither exists nor does not exist after death." 
+ When this was said, Ven. Anuradha said to the wandering sectarians, "Friends, the Tathagata — the supreme man, the superlative man, attainer of the superlative attainment — being described, is described otherwise than with these four positions: The Tathagata exists after death, does not exist after death, both does & does not exist after death, neither exists nor does not exist after death." 
+ When this was said, the wandering sectarians said to Ven. Anuradha, "This monk is either a newcomer, not long gone forth, or else an elder who is foolish & inexperienced." So the wandering sectarians, addressing Ven. Anuradha as they would a newcomer or a fool, got up from their seats and left. 
+ Then not long after the wandering sectarians had left, this thought occurred to Ven. Anuradha: "If I am questioned again by those wandering sectarians, how will I answer in such a way that will I speak in line with what the Blessed One has said, will not misrepresent the Blessed One with what is unfactual, will answer in line with the Dhamma, so that no one whose thinking is in line with the Dhamma will have grounds for criticizing me?" 
+ Then Ven. Anuradha went to the Blessed One and on arrival, having bowed down to the Blessed One, sat to one side. As he was sitting there he said to the Blessed One: "Just now I was staying not far from the Blessed One in a wilderness hut. Then a large number of wandering sectarians came and... said to me, 'Friend Anuradha, the Tathagata — the supreme man, the superlative man, attainer of the superlative attainment — being described, is described with [one of] these four positions: The Tathagata exists after death, does not exist after death, both does & does not exist after death, neither exists nor does not exist after death.' 
+ "When this was said, I said to them, 'Friends, the Tathagata — the supreme man, the superlative man, attainer of the superlative attainment — being described, is described otherwise than with these four positions: The Tathagata exists after death, does not exist after death, both does & does not exist after death, neither exists nor does not exist after death.' 
+ "When this was said, the wandering sectarians said to me, 'This monk is either a newcomer, not long gone forth, or else an elder who is foolish & inexperienced.' So, addressing me as they would a newcomer or a fool, they got up from their seats and left. 
+ "Then not long after the wandering sectarians had left, this thought occurred to me: 'If I am questioned again by those wandering sectarians, how will I answer in such a way that will I speak in line with what the Blessed One has said, will not misrepresent the Blessed One with what is unfactual, will answer in line with the Dhamma, and no one whose thinking is in line with the Dhamma will have grounds for criticizing me?'" 
+ "What do you think, Anuradha: Is form constant or inconstant?" 
+ "Inconstant, lord." 
+ "And is that which is inconstant easeful or stressful?" 
+ "Stressful, lord." 
+ "And is it proper to regard what is inconstant, stressful, subject to change as: 'This is mine. This is my self. This is what I am'?" 
+ "No, lord." 
+ "Is feeling constant or inconstant?" 
+ "Inconstant, lord."... 
+ "Is perception constant or inconstant?" 
+ "Inconstant, lord."... 
+ "Are fabrications constant or inconstant?" 
+ "Inconstant, lord."... 
+ "Is consciousness constant or inconstant? 
+ "Inconstant, lord." 
+ "And is that which is inconstant easeful or stressful?" 
+ "Stressful, lord." 
+ "And is it proper to regard what is inconstant, stressful, subject to change as: 'This is mine. This is my self. This is what I am'?" 
+ "No, lord." 
+ "What do you think, Anuradha: Do you regard form as the Tathagata?" 
+ "No, lord." 
+ "Do you regard feeling as the Tathagata?" 
+ "No, lord." 
+ "Do you regard perception as the Tathagata?" 
+ "No, lord." 
+ "Do you regard fabrications as the Tathagata?" 
+ "No, lord." 
+ "Do you regard consciousness as the Tathagata?" 
+ "No, lord." 
+ "What do you think, Anuradha: Do you regard the Tathagata as being in form?... Elsewhere than form?... In feeling?... Elsewhere than feeling?... In perception?... Elsewhere than perception?... In fabrications?... Elsewhere than fabrications?... In consciousness?... Elsewhere than consciousness?" 
+ "No, lord." 
+ "What do you think: Do you regard the Tathagata as form-feeling-perception-fabrications-consciousness?" 
+ "No, lord." 
+ "Do you regard the Tathagata as that which is without form, without feeling, without perception, without fabrications, without consciousness?" 
+ "No, lord." 
+ "And so, Anuradha — when you can't pin down the Tathagata as a truth or reality even in the present life — is it proper for you to declare, 'Friends, the Tathagata — the supreme man, the superlative man, attainer of the superlative attainment — being described, is described otherwise than with these four positions: The Tathagata exists after death, does not exist after death, both does & does not exist after death, neither exists nor does not exist after death'?" 
+ "No, lord." 
+ "Very good, Anuradha. Very good. Both formerly & now, it is only stress that I describe, and the cessation of stress." 
+ 
+ 
+ See also: The suttas in the Avyakata Samyutta . 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ ©2004 Thanissaro Bhikkhu. 
+ 
+ 
+ The text of this page ("Anuradha Sutta: To Anuradha", by Thanissaro Bhikkhu) is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License . To view a copy of the license, visit https://creativecommons.org/licenses/by-nc/4.0/ . Documents linked from this page may be subject to other restrictions. 
+ Transcribed from a file provided by the translator. Last revised for Access to Insight on 30 November 2013. 
+ 
+ This Access to Insight edition is ©2004. 
+ -->
+ 
+ FAQ . -->
+ 
+ 
+ How to cite this document (a suggested style): "Anuradha Sutta: To Anuradha" (SN 22.86), translated from the Pali by Thanissaro Bhikkhu. Access to Insight (BCBS Edition) , 30 November 2013, https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.086.than.html . 
+ Alternate format: 
+ 
+ 
+ 
+ Help 
+ | Site map 
+ | About 
+ | Contact 
+ | Terms of use 
+ Access to Insight is owned and managed by the Barre Center for Buddhist Studies 
+ 
+ 
+ 
+ 
+ 
+ 
