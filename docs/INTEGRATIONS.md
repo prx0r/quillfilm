@@ -47,13 +47,17 @@ VALIDATION. Verified via GitHub API + license files this session.
   link its code into quillfilm.
 
 ## Next actions (board stage)
-1. Beat-table parser: ScriptParser-inspired regex over our own
-   `STORYBOARD.md`/`MOVIE.md` table shapes (milimovideo pattern,
-   scriptbreak model) → shot rows quill can act on.
+1. ✅ **done** — Beat-table parser: `board_parse` + `board_validate` in
+   `deploy/quill_mcp.py` (our own table shapes: milimovideo pattern,
+   scriptbreak model) → shot rows + structural validation (WEAVE refs,
+   bells, timings). Tests 17/17.
 2. Board-side copilot skills: adapt drama-skills (MIT) structure next
    to WEAVE — "storyboard", "shot prompt", "narration pick" skills.
+   (`quote_for_row` is the deterministic first half; skill = the prompt
+   layer on top.)
 3. Timing pass: afterwriting-labs-style duration estimates → fill
-   `est t` for A3/A4 rows.
+   `est t` for A3/A4 rows (`board_validate` already reports untimed
+   rows and flags out-of-order clocks).
 4. Render bridge (post-board): script2video's deterministic-encode
    discipline + our bridge `/api/tts`; worker/home-box shape = the
    vivijure-validated path (Go proxy already matches).

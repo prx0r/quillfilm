@@ -436,6 +436,311 @@ def parallel_args(query: str, pack: str = "", focus: str = "") -> str:
     return '\n\n'.join(x for x in out if x)
 
 
+# --- board / screenplay flow (deterministic, local packs only, no LLM) ---
+
+_ACT_HEADING = re.compile(r'^##\s+(.*)$')
+_TABLE_ROW = re.compile(r'^\|(.+)\|\s*$')
+_QUOTE_ID = re.compile(r'\[([A-Za-z]{1,4}\d{1,3})\]')
+_TIME_RANGE = re.compile(r'(\d{1,2}):(\d{2})\s*[–-]\s*(\d{1,2}):(\d{2})')
+_TIME_ANY = re.compile(r'\d{1,2}:\d{2}')
+
+
+def _bell_ids(cell: str):
+    """'**BELL M / C / K**' → ['M','C','K']; 'BELL S (sandcastle)' → ['S']."""
+    if not cell:
+        return []
+    txt = re.sub(r'\(.*?\)', '', cell.replace('*', ''))
+    ids = []
+    for part in txt.split('/'):
+        part = re.sub(r'^\s*BELL\s*', '', part, flags=re.I)
+        part = re.split(r'\s*[—–-]+\s*', part)[0].strip()
+        m = re.match(r'([A-Za-z0-9][A-Za-z0-9\-]*)', part)
+        if m and m.group(1).upper() not in ('MOTIF', 'ZONE'):
+            ids.append(m.group(1))
+    return ids
+
+
+def _board_doc(pack: str, doc: str = ''):
+    """Return (name, text) of the pack's storyboard/movie manuscript."""
+    m = _manifest()
+    packd = next((p for p in m.get('packs', []) if p['slug'] == pack), None)
+    if not packd:
+        raise ValueError(f'unknown pack "{pack}"')
+    mans = [d['file'] for d in packd.get('manuscripts', [])]
+    if doc:
+        if doc not in mans:
+            raise ValueError(f'pack "{pack}" has no manuscript {doc}')
+        name = doc
+    else:
+        name = next((x for x in ['STORYBOARD.md', 'MOVIE.md'] if x in mans), None)
+        if not name:
+            raise ValueError(f'pack "{pack}" has no STORYBOARD.md or MOVIE.md')
+    return name, _read_manuscript(pack, name)
+
+
+def _parse_board(md: str):
+    """Markdown beat-table rows → dicts (milimovideo ScriptParser pattern,
+    shaped for OUR tables: | id | est t | scene | narration | bell |)."""
+    act, rows = '', []
+    for raw in md.splitlines():
+        line = raw.rstrip()
+        mh = _ACT_HEADING.match(line)
+        if mh and not line.startswith('####'):
+            act = mh.group(1).strip()
+            continue
+        mt = _TABLE_ROW.match(line.strip())
+        if not mt:
+            continue
+        cells = [c.strip() for c in mt.group(1).split('|')]
+        if not cells:
+            continue
+        head0 = cells[0].lstrip('* ').lower()
+        if head0 in ('#', 'n', 'no', 'id', 'row') or set(head0) <= set('-: '):
+            continue  # header / separator
+        if all(set(c) <= set('-: ') and c for c in cells):
+            continue
+        rid = head0
+        if not re.match(r'^[a-z]?\d+$', rid) and not re.match(r'^[a-z]+\d+$', rid):
+            continue  # not a row id (skip prose tables like acts summary)
+        rows.append({
+            'id': cells[0],
+            'act': act,
+            't': cells[1] if len(cells) > 1 else '',
+            'scene': cells[2] if len(cells) > 2 else '',
+            'narration': cells[3] if len(cells) > 3 else '',
+            'bell': cells[4] if len(cells) > 4 else '',
+        })
+    return rows
+
+
+def _weave_entries(pack: str):
+    """Parse pack sources for banked quote entries: id → dict(quote, raw)."""
+    m = _manifest()
+    packd = next((p for p in m.get('packs', []) if p['slug'] == pack), None)
+    if not packd:
+        raise ValueError(f'unknown pack "{pack}"')
+    out = {}
+    for s in packd.get('sources', []):
+        try:
+            t = _read_source(pack, s)
+        except (OSError, ValueError):
+            continue
+        # entry lines: **[F7] VOICE, S5** — "verbatim…" — cite — STOP …
+        # (entries wrap across lines: join continuations, keep breaks before entries)
+        joined = re.sub(r'\n(?!\s*\*\*\[)', ' ', t)
+        for mm in re.finditer(
+                r'\*\*\[([A-Za-z]+\d+)\]\s*([^*]*)\*\*(.*?)(?=\*\*\[|\Z)',
+                joined, re.S):
+            eid = mm.group(1)
+            if eid in out:
+                continue
+            rest = ' '.join(mm.group(3).split())
+            qm = re.search(r'"([^"]{20,})"', rest)
+            quote = ' '.join(qm.group(1).split()) if qm else ''
+            # cite = text after the quote, before STOP; keep short
+            cite = ''
+            if qm:
+                tail = rest[qm.end():]
+                cite = re.split(r'\s+STOP\b', tail)[0].strip(' —-')
+            out[eid] = {'id': eid, 'head': mm.group(2).strip(' —'),
+                        'quote': quote, 'cite': cite.strip(' —'),
+                        'source': s, 'raw': rest[:400]}
+    return out
+
+
+def _row_timing(t: str):
+    """'0:00–0:25' → (0,25); 'tbd'/'est' free text → None; bad clock → 'bad'."""
+    if not t or not _TIME_ANY.search(t):
+        return None
+    m = _TIME_RANGE.search(t)
+    if m:
+        a = int(m.group(1)) * 60 + int(m.group(2))
+        b = int(m.group(3)) * 60 + int(m.group(4))
+        return (a, b)
+    return 'bad'
+
+
+@mcp.tool()
+def board_parse(pack: str, doc: str = "") -> str:
+    """Parse a pack's STORYBOARD.md (or MOVIE.md) beat tables into shot rows:
+    id · act · est time · scene · narration refs · bell. Deterministic, no LLM.
+    The row model every other board tool and the render pass work on."""
+    try:
+        name, md = _board_doc(pack, doc)
+    except (ValueError, OSError) as e:
+        return str(e)
+    rows = _parse_board(md)
+    if not rows:
+        return f'no beat rows parsed from {pack}/{name}'
+    out = [f'{pack}/{name}: {len(rows)} rows']
+    for r in rows:
+        bell = f' · {r["bell"]}' if r['bell'] and r['bell'] not in ('—', '-') else ''
+        out.append(f'  {r["id"]:>4} [{r["act"][:28]:<28}] {r["t"]:<14} {r["scene"][:60]}{bell}')
+        if r['narration'] and r['narration'] not in ('—', '-'):
+            out.append(f'        NAR: {r["narration"][:100]}')
+    return '\n'.join(out)
+
+
+@mcp.tool()
+def board_validate(pack: str, doc: str = "") -> str:
+    """Validate the pack's storyboard structurally (deterministic, no LLM):
+    quote IDs exist in WEAVE · unique row IDs · bell inventory · timing
+    format/order · counts of timed/untimed/draft/silent rows.
+    Errors block; warnings are advisory (untimed rows are legal until the
+    timing pass)."""
+    try:
+        name, md = _board_doc(pack, doc)
+        weave = _weave_entries(pack)
+    except (ValueError, OSError) as e:
+        return str(e)
+    rows = _parse_board(md)
+    if not rows:
+        return f'FAIL {pack}/{name}: no beat rows parsed'
+    errors, warns = [], []
+    # unique ids
+    seen = set()
+    for r in rows:
+        if r['id'] in seen:
+            errors.append(f'duplicate row id {r["id"]}')
+        seen.add(r['id'])
+    # narration quote refs exist in the bank
+    used_ids = set()
+    for r in rows:
+        for qid in _QUOTE_ID.findall(r['narration'] or ''):
+            used_ids.add(qid)
+            if qid not in weave:
+                errors.append(f'{r["id"]}: narration cites [{qid}] not in WEAVE')
+    # bells: inventory + zone-walk rows should carry one
+    bells = {}
+    for r in rows:
+        for bid in _bell_ids(r['bell'] or ''):
+            bells.setdefault(bid, []).append(r['id'])
+        if re.match(r'^Z\d', r['id']) and not (r['bell'] or '').strip(' —*'):
+            warns.append(f'{r["id"]}: zone row has no bell')
+    # timings
+    timed = untimed = draft = silent = 0
+    prev_end, prev_act = None, None
+    for r in rows:
+        nar = (r['narration'] or '').strip()
+        if nar in ('—', '-', ''):
+            silent += 1
+        if '[DRAFT' in nar.upper():
+            draft += 1
+        tm = _row_timing(r['t'])
+        if tm is None:
+            untimed += 1
+        elif tm == 'bad':
+            warns.append(f'{r["id"]}: unparseable time "{r["t"]}"')
+        else:
+            timed += 1
+            if tm[1] <= tm[0]:
+                warns.append(f'{r["id"]}: end <= start ({r["t"]})')
+            if r['act'] == prev_act and prev_end is not None and tm[0] < prev_end:
+                warns.append(f'{r["id"]}: starts before previous row ends')
+            prev_end, prev_act = tm[1], r['act']
+        if r['act'] != prev_act:
+            prev_end = None
+            prev_act = r['act']
+    status = 'FAIL' if errors else 'PASS'
+    out = [f'{status} {pack}/{name}: {len(rows)} rows · '
+           f'{timed} timed / {untimed} untimed · {silent} silent · {draft} [DRAFT]']
+    out.append(f'quote refs used: {len(used_ids)} '
+               f'({", ".join(sorted(used_ids)) or "none"})')
+    out.append('bells: ' + (', '.join(f'{k}→{"/".join(v)}' for k, v in sorted(bells.items()))
+                            or 'none yet'))
+    if errors:
+        out.append(f'errors ({len(errors)}):')
+        out += [f'  ✗ {e}' for e in errors]
+    if warns:
+        out.append(f'warnings ({len(warns)}):')
+        out += [f'  ! {w}' for w in warns[:15]]
+    return '\n'.join(out)
+
+
+@mcp.tool()
+def quote_for_row(pack: str, row_id: str = "", keywords: str = "") -> str:
+    """Pick banked quotes for a storyboard row (the fill-the-narration loop).
+    Give row_id (its scene text seeds the search) and/or keywords. Returns
+    the row's assigned [IDs] first, then the best-matching WEAVE entries —
+    all verbatim from the bank, nothing invented (compiler law)."""
+    try:
+        weave = _weave_entries(pack)
+        name, md = _board_doc(pack)
+    except (ValueError, OSError) as e:
+        return str(e)
+    rows = _parse_board(md)
+    row = next((r for r in rows if r['id'] == row_id), None) if row_id else None
+    stop = {'the', 'and', 'with', 'that', 'this', 'from', 'into', 'over',
+            'then', 'when', 'shot', 'scene', 'still', 'row', 'bell', 'motif'}
+    if keywords.strip():
+        seed = keywords
+    elif row:
+        seed = row['scene'] + ' ' + row['narration']
+    else:
+        return f'give row_id or keywords (bank: {len(weave)} entries)'
+    toks = {w for w in re.findall(r'[a-zA-Z]{4,}', seed.lower()) if w not in stop}
+    scored = []
+    for eid, e in weave.items():
+        hay = (e['quote'] + ' ' + e['head'] + ' ' + e['cite']).lower()
+        score = sum(1 for t in toks if t in hay)
+        if score:
+            scored.append((score, eid, e))
+    scored.sort(key=lambda x: (-x[0], x[1]))
+    out = []
+    if row:
+        out.append(f'row {row["id"]} [{row["act"]}] {row["t"]}')
+        out.append(f'  scene: {row["scene"]}')
+        out.append(f'  narration: {row["narration"]}')
+        assigned = _QUOTE_ID.findall(row['narration'] or '')
+        for eid in assigned:
+            e = weave.get(eid)
+            if e:
+                out.append(f'  ASSIGNED [{eid}] "{e["quote"][:160]}" — {e["cite"]}')
+    if not scored:
+        out.append(f'no banked match for {sorted(toks)} — SILENT (add a WEAVE entry, never invent).')
+        return '\n'.join(out)
+    out.append('best banked matches:')
+    for score, eid, e in scored[:5]:
+        out.append(f'  [{eid}] ×{score} "{e["quote"][:180]}" — {e["cite"]} (STOP {e["head"]})')
+    return '\n'.join(out)
+
+
+@mcp.tool()
+def movie_outline(pack: str) -> str:
+    """Screenwriting overview of a pack's MOVIE.md: thesis, structural
+    laws, act table, READ list, open flags. Deterministic parse, no LLM."""
+    try:
+        name, md = _board_doc(pack, 'MOVIE.md')
+    except (ValueError, OSError) as e:
+        return str(e)
+    def sect(title):
+        m = re.search(rf'^##\s+{re.escape(title)}.*?$(.*?)(?=^##\s|\Z)',
+                      md, re.M | re.S)
+        return ' '.join(m.group(1).split()) if m else ''
+    thesis = sect('Thesis').split('Ground:')[0].strip()
+    laws = re.findall(r'^\d+\.\s+\*\*(.+?)\*\*\s*(.*)$', md, re.M)
+    acts = re.findall(r'^\|\s*(A\d[^|]*)\|\s*([^|]*)\|\s*([^|]*)\|', md, re.M)
+    reads = re.search(r'^## READs.*?$(.*?)(?=^##\s|\Z)', md, re.M | re.S)
+    flags = re.search(r'^## Flags.*?$(.*?)(?=^##\s|\Z)', md, re.M | re.S)
+    out = [f'{pack}/{name}', '', f'THESIS: {thesis[:500]}', '', 'LAWS:']
+    for i, (t_, d_) in enumerate(laws, 1):
+        out.append(f'  {i}. {t_} — {d_.lstrip(" —")[:140]}')
+    if acts:
+        out.append('')
+        out.append('ACTS:')
+        for a, c, r in acts:
+            out.append(f'  {a.strip()}: {c.strip()[:90]} [{r.strip()}]')
+    if reads:
+        out.append('')
+        out.append('READs: ' + ' '.join(reads.group(1).split())[:400])
+    if flags:
+        out.append('')
+        out.append('FLAGS:')
+        for fl in re.findall(r'^-\s+(.*)$', flags.group(1), re.M):
+            out.append(f'  ! {fl[:180]}')
+    return '\n'.join(out)
+
+
 @mcp.tool()
 def web_search(query: str) -> str:
     """Web search (blogs, forums, teachers) via the bridge. Honest errors when throttled."""

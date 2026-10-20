@@ -87,12 +87,26 @@ sessions → nodes/edges JSON); drop them in `<essay>/arguments/*.json`.
 python3 /root/manuscriptAI/deploy/quill_mcp.py   # stdio
 ```
 
-12 tools: `packs_list · pack_get · pack_source · sweep · verify_claim ·
+16 tools: `packs_list · pack_get · pack_source · sweep · verify_claim ·
 lookup_quote · boardcheck · web_search · canon_search · canon_read ·
-canon_verify · parallel_args` (canon = FoJin cross-canonical Buddhist
-texts with portable URNs). Registered in `~/.config/opencode/opencode.jsonc`
-alongside `fojin`. Tests: `python3 deploy/test_quill_mcp.py [--fast]` —
-expect **13/13**.
+canon_verify · parallel_args · board_parse · board_validate ·
+quote_for_row · movie_outline`.
+
+**Board/screenplay flow** (local, deterministic, no LLM):
+`board_parse` turns a pack's STORYBOARD.md beat tables into shot rows
+(id · act · time · scene · narration refs · bell) · `board_validate`
+checks the board structurally — every narration [ID] exists in WEAVE,
+unique row ids, bell inventory, timing format/order, timed/untimed/
+draft/silent counts · `quote_for_row` fills a row's narration from the
+bank only (SILENT when unbanked) · `movie_outline` returns a pack's
+thesis, structural laws, act table, READs and open flags.
+
+Registered in `~/.config/opencode/opencode.jsonc` alongside `fojin`.
+Tests: `python3 deploy/test_quill_mcp.py [--fast]` — expect **17/17**
+(bridge tools self-skip when the bridge is offline). Local setup needs
+the pinned MCP venv: `python3 -m venv .venv && .venv/bin/pip install -r
+deploy/requirements.txt` (mcp<2 — upstream code targets the v1 FastMCP
+API).
 
 ## The autonomous runtime
 

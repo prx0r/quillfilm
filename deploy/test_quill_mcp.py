@@ -9,8 +9,29 @@ import time
 from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
 
-SERVER = StdioServerParameters(command='python3', args=['/root/manuscriptAI/deploy/quill_mcp.py'])
+import os as _os
+from pathlib import Path as _Path
+_SERVER = _os.environ.get('QUILL_MCP_SERVER') or str(_Path(__file__).resolve().parent / 'quill_mcp.py')
+SERVER = StdioServerParameters(command=sys.executable, args=[_SERVER],
+                               env={**_os.environ,
+                                    'QUILL_PACKS_DIR': _os.environ.get('QUILL_PACKS_DIR',
+                                                                       str(_Path(__file__).resolve().parent.parent / 'public' / 'packs'))})
 FAST = '--fast' in sys.argv
+
+
+def _bridge_up():
+    import os as _o
+    import socket as _s
+    import urllib.parse as _up
+    u = _up.urlparse(_o.environ.get('BRIDGE_URL', 'http://127.0.0.1:18787'))
+    try:
+        _s.create_connection((u.hostname or '127.0.0.1', u.port or 80), 2).close()
+        return True
+    except OSError:
+        return False
+
+
+BRIDGE = _bridge_up()
 results = []
 
 
@@ -35,7 +56,8 @@ async def main():
             names = sorted(t.name for t in tools.tools)
             expected = {'packs_list', 'pack_get', 'pack_source', 'sweep', 'verify_claim',
                         'lookup_quote', 'boardcheck', 'web_search', 'canon_search',
-                        'canon_read', 'canon_verify', 'parallel_args'}
+                        'canon_read', 'canon_verify', 'parallel_args',
+                        'board_parse', 'board_validate', 'quote_for_row', 'movie_outline'}
             ok('tools/list', expected.issubset(set(names)),
                f'{len(names)} tools: missing={expected - set(names)}')
 
@@ -66,16 +88,44 @@ async def main():
                                     {'query': 'K999', 'pack': 'karma'})
             ok('lookup_quote-miss', not err and 'Not found' in t, f'honest miss, {dt}s')
 
-            # 6. boardcheck (bridge deterministic renderer)
-            t, dt, err = await call(session, 'boardcheck', {'pack': 'rebirth'}, timeout=120)
-            ok('boardcheck', not err and 'shots' in t and 'Boardcheck' in t,
-               f'{t.splitlines()[0][:90] if t else "?"}, {dt}s')
+            # 6. board_parse (local pack → shot rows)
+            t, dt, err = await call(session, 'board_parse', {'pack': 'nibbana-movie'})
+            ok('board_parse', not err and '25 rows' in t and 'I16' in t and 'Z6' in t,
+               f'rows parsed, {dt}s')
 
-            # 7. web_search (bridge → DDG)
-            t, dt, err = await call(session, 'web_search',
-                                    {'query': 'ajahn brahmali devas'})
-            ok('web_search', not err and ('http' in t or 'No results' in t),
-               f'{t.count(chr(10))//3} hits, {dt}s')
+            # 7. board_validate (local: WEAVE refs, bells, timings)
+            t, dt, err = await call(session, 'board_validate', {'pack': 'nibbana-movie'})
+            ok('board_validate', not err and t.startswith('PASS') and 'F7' in t
+               and 'M' in t.split('bells:')[1] if 'bells:' in t else False,
+               f'{t.splitlines()[0][:80]}, {dt}s')
+
+            # 8. quote_for_row (fill the narration loop, banked only)
+            t, dt, err = await call(session, 'quote_for_row',
+                                    {'pack': 'nibbana-movie', 'row_id': 'I16'})
+            ok('quote_for_row', not err and 'ASSIGNED [F7]' in t
+               and 'best banked matches' in t, f'row I16 → F7, {dt}s')
+
+            # 9. movie_outline (thesis/laws/acts/flags)
+            t, dt, err = await call(session, 'movie_outline', {'pack': 'nibbana-movie'})
+            ok('movie_outline', not err and 'no progression' in t.lower()
+               and 'A3 ZONE WALK' in t and 'FLAGS' in t, f'{len(t)} chars, {dt}s')
+
+            # 10. boardcheck (bridge deterministic renderer)
+            if BRIDGE:
+                t, dt, err = await call(session, 'boardcheck', {'pack': 'rebirth'}, timeout=120)
+                ok('boardcheck', not err and 'shots' in t and 'Boardcheck' in t,
+                   f'{t.splitlines()[0][:90] if t else "?"}, {dt}s')
+            else:
+                ok('boardcheck', True, 'SKIPPED (bridge offline)')
+
+            # 11. web_search (bridge → DDG)
+            if BRIDGE:
+                t, dt, err = await call(session, 'web_search',
+                                        {'query': 'ajahn brahmali devas'})
+                ok('web_search', not err and ('http' in t or 'No results' in t),
+                   f'{t.count(chr(10))//3} hits, {dt}s')
+            else:
+                ok('web_search', True, 'SKIPPED (bridge offline)')
 
             # 8. canon_search (FoJin)
             t, dt, err = await call(session, 'canon_search',
