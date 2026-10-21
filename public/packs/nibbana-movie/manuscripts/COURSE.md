@@ -56,6 +56,25 @@ the synopsis ("all of it = the two ends and the middle").
 Leans on: sections 5, 6 (the payoff seats — where segment 6 finally
 gets fed properly).
 
+## THE BACKBONE — the four truths (declared)
+
+The argument skeleton is the four noble truths (the author's own frame:
+S28 opens the elixir with "right view is defined as the knowledge of
+all the four noble truths"; FORMULA's L7 is its one-sentence
+compression). The six segments are the chapters; these are the spine:
+
+| truth | in plain (our decode) | seats | representative sermons |
+|---|---|---|---|
+| **T1 dukkha** — suffering | the grab's discrepancy: the sting + "my sting"; the constructed carrying-burden | segment 4 (what it builds) + INVISIBILITY | 10, 13, 14, 16, 17 |
+| **T2 samudaya** — origin | the grab itself: mechanism + fuel (the stamp, the spiral, the peg, the feeding) | segments 2 + 3 | 2, 3, 5, 6, 9–17 |
+| **T3 nirodha** — cessation | the grabbing stops — definition (before) and realization (after): the two elements, one stop | segments 1 + 6 | 1, 7, 18–22, 25, 26 |
+| **T4 magga** — path | watching it end: attention at the source, the ratchet of 36 pathways, tool-kits, middle depth | segment 5 + the elixir half | 4, 5, 8, 14, 15, 28–33 |
+
+Rules: the four truths state the argument; the six segments organize the
+delivery; the 33 sittings are the index (LESSONS.md); any quote lives
+in exactly one segment but may serve any truth — dual membership is
+tagged, never duplicated.
+
 ## How the other structures fit INSIDE this one
 
 - **The 6 sections** = recurring checkpoint questions asked inside every
