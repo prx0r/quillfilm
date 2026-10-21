@@ -25,10 +25,10 @@ runs. True loop point of the finished film = H1 (the question re-asked).
 | I1 | 0:00–0:25 | black; greyscale book cover drifting into frame | namo chanting (bed) | — |
 | I2 | 0:25–0:55 | cover begins moving (gif-loop), then stills, slow fade to black | [F6] theme verse read once, grey: "This is peaceful…stilling of all preparations…" | — |
 | I3 | 0:55–1:20 | from black: underwater climb, break the surface, gasp | water, breath | — |
-| I4 | 1:20–2:00 | wide sea, one living thing in vast water (OPEN: lotus default / turtle-external / dog) | quoted rarity line (flag: choice) — else waves only | — |
-| I5 | 2:00–2:25 | still ocean pool, glass water | [F8] "As in mid-ocean no waves arise…" (bell? — OPEN, default no bell: bells start at motifs) | — |
+| I4 | 1:20–2:00 | wide sea, one living thing in vast water (OPEN: lotus default / turtle-external / dog) | silence default (waves only); rarity line stays OPEN | — |
+| I5 | 2:00–2:25 | still ocean pool, glass water | [F8] "As in mid-ocean no waves arise…" (no bell — bells start at motifs) | — |
 | I6 | 2:25–2:55 | moon reflected in water = the cover, now in colour | [F6] theme verse again, colour | — |
-| I7 | 2:55–3:25 | INVERSE of I1–I2: cover settles, fade out, namo (loop point) | namo chanting | — |
+| I7 | 2:55–3:25 | INVERSE of I1–I2: cover settles, fade out, namo (loop point) | [F4] "The very question of a first beginning is ill conceived…" over the inversion | — |
 | I8 | 3:25–3:30 | pure black | silence 5s | — |
 | I9 | 3:30–4:10 | close-up: highly realised monk chanting namo, louder | namo (loud, single voice) | — |
 
@@ -36,8 +36,8 @@ runs. True loop point of the finished film = H1 (the question re-asked).
 
 | # | est t | SCENE (still) | NARRATION / SOUND | BELL |
 |---|---|---|---|---|
-| I10 | 4:10–5:10 | cinematic monastery shots; Sri Lanka forest clips | namo continues under; birds | — |
-| I11 | 5:10–7:00 | walking shots, monks in frame | [DRAFT] Nāṇananda voiceover begins (choose lines later from pack 53) | — |
+| I10 | 4:10–5:10 | cinematic monastery shots; Sri Lanka forest clips | — (bed only: namo, birds; voice waits) | — |
+| I11 | 5:10–7:00 | walking shots, monks in frame | [F31] "The worldling discerns the world around him with the help of six narrow beams of light…" (the voice begins here) | — |
 | I12 | 7:00–9:00 | meta: pixels resolve into recognised scenes — monks, birds; voice "syncs" with what you see | [F1] "…a film show or drama is produced, in the last analysis, by the spectator himself." (pixels sync to the line) | — |
 | I13 | 9:00–10:30 | forest flythrough (bird-back, monkeys, imagined creatures) — pixel-interplay resolving into a TREE | [F26] "In fact, what we have here is only a heap of imaginings." | — |
 

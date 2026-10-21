@@ -89,7 +89,8 @@ NARRATION: — (breath, water)
 ACTION: wide sea; one living thing in vast water. [OPEN CHOICE: lotus
 default / turtle with MN 129 credited / dog — see MOVIE flags]
 RHYTHM: HOLD 8s, camera locked · SOUND: waves only
-NARRATION: rarity line (flagged — bank it or quote MN 129 with credit)
+NARRATION: silence (default) — rarity line stays OPEN (lotus/turtle-
+external/credit)
 
 ### I5 — the still pool (2:00–2:25)
 ACTION: glass-flat ocean pool; no movement but light.
@@ -108,7 +109,9 @@ NARRATION: [F6] theme verse, second reading (colour)
 ACTION: direct inverse of I1–I2: cover settles over the book, fade out,
 namo. (LOOP POINT — thesis law 1: no beginning.)
 RHYTHM: exact mirror of I2, then black
-NARRATION: — (namo)
+NARRATION: [F4] "The very question of a first beginning is ill
+conceived — it is like an attempt to find a starting point in a
+cycle." (said over the inversion — the film undoes itself)
 
 ### I8 — black (3:25–3:30)
 RHYTHM: HOLD 5s, total silence
@@ -123,13 +126,15 @@ NARRATION: — (namo, single voice)
 ### I10 — monastery, Sri Lanka (4:10–5:10)
 ACTION: cinematic monastery shots; real Sri Lanka forest clips; walking.
 RHYTHM: STEPPED wide shots, 3 cuts max
-NARRATION: namo continues under; birds
+NARRATION: — (bed only: namo, birds; the voice waits one beat)
 
 ### I11 — the voice arrives (5:10–7:00)
-ACTION: walking shots, monks in frame.
+ACTION: walking shots, monks in frame. The narrator is here.
 RHYTHM: walking pace, match cuts
-NARRATION: [DRAFT — owner to voice] opening line choice from the
-excavations (candidates banked: F1/F7/F6)
+NARRATION: [F31] "The worldling discerns the world around him with the
+help of six narrow beams of light, namely the six sense-bases."
+ALT candidates if this slot wants a different opener: [F27] back-stage
+/ [F30] glue of craving
 
 ### I12 — look at the screen (7:00–9:00)
 ACTION: meta instruction — pixels resolve into recognised scenes; the
