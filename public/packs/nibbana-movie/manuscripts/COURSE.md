@@ -59,45 +59,53 @@ gets fed properly).
 ## How the other structures fit INSIDE this one
 
 - **The 6 sections** = recurring checkpoint questions asked inside every
-  movement (the spiral the sermons themselves perform — each movement
-  touches all six; the excavations are pre-sorted so the material is
-  findable). Retrieval + rhythm, not acts.
+  pass (the spiral the sermons themselves perform — each pass touches
+  all six; the excavations are pre-sorted so material is findable).
+  Retrieval + rhythm, not acts.
 - **The 4 truths** = the skeleton stated where Nāṇananda states it (M5)
   and carried silently behind M3–M4; FORMULA's L7 is its compression.
-## THE FORMAT — 1→33, increasing granularity (the gradient)
-
-One pass through the sermons in order, with **depth rising along the
-way**. Depth is a function of position, not a per-act choice:
-
-| movement | sermons | granularity | what the frame looks like |
-|---|---|---|---|
-| M1 | 1–8 | L1–L2 (compressed → evidence) | wide, sparse: one motif at a time, big and simple (fire alone, the dog alone) |
-| M2 | 9–17 | L2–L3 (evidence → mechanism) | motifs begin explaining themselves; anatomy appears (the loop, the stamp) |
-| M3 | 18–25 | L3–L4 (mechanism → full argument) | dense: the tetralemma chain carried in full; motif *interactions* (fire×ocean×palm-stump) |
-| M4 | 26–27 | L4 (the hinge, meta) | the show looks at itself; the pivot; grain briefly pulls back to wide for the turn |
-| M5 | 28–33 | L4–L6 (practice → receipts) | finest: tool-kits, trial timing, first principles, the receipts on screen |
-
-**Why this is the source's own shape:** the sermons already re-approach
-each theme at greater depth (the continuation chain is re-approach).
-The film's gradient simply stops fighting that — early sermons fast and
-wide because they ARE establishing; late sermons slow and fine because
-they ARE the unpacking.
-
-**Visualization rule (motifs expand, not multiply):** every motif is
-INTRODUCED at the shallowest level that needs it (one clean image), and
-when the sermons re-approach it later, it RETURNS at higher resolution
-— fire: a flame (M1) → the fuel catechism's anatomy (M3) → the ember
-reprise (M5). The frame density curve rises with the granularity:
-sparse → dense. Motifs are leitmotifs developed symphonically — never
-reintroduced from scratch, never left at first-statement depth.
-
-- **The levels of detail (L1–L6)**
+- **The levels of detail (L1–L6)** = the depth vocabulary for each
+  PASS: P1=L1 · P2=L2 · P3=L3 · P4=L4–L6 · P5=L6-still (see THE LOOP).
 - **The invisibility/urgency doctrine** = M2's interpretive key (why
   the machinery is unseen) and M4's device (the film never shows a
   defect).
-- **Film B (cinematic)** is untouched by this: it already has its own
-  structure (hook → prologue → zones → coda) and mirrors these five
-  acts loosely through its zone walk.
+- **Film B (cinematic)** is untouched: own structure (hook → prologue →
+  zones → coda), loosely mirroring these five acts through its zone walk.
+
+## THE LOOP (same thing, five times, expanded)
+
+Not a ramp along the sequence — **a loop over it.** The same course is
+told FIVE times. Each telling restarts at the SAME starting point and
+re-walks the same sequence, expanded one level. Units are named
+`m<pass>.<step>` (m1.1, m1.2, m1.3, m1.4 ...).
+
+- **Pass 1 (m1.x): the claim.** Each unit = one statement + one image.
+  Fast, wide, sparse.
+- **Pass 2 (m2.x): claim + evidence.** Same restart; each unit now
+  carries its banked quote and simile (the 33 sittings become the
+  index here — any unit can drop to the sitting with its best line).
+- **Pass 3 (m3.x): mechanism.** Same restart — how it works inside:
+  loop anatomy, the stamp, the practice mechanics (grab.html anatomy
+  lives at this depth).
+- **Pass 4 (m4.x): THE FULL ENCAPSULATION.** By the fourth telling of
+  any unit everything is on the table — one position at full depth
+  contains the whole (the hologram property). m1.4 = first full
+  encapsulation.
+- **Pass 5 (m5.x): what remains.** Nothing new. The same units, finally
+  quiet — the film's own "section 6": the all-there, stated once,
+  still.
+
+Property: restart → expand → restart → expand → by .4 it is all there →
+.5 is silence with the all-there. The audience learns the spine by
+repetition and receives only *depth*, never a new plot.
+
+VISUALIZATION: each pass is a ZOOM into the same frame. m1.1 = the
+simple icon; m1.4 = the same icon fully exploded and interlocked (the
+motif ecology complete); m5 = the icon, still, unannotated. Canvas
+native: same objects, expanding — the quill-canvas/PREZI motion from
+the vision doc. Motifs never change identity between passes — only
+resolution (leitmotif rule preserved). Frame density also follows the
+walk within each pass: M1 zones sparse, M3 zones dense, M5 fine.
 
 ## Why not the alternatives (settled)
 
@@ -108,11 +116,14 @@ reintroduced from scratch, never left at first-statement depth.
   its own beat).
 - **Level-structure as the top frame:** depth is a property of telling,
   not of ordering — ordering must come from the source.
+- **Monotonic position-gradient** (depth rising once, along 1→33):
+  settled against — depth is delivered by RESTARTING and expanding
+  (the loop), not by passing once faster then slower.
 
 ## Next steps (Film A)
 
-1. Per-movement lesson cards: for each sitting (33), one row: sermon
+1. Per-sitting lesson cards: for each sitting (33), one row: sermon
    number · its "continues" link · its 6-section lean · its best
-   banked [F#] · depth choice (L1–L6).
+   banked [F#] · which pass first touches it (m1..m5).
 2. M1 lesson cards first (sermons 1–8) — the pilot batch.
 3. grab.html G1–G4 slots into M2 (the machinery) at L3 depth.
