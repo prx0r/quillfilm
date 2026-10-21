@@ -379,3 +379,48 @@ of all assets, the destruction of craving, detachment, cessation,
 extinction.'"
 
 ---
+
+---
+
+## CLOSE (the bookend — same block as the open, copied again)
+
+**(S01 · copied — reprise)**
+
+### The theme verse (AN, the whole series' frame)
+"Etam santam etam panitam: sabbasankharasamatho, sabbupadhipatinissaggo,
+tanhakkhayo, virago, nirodho, nibbanam."
+"This is peaceful, this is excellent, namely the stilling of all
+preparations, the relinquishment of all assets, the destruction of
+craving, detachment, cessation, extinction."
+Alternative: "This is peaceful, this is sublime: the calming of all
+constructions, the letting go of all supports, the extinguishing of
+craving, dispassion, cessation, Nibbana."
+**This is itself a meditation subject** (kammatthana). Reflection on the
+peace of Nibbana (upasamanussati).
+
+---
+
+## VIDEO SHELL (standalone cut — structure only, no new words)
+
+Facts card (on screen, opening): "33 sermons of nibbāna — from
+Ñāṇananda Thera, *Nibbāna: The Mind Stilled* (BCBS / Dharma Seed,
+free). Pass 1: the structured explanation."
+
+THE CUT:
+1. INTRO — as written in INTRO.md (chant → cover → water → moon →
+   inverse → black → chanter), ends on black.
+2. TITLE CARD (facts above), one bell.
+3. SIX SCENES = the six segments in this document, in order. Per scene:
+   - CARD: the segment title (the ## heading), bell #1–#6
+   - READ: the quoted passages aloud, in block order (the quoted lines
+     only — never the bracket tags)
+   - SHOW: (S##) as source chyrons when a line is read; the ### titles
+     as section cards
+   - HOLD: silence between blocks; no music under holds
+4. CLOSE: the theme-verse block again (copied above), held on still —
+   then black, namo returns (loop-compatible with INTRO).
+
+READ RULE: only the text inside quotation marks is spoken. Everything
+else is card, chyron, or silence.
+LENGTH RULE: no block is paraphrased to fit — if a beat must shorten,
+a block is cut whole (selection, never rewriting).
