@@ -116,6 +116,20 @@ is Nibbāna." — Sn 21 (Pali: taṇhakkhayo hi, Rādha, nibbānaṃ) — STOP
 E1 — THE ONE SPOKEN NAMING. The word arrives once, late; the spectator
 re-hears the whole film through it. Never used twice.
 
+## RAMP LINES (banked this session, each verified against raw)
+
+**[F36] Ñāṇananda, S1, eleven-fold fire** — "Therefore Nibbāna may be best rendered by the word 'extinction'." — STOP m1.1.
+**[F37] Ñāṇananda, S1, firewood** — "This is a case of a relation of this to that, idappaccayatā." — STOP m3.1.
+**[F38] Ñāṇananda, S1, Theragāthā** — "I am grown cool, extinguished as I am." — STOP m5.1.
+**[F39] Ñāṇananda, S14** — "the forms of imaginings or methinkings, which the Buddha had compared to an extremely subtle bondage of Māra." — STOP m3.2.
+**[F40] Ñāṇananda, S15** — "When the superior lustre of wisdom arises, those six sense-bases go down." — STOP m5.2.
+**[F41] Ñāṇananda, S25, alms-food verse** — "In both circumstances he is such, And comes back like one who walks up to a tree." — STOP m5.5.
+**[F42] Ñāṇananda, S26** — "Instead he now settles into a mood of equanimity." — STOP m5.4.
+**[F43] Ñāṇananda, S27, the pivot** — "If it has worked, it is time now for the elixir." — STOP m1.4.
+**[F44] Ñāṇananda, S30, the maxim** — "therein, depending on this, abandon this" — STOP m1.5.
+**[F45] Ñāṇananda, S33** — "It is the present preparations that are elusive and difficult to muster." — STOP m3.5.
+**[F46] Ñāṇananda, S33, his own synopsis** — "All what we brought up in these sermons concerns the question of the two ends and the middle." — STOP m4.5.
+
 ## ALT / OPEN-SEAT LINES
 **[F19] Ñāṇananda, S5** — "One has to hold the razor in a relaxed way,
 as if one is going to throw it away." — Sn 5 — alt razor (softer).

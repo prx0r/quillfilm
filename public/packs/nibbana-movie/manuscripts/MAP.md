@@ -97,10 +97,11 @@ not S30)
 - Reprises are deliberate: [F10] in m2.3 and m5.3 (same words, two
   depths); [F7] appears at m2.1 and returns as the film's closing
   ember (STORYBOARD E1).
-- Bank before film use (the (S#) lines): S1 extinction + idappaccayatā
-  + grown-cool · S14 methinkings · S15 lustre · S25 alms-tree · S26
-  equanimity · S27 elixir · S30 maxim · S33 present-preparations +
-  synopsis.
+- Banked this session (each verified against raw): S1 extinction [F36]
+  · S1 idappaccayatā [F37] · S1 grown-cool [F38] · S14 methinkings
+  [F39] · S15 lustre [F40] · S25 alms-tree [F41] · S26 equanimity
+  [F42] · S27 elixir [F43] · S30 maxim [F44] · S33 present-preparations
+  [F45] · S33 synopsis [F46]. All MAP lines now have WEAVE IDs.
 - Word budget: 25 units × ~25 words ≈ the whole skeleton spoken in
   under four minutes — the floor the plain-english swap has to stay
   above.
