@@ -5,6 +5,19 @@ SOUND (banked ID = WEAVE verbatim; [DRAFT] = owner to voice) · BELL.
 Timings for I1–I15 are estimates; A3/A4 rows fill after narration pass.
 Stills: one held frame per row at this stage (render pass comes later).
 
+## A-1 HOOK — the magic show (pre-title · I-row estimates start after this act)
+
+| # | est t | SCENE (still) | NARRATION / SOUND | BELL |
+|---|---|---|---|---|
+| H1 | 0:00–0:15 | pure black; faint hall room-tone | [DRAFT] "Watch closely. This is a magic show. Tell me if you see it." → [F21] "Today I must see the magic show inside out!" | — |
+| H2 | 0:15–0:45 | light plays across the black — a show we almost see; ends with the light pixelating apart | [F24] "…there is no magic in any of those gadgets." | **BELL Y (magic show)** |
+| H3 | 0:45–1:10 | still black / faint hall | [F22] the interrogation — two voices (watched closely? missed the show?) | — |
+| H4 | 1:10–1:35 | **BLACK SCREEN — AUDIO ONLY** (penetration: the words land on the viewer, not the film) | [F23] "a sea of craned necks, gaping mouths and goggle-eyes…" | — |
+| H5 | 1:35–1:50 | black HOLD → one breath → the namo of I1 begins | silence, then breath | — |
+
+Note: hook runtime ≈ 1:50 — add to I-row estimates when the timing pass
+runs. True loop point of the finished film = H1 (the question re-asked).
+
 ## A0 INTRO (from INTRO.md — verbatim draft, mapped to rows)
 
 | # | est t | SCENE (still) | NARRATION / SOUND | BELL |

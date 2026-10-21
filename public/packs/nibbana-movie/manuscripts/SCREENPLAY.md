@@ -10,6 +10,52 @@ reprises ring the same bell, never a new one.
 
 ---
 
+## HOOK — watch closely (rows H1–H5 · pre-title)
+
+Principle encoded: the film speaks about the screen while it speaks
+about you — held until it punctures. Bells: BELL Y rings here (magic
+show = introduced, never again).
+
+### H1 — the invitation (0:00–0:15)
+ACTION: pure black. Faint hall room-tone. A voice, close, unhurried,
+addresses the spectator directly — about the film.
+RHYTHM: AUDIO ONLY, no image at all (the film starts as radio)
+NARRATION: [DRAFT — owner to voice] "Watch closely. This is a magic
+show. Tell me if you see it." → [F21] "Today I must see the magic show
+inside out!"
+
+### H2 — the show (0:15–0:45) · **BELL Y — magic show**
+ACTION: light plays across the black — almost a shape, never quite a
+thing; at the end the light disintegrates into loose pixels that drift
+off-frame (the E2 deconstruction, seeded early).
+RHYTHM: BELL Y, then flicker (STEPPED), no image resolves
+NARRATION: [F24] "With this vision, he comes to the conclusion that
+there is no magic in any of those gadgets."
+
+### H3 — the interrogation (0:45–1:10)
+ACTION: still black (or the faintest hall grain). Two voices — the
+naive friend and the one who saw through it.
+RHYTHM: dialogue rhythm; cut only between voices
+NARRATION: [F22] "Why, you were in the same hall all this time…"
+… "No, I saw it. In fact I saw it so well that I missed the show."
+
+### H4 — the penetration (1:10–1:35)
+ACTION: **BLACK SCREEN — AUDIO ONLY.** The audience-description lands
+on us: the words are about the viewer now, not the film. (Tension
+spent: spectator thought they were discussing the screen.)
+RHYTHM: pure audio, HOLD under the last words for 3s
+NARRATION: [F23] "The entire hall is a sea of craned necks, gaping
+mouths and goggle-eyes…"
+ALT: [F25] "He is simply looking on with a vacant gaze." (spare)
+
+### H5 — breath (1:35–1:50)
+ACTION: black HOLD; one breath; the namo of I1 begins over black —
+seamless into the prologue.
+RHYTHM: HOLD 6s → sound bridge
+NARRATION: —
+
+---
+
 ## PROLOGUE — the screen that isn't (rows I1–I16)
 
 ### I1 — cover, greyscale (0:00–0:25)
@@ -236,9 +282,9 @@ NARRATION: [F2] "So far not a single cinema has held a film show…
 And yet… they had seen film shows and dramas."
 
 ### E3 — loop (tbd)
-ACTION: black; namo; the frame is identical to I1 — the film never
-began.
-RHYTHM: LOOP marker; cut point = I1
+ACTION: black; namo; cut point = **H1** — the invitation re-asks
+itself: "Tell me if you see it." The film never began.
+RHYTHM: LOOP marker (loop target = H1, not I1)
 NARRATION: [F5] "…the Tathāgata has not taken his stand upon it."
 BELL: — (no bell; cessation, not conclusion)
 
@@ -246,14 +292,25 @@ BELL: — (no bell; cessation, not conclusion)
 
 ## Rhythm map (macro)
 
-Prologue: DRIFT → stilling → one gasp → mirrored exit (law: no
-beginning). Sections 1–6: one bell each, entries BELL+HOLD, interiors
-STEPPED (stop-motion), no speed-ramps anywhere (speedlessness is the
-argument). Coda: one continuous pull, LOOP. Silence is a rhythm: every
-HOLD ≥8s carries no music — only bed (water, wind, fire).
+HOOK: radio → flicker → interrogation → pure-audio penetration (the
+spectator named). Prologue: DRIFT → stilling → one gasp → mirrored
+exit (law: no beginning). Sections 1–6: one bell each, entries
+BELL+HOLD, interiors STEPPED (stop-motion), no speed-ramps anywhere
+(speedlessness is the argument). Coda: one continuous pull, LOOP to H1.
+Silence is a rhythm: every HOLD ≥8s carries no music — only bed
+(water, wind, fire, hall room-tone).
+
+Sound-design principle (owner, hook pass): the score should blend into
+reality like everyday sound — birdsong crossing into music and back.
+Touchstones to confirm: Tōru Takemitsu (nature/everyday sound as
+score), Sakamoto "async" (recorded world as music), Cage's 4'33"
+principle (the room is the piece). Attribution check before any credit.
 
 ## Open flags (carry from MOVIE.md)
 - I4 rarity beat: lotus default / turtle (MN 129, credited) / dog.
 - Z4a narration needs a banked puppet-show line (sermon 8 pass).
+- Magic-show deep-bank pass pending: S6 back-stage/rehearsal, S15
+  beam-of-light, S11 vacant-gaze extended — to thicken H2/H4 and the
+  courtyard voice.
 - A3/A4 timings: after narration writing, run timing pass → update
   STORYBOARD `tbd`, then `board_validate` + `boardcheck`.

@@ -60,6 +60,27 @@ seamstress/knots (bell K).
 forth a lotus, pure in fragrance and charming." — Dhammapada, Flowers —
 STOP lotus/finale (bell L).
 
+## HOOK — the magic show (pre-title)
+**[F21] Ñāṇananda, S26** — "Today I must see the magic show inside
+out!" — Sn 26, the wisdom-eyed spectator's vow — STOP H1 invitation.
+**[F22] Ñāṇananda, S26** — "'Why, you were in the same hall all this
+time, weren't you?' 'Yes, I was.' 'Then were you sleeping?' 'Oh, no.'
+'You weren't watching closely, I suppose.' 'No, no, I was watching it
+all right, maybe I was watching too closely.' 'You say you were
+watching, but you don't seem to have seen the show.' 'No, I saw it. In
+fact I saw it so well that I missed the show.'" — Sn 26, the dialogue
+after the show — STOP H3 interrogation (two voices).
+**[F23] Ñāṇananda, S26** — "The entire hall is a sea of craned necks,
+gaping mouths and goggle-eyes with 'Ahs' and 'Ohs' and whistles of
+speechless amazement." — Sn 26 — STOP H4 penetration (over black: the
+film describing YOU).
+**[F24] Ñāṇananda, S26** — "With this vision, he comes to the
+conclusion that there is no magic in any of those gadgets." — Sn 26 —
+STOP H2 (after the show, before the interrogation).
+**[F25] Ñāṇananda, S11** — "He is simply looking on with a vacant
+gaze." — Sn 11, the wise spectator at the magic show — STOP alt H4
+(spare: the spectator's actual state).
+
 ## ALT / OPEN-SEAT LINES
 **[F19] Ñāṇananda, S5** — "One has to hold the razor in a relaxed way,
 as if one is going to throw it away." — Sn 5 — alt razor (softer).

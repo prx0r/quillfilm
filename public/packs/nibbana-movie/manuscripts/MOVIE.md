@@ -17,6 +17,10 @@ know-all, stand nowhere.
    stops, no climax. Cessation, not conclusion.
 3. **No time** — present-tense narration; cycle with no first frame;
    long holds expose that motion pictures are only stills [F3].
+4. **The spectator is the subject** — the film talks about the screen
+   while it talks about you; hold that tension until it punctures
+   (hook: black screen, audio only, the audience described over the
+   viewer's own dark room). Loop = H1, the question re-asked.
 
 ## The world (one diorama, GLB later — NOT this stage)
 Sea → sand+fire → whirlpool → courtyard → puppet hall+dock → workshop →
@@ -27,6 +31,7 @@ recurrence of that bell = the contemplation jolt in daily life.
 ## Structure
 | Act | content | rows |
 |---|---|---|
+| A-1 HOOK | magic show pre-title: invitation [F21] → show [F24] → interrogation [F22] → BLACK-AUDIO penetration [F23] | H1–H5 |
 | A0 INTRO | draft is scripture: `INTRO.md`, verbatim | I1–I9 |
 | A1 ARRIVAL | chant, monastery, Sri Lanka clips, meta pixel instruction | I10–I13 |
 | A2 FIRST MOTIF | tree → chop → water → **fire = motif 1 [BELL F]** | I14–I15 |
@@ -45,7 +50,10 @@ leaves; fire motif carries the only warm light until zone 6 dawn.
 CAMERA: locked-off ritual frames; no speed-ramps (speedlessness is the
 argument — cf. film-hindu note). TEXTURE: sand, water, wood, cloth.
 AUDIO: namo chant bookends (loop), bells at motif introductions only,
-wave/forest beds from the Sri Lanka clip section onward.
+wave/forest beds from the Sri Lanka clip section onward. Score must
+BLEND INTO REALITY (everyday sound: birdsong crossing into music and
+back — touchstones to confirm: Takemitsu, Sakamoto "async", Cage 4'33"
+principle). Hook runs on room-tone + voice alone.
 
 ## READs (banked, quote-safe)
 Theme verse [F6] ×2 (grey intro, colour moon) · fire [F7] at I15 ·

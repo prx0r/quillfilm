@@ -721,7 +721,7 @@ def movie_outline(pack: str) -> str:
         return ' '.join(m.group(1).split()) if m else ''
     thesis = sect('Thesis').split('Ground:')[0].strip()
     laws = re.findall(r'^\d+\.\s+\*\*(.+?)\*\*\s*(.*)$', md, re.M)
-    acts = re.findall(r'^\|\s*(A\d[^|]*)\|\s*([^|]*)\|\s*([^|]*)\|', md, re.M)
+    acts = re.findall(r'^\|\s*(A[\w\-]+\s+[^|]*?)\s*\|\s*([^|]*)\|\s*([^|]*)\|', md, re.M)
     reads = re.search(r'^## READs.*?$(.*?)(?=^##\s|\Z)', md, re.M | re.S)
     flags = re.search(r'^## Flags.*?$(.*?)(?=^##\s|\Z)', md, re.M | re.S)
     out = [f'{pack}/{name}', '', f'THESIS: {thesis[:500]}', '', 'LAWS:']

@@ -90,8 +90,8 @@ async def main():
 
             # 6. board_parse (local pack → shot rows)
             t, dt, err = await call(session, 'board_parse', {'pack': 'nibbana-movie'})
-            ok('board_parse', not err and '25 rows' in t and 'I16' in t and 'Z6' in t,
-               f'rows parsed, {dt}s')
+            ok('board_parse', not err and '30 rows' in t and 'H1' in t
+               and 'I16' in t and 'Z6' in t, f'rows parsed, {dt}s')
 
             # 7. board_validate (local: WEAVE refs, bells, timings)
             t, dt, err = await call(session, 'board_validate', {'pack': 'nibbana-movie'})
