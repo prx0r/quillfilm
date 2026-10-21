@@ -40,20 +40,28 @@ fails or fades. *The sequence feeling→craving is not a necessary one*
 opens. [DECODE: yoniso manasikāra · virāga · the razor — hold it
 lightly or it goes blunt (F15)]
 
-**L5.** But **why does it grab in the first place?** Back to the 33
-sermons. Because:
-(a) there is something to signify: *lust, hate and delusion are
-"makers of signs"* — signs become significant only while those three
-exist (S25);
-(b) the stamp (saññā) is applied so fast it feels like the thing
-itself — and the stamp spirals: sign → story → web (papañca, the
-spiralling);
-(c) the spiral is pegged by the "I" (asmimāna — seeing → "I see");
-(d) and the whole thing runs as a loop (vaṭṭa) that splits every
-moment into two ends and a middle (S33: *where there are two ends,
-there is a middle*) — the grab is the mind trying to close a gap it
-itself created; the mirage gap can never be closed by running.
-This is **dependent origination**: this-then-that, all the way down.
+**L5.** But **why does it grab in the first place?** — first-principles
+answer, not a doctrinal one:
+(a) **Evolution explains the grab's existence**: acting beats
+evaluating; selection builds pre-computed value policies (input → tag →
+action) fired below awareness — the 25–100ms grab IS the design spec.
+The three polarities are its operating states: approach / avoid /
+model-error (what the tradition calls lust, hate, delusion — an
+inside-view inventory of the policy, NOT a cause).
+(b) **The binding is also evolved**: fitness requires the tag to *feel
+like a property of the world* — truth isn't selected for, action is.
+So the pull is constructed and projected (the mirage; "the various
+things just stand there"). Evolution guarantees the felt-affordance;
+it cannot give you the view from outside it.
+(c) **What evolution does NOT explain — the recursion**: a policy
+built for objects, turned on its own outputs by a self-modeling,
+language-equipped system. Craving about craving; the identity grabbed
+as an object; simulated futures suffered in advance; the second dart.
+No fitness function selected this — it's a spandrel. The spiral,
+the loop, the "and then" (the sermons' topology: signs → spiralling →
+"I"-peg → two ends and a middle) is the map of THAT — which is why
+the sermons can show the off-switch: they describe the recursion
+evolution built but never selected for.
 
 **L6.** Which means: **to understand nibbāna you basically have to
 understand all of Buddhism — and that's literally the point.** The
