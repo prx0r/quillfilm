@@ -24,8 +24,11 @@ Sources (auto-loaded; attach 1–3 per chat question):
   pack-53 excavation files if attached.
 
 ## Rules of this film
+- Film = Ñāṇananda's words only: [F#] verbatim or [RENDER] close
+  plain-English of his words (papañca → spiralling/proliferation/
+  elaboration). No invented doctrine; no other teachers.
 - Thesis: mind makes the movie; the film refuses progression,
-  resolution, time (see MOVIE.md).
+  resolution, time — and the spectator is the subject (see MOVIE.md).
 - One bell per motif introduction; reprises ring the same bell.
 - Blender/GLB world, stills rendering, and TTS pass come AFTER the
   board is approved (owner, 2026-10-20).

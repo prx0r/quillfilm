@@ -2,8 +2,14 @@
 
 Board of record: `STORYBOARD.md` (rows, timings, bells). This manuscript
 is the same rows arranged for writing — scene blocks keyed by row ID.
-Quote law: `[F#]` = verbatim from `sources/WEAVE.md`; new lines marked
-`[DRAFT — owner to voice]`; no quote without a bank ID (SILENT).
+Quote law (film = Ñāṇananda only): `[F#]` = verbatim from
+`sources/WEAVE.md`; `[RENDER — S#]` = close plain-English of his own
+words (papañca → spiralling / proliferation / elaboration); invented
+doctrine is forbidden and other teachers do not appear. Owner glue only
+as last resort, marked `[DRAFT — owner to voice]`; a quote without a
+bank ID is SILENT.
+TROJAN (never stated on screen): the words are about the film until
+they are about you. No line may explain the switch.
 Rhythm vocabulary: HOLD · PUSH · DRIFT · NO CUTS · BELL+HOLD · LOOP ·
 STEPPED (stop-motion 2s/3s holds). Bells only at motif introductions;
 reprises ring the same bell, never a new one.
@@ -18,11 +24,11 @@ show = introduced, never again).
 
 ### H1 — the invitation (0:00–0:15)
 ACTION: pure black. Faint hall room-tone. A voice, close, unhurried,
-addresses the spectator directly — about the film.
+addresses the spectator directly — about the film. (No invented line:
+his vow IS the invitation; the "tell me if you see it" tension is
+carried by structure, not by a new sentence.)
 RHYTHM: AUDIO ONLY, no image at all (the film starts as radio)
-NARRATION: [DRAFT — owner to voice] "Watch closely. This is a magic
-show. Tell me if you see it." → [F21] "Today I must see the magic show
-inside out!"
+NARRATION: [F21] "Today I must see the magic show inside out!"
 
 ### H2 — the show (0:15–0:45) · **BELL Y — magic show**
 ACTION: light plays across the black — almost a shape, never quite a
@@ -45,7 +51,9 @@ on us: the words are about the viewer now, not the film. (Tension
 spent: spectator thought they were discussing the screen.)
 RHYTHM: pure audio, HOLD under the last words for 3s
 NARRATION: [F23] "The entire hall is a sea of craned necks, gaping
-mouths and goggle-eyes…"
+mouths and goggle-eyes…" then, last line before the breath:
+[F28] "…when there is no spectator in the cinema hall — will there be
+a film at all?"
 ALT: [F25] "He is simply looking on with a vacant gaze." (spare)
 
 ### H5 — breath (1:35–1:50)
@@ -120,14 +128,17 @@ NARRATION: namo continues under; birds
 ### I11 — the voice arrives (5:10–7:00)
 ACTION: walking shots, monks in frame.
 RHYTHM: walking pace, match cuts
-NARRATION: [DRAFT — owner to voice] Nāṇananda voiceover begins
-(pick lines later from pack 53 excavations)
+NARRATION: [DRAFT — owner to voice] opening line choice from the
+excavations (candidates banked: F1/F7/F6)
 
 ### I12 — look at the screen (7:00–9:00)
 ACTION: meta instruction — pixels resolve into recognised scenes; the
 narrator's voice starts controlling what we see and hear.
 RHYTHM: build — pixels gain detail in steps; SYNC cue at 8:10
-NARRATION: [DRAFT] "look at the screen you are watching this on…"
+NARRATION: [F1] "…a film show or drama is produced, in the last
+analysis, by the spectator himself."
+NOTE: the "look at the screen" beat stays as ACTION direction (the
+pixels sync to his line), not as new narration.
 
 ### I13 — forest flight (9:00–10:30)
 ACTION: on the back of a bird past monkeys and imagined creatures; the
@@ -145,7 +156,7 @@ which is a perversion, vipallāsa."
 ### I15 — the tree comes down (11:30–12:30)
 ACTION: someone chops the tree; wood and water carried to camp.
 RHYTHM: labour rhythm, 4 beats of chopping
-NARRATION: [DRAFT] transition line
+NARRATION: — (labour, wood, water; or silent)
 
 ### I16 — fire (12:30–13:30) · **BELL F — MOTIF 1**
 ACTION: fire set from the wood; close on the flame.
@@ -221,7 +232,9 @@ backs the observer-fall, or assign BELL P if owner rings it).
 ACTION: stop-motion monks moving with no visible puppeteer; a marionette
 crosses the hall, strings fading out mid-walk.
 RHYTHM: STEPPED 12fps feel; strings vanish on a cut you don't see
-NARRATION: [DRAFT] puppet-show line (bank from sermon 8 next pass)
+NARRATION: [F32] "On seeing how beings in saṃsāra are reborn in high
+and low realms according to their deeds, as in a puppet show."
+ALT: [F33] monodrama line · [F34] no-bike dumb show (texture)
 
 ### Z4b — dog on the plank (tbd)
 ACTION: a plank at the dock; a dog stops, stares at its own reflection,
@@ -269,6 +282,8 @@ charming."
 ACTION: the prologue fire pit, hours later; one ember; nothing else.
 RHYTHM: HOLD, no music, no new bell (reprise of F)
 NARRATION: [F7] reprise (same bell — return, not introduction)
+ALT: [F29] "It is gone, gone, gone forever. Those preparations are
+irrevocably past." (law 3)
 
 ---
 
@@ -309,8 +324,10 @@ principle (the room is the piece). Attribution check before any credit.
 ## Open flags (carry from MOVIE.md)
 - I4 rarity beat: lotus default / turtle (MN 129, credited) / dog.
 - Z4a narration needs a banked puppet-show line (sermon 8 pass).
-- Magic-show deep-bank pass pending: S6 back-stage/rehearsal, S15
-  beam-of-light, S11 vacant-gaze extended — to thicken H2/H4 and the
-  courtyard voice.
+- ✅ magic-show deep-bank (this pass): S6 no-spectator [F28], glue
+  [F30], back-stage [F27], gone-forever [F29]; S33 heap [F26]; S15 six
+  beams [F31]; S8 puppets [F32–F34]. Spares F25/F27/F30/F31/F33/F34
+  sit in the bank for courtyard/H2 thickening when those rows are
+  written.
 - A3/A4 timings: after narration writing, run timing pass → update
   STORYBOARD `tbd`, then `board_validate` + `boardcheck`.

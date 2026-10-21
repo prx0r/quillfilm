@@ -9,10 +9,10 @@ Stills: one held frame per row at this stage (render pass comes later).
 
 | # | est t | SCENE (still) | NARRATION / SOUND | BELL |
 |---|---|---|---|---|
-| H1 | 0:00–0:15 | pure black; faint hall room-tone | [DRAFT] "Watch closely. This is a magic show. Tell me if you see it." → [F21] "Today I must see the magic show inside out!" | — |
+| H1 | 0:00–0:15 | pure black; faint hall room-tone | [F21] "Today I must see the magic show inside out!" — the vow IS the invitation (no invented line; film = Ñāṇananda only) | — |
 | H2 | 0:15–0:45 | light plays across the black — a show we almost see; ends with the light pixelating apart | [F24] "…there is no magic in any of those gadgets." | **BELL Y (magic show)** |
 | H3 | 0:45–1:10 | still black / faint hall | [F22] the interrogation — two voices (watched closely? missed the show?) | — |
-| H4 | 1:10–1:35 | **BLACK SCREEN — AUDIO ONLY** (penetration: the words land on the viewer, not the film) | [F23] "a sea of craned necks, gaping mouths and goggle-eyes…" | — |
+| H4 | 1:10–1:35 | **BLACK SCREEN — AUDIO ONLY** (penetration: the words land on the viewer, not the film) | [F23] "a sea of craned necks, gaping mouths and goggle-eyes…" → [F28] "…will there be a film at all?" | — |
 | H5 | 1:35–1:50 | black HOLD → one breath → the namo of I1 begins | silence, then breath | — |
 
 Note: hook runtime ≈ 1:50 — add to I-row estimates when the timing pass
@@ -38,8 +38,8 @@ runs. True loop point of the finished film = H1 (the question re-asked).
 |---|---|---|---|---|
 | I10 | 4:10–5:10 | cinematic monastery shots; Sri Lanka forest clips | namo continues under; birds | — |
 | I11 | 5:10–7:00 | walking shots, monks in frame | [DRAFT] Nāṇananda voiceover begins (choose lines later from pack 53) | — |
-| I12 | 7:00–9:00 | meta: pixels resolve into recognised scenes — monks, birds; voice "syncs" with what you see | [DRAFT] "look at the screen you are watching this on…" | — |
-| I13 | 9:00–10:30 | forest flythrough (bird-back, monkeys, imagined creatures) — pixel-interplay resolving into a TREE | [DRAFT] "we can imagine whatever we like, it's just pixels…" | — |
+| I12 | 7:00–9:00 | meta: pixels resolve into recognised scenes — monks, birds; voice "syncs" with what you see | [F1] "…a film show or drama is produced, in the last analysis, by the spectator himself." (pixels sync to the line) | — |
+| I13 | 9:00–10:30 | forest flythrough (bird-back, monkeys, imagined creatures) — pixel-interplay resolving into a TREE | [F26] "In fact, what we have here is only a heap of imaginings." | — |
 
 ## A2 FIRST MOTIF
 
@@ -56,7 +56,7 @@ runs. True loop point of the finished film = H1 (the question re-asked).
 | Z1 | tbd | sand front, sandcastle being scattered | [F9] | BELL S (sandcastle) |
 | Z2 | tbd | river mouth, whirlpool turning, then flattening | [F10] | BELL V (vortex) |
 | Z3 | tbd | courtyard: mirror basin → chess board → seamstress window | [F11] [F14] [F17] | BELL M / C / K |
-| Z4 | tbd | hall of puppets; dock: dog on plank over still water | [F12] (+ puppet-show line bank later) | BELL D |
+| Z4 | tbd | hall of puppets; dock: dog on plank over still water | [F32] beings reborn "as in a puppet show" + [F12] dog on the plank | BELL D |
 | Z5 | tbd | workshop: razor on whetstone; raft at landing; rock on path | [F15] [F16] | BELL Z / R |
 | Z6 | tbd | mid-ocean dawn; lotus opens on the pond | [F18] | BELL L (lotus) |
 

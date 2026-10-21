@@ -80,6 +80,36 @@ STOP H2 (after the show, before the interrogation).
 **[F25] Ñāṇananda, S11** — "He is simply looking on with a vacant
 gaze." — Sn 11, the wise spectator at the magic show — STOP alt H4
 (spare: the spectator's actual state).
+**[F26] Ñāṇananda, S33** — "In fact, what we have here is only a heap
+of imaginings." — Sn 33, maññanā on sense data — STOP I13 (pixels
+become a tree: it was always a heap of imaginings).
+**[F27] Ñāṇananda, S6** — "Now if one can get the opportunity to see
+either a rehearsal or the back-stage preparations for a drama, which
+however is not usually accessible to the public, one would be able to
+see through the drama." — Sn 6, back-stage simile — STOP alt H2/Z4a.
+**[F28] Ñāṇananda, S6** — "Now supposing the series of consecutive
+frames, which make up a motion picture, is made to appear on the scene
+when there is no spectator in the cinema hall — will there be a film at
+all?" — Sn 6 — STOP H4 final line (over black: the film asks if it
+exists).
+**[F29] Ñāṇananda, S6** — "It is gone, gone, gone forever. Those
+preparations are irrevocably past." — Sn 6, the late film-goer — STOP
+alt E1 (time theme; law 3).
+**[F30] Ñāṇananda, S6** — "A film show actually becomes a film show
+thanks to that glue used by the audience — the glue of craving." —
+Sn 6 — STOP spare (Section 3 courtyard / H2 alt).
+**[F31] Ñāṇananda, S15** — "The worldling discerns the world around
+him with the help of six narrow beams of light, namely the six
+sense-bases." — Sn 15 — STOP spare (Section 2/3).
+**[F32] Ñāṇananda, S8** — "On seeing how beings in saṃsāra are reborn
+in high and low realms according to their deeds, as in a puppet show."
+— Sn 8, the Buddha's faint smile — STOP Z4a (puppet narration).
+**[F33] Ñāṇananda, S8** — "While keeping one's postures in this manner,
+one sees in outline one's own form as if one were acting in a
+monodrama." — Sn 8, satipatṭhāna postures — STOP alt Z4a.
+**[F34] Ñāṇananda, S8** — "An actor rides a no-bike, climbs a no-hill,
+meets a no-friend and has a no-chat with him." — Sn 8, the dumb show —
+STOP spare (Section 4 texture).
 
 ## ALT / OPEN-SEAT LINES
 **[F19] Ñāṇananda, S5** — "One has to hold the razor in a relaxed way,

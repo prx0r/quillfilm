@@ -22,6 +22,23 @@ know-all, stand nowhere.
    (hook: black screen, audio only, the audience described over the
    viewer's own dark room). Loop = H1, the question re-asked.
 
+## THE POINTER (the trojan — core message)
+The whole film is a pointer/meditation disguised as a film. Every word
+is about the screen until, without announcement, it is about you —
+the spectator is the subject [law 4]. The narrator is Ñāṇananda: his
+words only, so the film's voice is the teaching itself, not a host
+around it. The realization must never be declared — it is allowed to
+land anywhere (first stab = hook H4 over black; later mirrors: the
+pixels that never change, the "Ah, here I am" [F11], the dog seeing
+because it is looking [F12], the sandcastle that was yours). Trojan
+discipline: if a line explains the trick, cut the line.
+
+Narration engine: the sermons were taped in his own lifetime (his own
+closing thanks "those fellow dwellers... who listened to these sermons
+and taped them", S33) — his recorded voice is the intended narrator
+track where usable; verify audio rights/host (BCBS · Dharma Seed)
+before any cut. Else close-render reads [RENDER].
+
 ## The world (one diorama, GLB later — NOT this stage)
 Sea → sand+fire → whirlpool → courtyard → puppet hall+dock → workshop →
 lotus dawn. See `51-nibbana-movie/MOTIFS.md` (satsang-extensions) for
