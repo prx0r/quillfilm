@@ -1,6 +1,12 @@
 # nibbana-movie — quill pack
 
 Manuscripts (File → Video packs… loads these into the editor):
+- `SCREENPLAY.md` — **the stagewrite**: prologue + the 6 scaffold
+  sections as scene blocks keyed to row IDs, with rhythm cues
+  (HOLD · PUSH · DRIFT · NO CUTS · BELL+HOLD · LOOP · STEPPED) and
+  narration slots ([F#] banked / [DRAFT]). First in the manifest →
+  it's what `?canvas=nibbana-movie` places as arrangeable chapters.
+  Rhythm lives here, not in the board.
 - `INTRO.md` — the owner's intro draft, verbatim (do not rewrite)
 - `MOVIE.md` — thesis (no progression / no resolution / no time), acts,
   cinematography, READ list, flags

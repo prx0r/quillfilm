@@ -509,6 +509,7 @@ def _parse_board(md: str):
             'scene': cells[2] if len(cells) > 2 else '',
             'narration': cells[3] if len(cells) > 3 else '',
             'bell': cells[4] if len(cells) > 4 else '',
+            'rhythm': cells[5] if len(cells) > 5 else '',
         })
     return rows
 
@@ -575,7 +576,8 @@ def board_parse(pack: str, doc: str = "") -> str:
     out = [f'{pack}/{name}: {len(rows)} rows']
     for r in rows:
         bell = f' · {r["bell"]}' if r['bell'] and r['bell'] not in ('—', '-') else ''
-        out.append(f'  {r["id"]:>4} [{r["act"][:28]:<28}] {r["t"]:<14} {r["scene"][:60]}{bell}')
+        rhythm = f' · R:{r["rhythm"]}' if r.get('rhythm') and r['rhythm'] not in ('—', '-') else ''
+        out.append(f'  {r["id"]:>4} [{r["act"][:28]:<28}] {r["t"]:<14} {r["scene"][:60]}{bell}{rhythm}')
         if r['narration'] and r['narration'] not in ('—', '-'):
             out.append(f'        NAR: {r["narration"][:100]}')
     return '\n'.join(out)

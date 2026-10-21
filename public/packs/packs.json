@@ -664,6 +664,10 @@
       "blurb": "Motif film: intro (verbatim), thesis (no progression/resolution/time), zone world, bell quote bank from the 33 sermons. Board stage: stills, timings, narration.",
       "manuscripts": [
         {
+          "file": "SCREENPLAY.md",
+          "title": "SCREENPLAY"
+        },
+        {
           "file": "INTRO.md",
           "title": "INTRO"
         },
