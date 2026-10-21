@@ -32,6 +32,10 @@ land anywhere (first stab = hook H4 over black; later mirrors: the
 pixels that never change, the "Ah, here I am" [F11], the dog seeing
 because it is looking [F12], the sandcastle that was yours). Trojan
 discipline: if a line explains the trick, cut the line.
+Nibbāna is never EXPLAINED — but it is NAMED once, late, in a banked
+line [F35] (E1): the spectator may or may not turn the whole film
+through that word. The cover title in I1/I2 is the silent first tell;
+the spoken name is the second.
 
 Narration engine: the sermons were taped in his own lifetime (his own
 closing thanks "those fellow dwellers... who listened to these sermons

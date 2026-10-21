@@ -278,12 +278,16 @@ RHYTHM: the slowest HOLD in the film; BELL L
 NARRATION: [F18] "…there blossoms forth a lotus, pure in fragrance and
 charming."
 
-### E1 — the flame is out (tbd)
+### E1 — the flame is out, and it is named (tbd)
 ACTION: the prologue fire pit, hours later; one ember; nothing else.
 RHYTHM: HOLD, no music, no new bell (reprise of F)
-NARRATION: [F7] reprise (same bell — return, not introduction)
-ALT: [F29] "It is gone, gone, gone forever. Those preparations are
-irrevocably past." (law 3)
+NARRATION: [F7] reprise (same bell — return, not introduction), then
+the one spoken naming: [F35] "For, the destruction of craving, Rādha,
+is Nibbāna."
+NOTE: first and only time the word is said. Until here the film never
+named what it was explaining — after here, everything re-hears
+through the word.
+ALT: [F29] "It is gone, gone, gone forever…" (law 3, spare)
 
 ---
 

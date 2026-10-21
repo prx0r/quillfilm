@@ -111,6 +111,11 @@ monodrama." — Sn 8, satipatṭhāna postures — STOP alt Z4a.
 meets a no-friend and has a no-chat with him." — Sn 8, the dumb show —
 STOP spare (Section 4 texture).
 
+**[F35] Ñāṇananda, S21** — "For, the destruction of craving, Rādha,
+is Nibbāna." — Sn 21 (Pali: taṇhakkhayo hi, Rādha, nibbānaṃ) — STOP
+E1 — THE ONE SPOKEN NAMING. The word arrives once, late; the spectator
+re-hears the whole film through it. Never used twice.
+
 ## ALT / OPEN-SEAT LINES
 **[F19] Ñāṇananda, S5** — "One has to hold the razor in a relaxed way,
 as if one is going to throw it away." — Sn 5 — alt razor (softer).
