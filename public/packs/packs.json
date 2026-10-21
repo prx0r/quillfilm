@@ -699,7 +699,8 @@
       "sources": [
         "WEAVE.md",
         "DECODE.md",
-        "VALIDATION.md"
+        "VALIDATION.md",
+        "INVISIBILITY.md"
       ]
     }
   ]
