@@ -14,7 +14,12 @@ Manuscripts (File → Video packs… loads these into the editor):
   [DRAFT]) · bell/motif
 
 Sources (auto-loaded; attach 1–3 per chat question):
-- `WEAVE.md` — [F1]–[F20] verbatim quote bank from the 33 sermons
+- `DECODE.md` — **the interpretive key** (plain-English glossary +
+  journey). More important than either film: attach this when writing
+  renders or planning the companion **surgical film** (direct
+  explanation of nibbāna, no trojan) vs the **pointer film**
+  (SCREENPLAY, the magic show).
+- `WEAVE.md` — [F1]–[F35] verbatim quote bank from the 33 sermons
   (Ñāṇananda renderings, BCBS free PDFs) with cites and beat stops.
 
 ## How the AI helps (already wired)
