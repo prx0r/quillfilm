@@ -3,6 +3,8 @@
 > **quillfilm** — fork of prx0r/quill-app (the essay-film desk), cut for
 > the nibbana motif movie: same writing surface + copilot, film packs
 > under `public/packs/nibbana-movie/`. Upstream: README.upstream.md.
+> **Workflow + how-to-reproduce: `docs/SKILLS.md`** (excavation →
+> scaffold → motifs → pointer → WEAVE → board → screenplay → MCP).
 
 > Fork of [dzyla/manuscriptAI](https://github.com/dzyla/manuscriptAI) (MIT),
 > rebuilt as the writing surface for **gochema** essay-films: packs of
