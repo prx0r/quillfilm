@@ -90,30 +90,35 @@ the way.* The recipe book's whole ingredient list on one line.
 ## THE SUBSTITUTIONS (push the rule until it bottoms out)
 
 nibbāna = **destruction of craving.**
-destruction of craving = **the grab-policy stops firing at tones**
-(the tone→link is prediction-maintained; prediction fails; tag decays).
-⟹ nibbāna = the state where tones arrive and no grab follows.
+destruction of craving = **the grabbing stops.** A feeling lands —
+pleasant, painful, whatever — and the hand does not go out: no
+reaching for it, no pushing it away, no story hanging off it.
+⟹ nibbāna = feelings still happen; the grabbing doesn't.
 
-destruction of craving = **the felt world-pull decaying out** — the
-pull was the tag projected as a world-property; tag gone, the things
-just stand there.
-⟹ nibbāna = things-as-they-are, minus the felt pull.
+destruction of craving = **the pull in things decays out.** The pull
+was never out there — your system was adding it (that's what evolution
+built it to do). Stop adding it and: the cake is just cake, the insult
+is just sound, the phone is a rectangle. The things just stand there.
+⟹ nibbāna = the world with the fake-pull switched off.
 
-destruction of craving = **the misbinding seen through** — the pull
-recognized as generated (the view from outside the binding).
-⟹ nibbāna = a seeing that cannot un-see. (This is why it's an
-irreversible knowledge-change, not a strength-change.)
+destruction of craving = **you can't un-see that the pull was added.**
+You saw where it came from, so even when it flickers you read it as
+added, not as reality. It doesn't come back as belief — because it's
+what you know, not how strong you are.
+⟹ nibbāna = a seeing that can't un-see. (irreversible by knowledge,
+not by willpower)
 
-destruction of craving = **the recursion cut** — the policy no longer
-applied to its own outputs: no second dart, no "and then", no
-simulated-future suffering.
-⟹ nibbāna = first-order tone without second-order story.
-Experience, un-looped.
+destruction of craving = **the second layer stops.** No more "and
+then"; no feeling bad about feeling bad; no rehearsing tomorrow; no
+craving about craving.
+⟹ nibbāna = one layer of experience — the feeling, and nothing on
+top of it.
 
-destruction of craving = **the objective function losing its owner**
-— there is no "my discrepancy" left to minimize; the field keeps
-running (six senses still sense) but nothing is kept (assetless).
-⟹ nibbāna = the loop without the grabber.
+destruction of craving = **nobody home to keep anything.** The six
+senses still run — seeing, hearing, thinking — but no one is
+collecting. Nothing is "mine," so there is nothing to lose, guard, or
+dread.
+⟹ nibbāna = experience without a keeper.
 
 ## STREAM ENTRY, SHARPLY (the point of no return)
 
