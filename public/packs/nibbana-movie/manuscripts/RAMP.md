@@ -130,7 +130,7 @@ cross-audit of all 165 picks against the raw texts before film use
 ## m7 (sermon 7)
 
 ### m7.1 minimal
-"It is just because it is looking that it sees a dog."
+"Before the light of wisdom those ghosts, namely the four great primaries, become ineffective."
 
 ### m7.2 claim + image
 "Suppose a man comes with crimson, turmeric, indigo or carmine and says: 'I shall draw pictures and make pictures appear on the sky!'" — image: The sky simile (Kakacūpamasutta)
@@ -295,7 +295,7 @@ cross-audit of all 165 picks against the raw texts before film use
 "How can touches touch him who is asset-less?"
 
 ### m16.2 claim + image
-"The worldling discerns the world with the help of six narrow beams of light, namely the six sense-bases. When the superior lustre of wisdom arises, those six sense-bases go down." — image: Six narrow beams (revisited)
+"The worldling discerns the world around him with the help of six narrow beams of light, appearing through a solidly thick curtain, namely the darkness of delusion." — image: Six narrow beams (revisited)
 
 ### m16.3 core passage
 "The cause of all conceptual proliferation is contact. The arahants understood this by their insight into the fact that the seen, the heard, the sensed and the cognized are simply so many collocations of conditions which come together for a moment due to contact, only to break up."
@@ -310,7 +310,7 @@ cross-audit of all 165 picks against the raw texts before film use
 ## m17 (sermon 17)
 
 ### m17.1 minimal
-"One perception arises and another fades out — like a twig fire."
+"Just as, friend, in the case of a twig fire, when it is burning one flame arises and another flame fades out."
 
 ### m17.2 claim + image
 "One perception arises in me: 'cessation of existence is Nibbana', and another perception fades out in me... Just as, friend, in the case of a twig fire, when it is burning one flame arises and another flame fades out." — image: The twig-fire simile (Sariputta's own experience)
@@ -364,7 +364,7 @@ cross-audit of all 165 picks against the raw texts before film use
 ## m20 (sermon 20)
 
 ### m20.1 minimal
-"That wouldn't do as a reply — the fire is reckoned as extinguished."
+"That wouldn't do as a reply, Master Gotama, for that fire burnt in dependence on its fuel of grass and sticks."
 
 ### m20.2 claim + image
 "Suppose a fire were burning before you, would you know 'this fire is burning before me'?" — image: The Aggivacchagotta fire catechism (full)
@@ -382,7 +382,7 @@ cross-audit of all 165 picks against the raw texts before film use
 ## m21 (sermon 21)
 
 ### m21.1 minimal
-"The destruction of craving is Nibbāna."
+"For, the destruction of craving, Rādha, is Nibbāna."
 
 ### m21.2 claim + image
 "If a vortex in the ocean comes to cease, can one ask where the vortex has gone? It will be like asking where the extinguished fire has gone." — image: The vortex and the ocean
@@ -424,7 +424,7 @@ cross-audit of all 165 picks against the raw texts before film use
 "The ordinary worldling's mode of recognition of the Tathāgata is comparable to the recognition of a vortex that has already ceased with the help of the flotsam and jetsam lightly floating around it. Even after the vortex has ceased, flotsam and jetsam could still go on rotating, giving the wrong impression that the vortex is still there." — image: Flotsam after the vortex ceases
 
 ### m23.3 core passage
-"by convention | Bodhi 2000:102 | | Bodhivagga (Ud) | fumigating the hordes of Mara | Ireland 1990:13 | | Khajjanīya (SN) | vidhūpeti na sandhūpeti | — | | Lokakāmaguṇa (SN Saḷāyatanavagga) | world = six bases / five pleasures | SĀ 234, Bodhi 2012:1303 | | Kaccāyanagotta (SN Nidāna) | duality of is/is-not | SĀ 301; Tripāṭhī 1962:167 | | Rohitassa (SN/AN) | fathom-long body declaration | SĀ 1307 (赤馬天子) | | Cūḷavedalla (MN) | three contacts after cessation | MĀ 211, MĀ 210 | | AN 5.166 | fruit-attainment possibility | Bodhi 2012:779; Vism 708 | | Saññāvedayitanirodha question |"
+"The worldlings spend their whole lifetime running in search of the world's end. All that is papañca, conceptual proliferation."
 
 ### m23.4 encapsulation
 → sermon-23-excavation.md (his material, curated, section order)
