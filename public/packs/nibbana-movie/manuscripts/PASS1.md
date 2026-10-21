@@ -400,27 +400,17 @@ peace of Nibbana (upasamanussati).
 
 ---
 
-## VIDEO SHELL (standalone cut — structure only, no new words)
+## STATUS (not a film yet)
 
-Facts card (on screen, opening): "33 sermons of nibbāna — from
-Ñāṇananda Thera, *Nibbāna: The Mind Stilled* (BCBS / Dharma Seed,
-free). Pass 1: the structured explanation."
+Pass 1 = the standalone explanation of record. Publishable AS THIS —
+the six-segment explanation in his words, bookended by the theme verse.
+Video packaging does NOT exist yet: no intro (Film B's INTRO.md
+belongs to Film B and is not borrowed here), no timing, no voice, no
+render. When this becomes a film it gets its own designed opening.
 
-THE CUT:
-1. INTRO — as written in INTRO.md (chant → cover → water → moon →
-   inverse → black → chanter), ends on black.
-2. TITLE CARD (facts above), one bell.
-3. SIX SCENES = the six segments in this document, in order. Per scene:
-   - CARD: the segment title (the ## heading), bell #1–#6
-   - READ: the quoted passages aloud, in block order (the quoted lines
-     only — never the bracket tags)
-   - SHOW: (S##) as source chyrons when a line is read; the ### titles
-     as section cards
-   - HOLD: silence between blocks; no music under holds
-4. CLOSE: the theme-verse block again (copied above), held on still —
-   then black, namo returns (loop-compatible with INTRO).
-
-READ RULE: only the text inside quotation marks is spoken. Everything
-else is card, chyron, or silence.
-LENGTH RULE: no block is paraphrased to fit — if a beat must shorten,
-a block is cut whole (selection, never rewriting).
+Rules that will apply when it is voiced (kept here so they shape any
+early reading):
+- READ RULE: only text inside quotation marks is spoken; everything
+  else is card, chyron, or silence.
+- LENGTH RULE: a beat shortens only by cutting a whole block —
+  selection, never rewriting.
