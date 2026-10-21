@@ -91,10 +91,11 @@ VALIDATION propagate to both; changes to ARC/SCREENPLAY/STORYBOARD are
 Film B only; changes to FORMULA/SECTIONS are Film A only.
 
 **Status (2026-10-21):**
-- Film A: spines written (FORMULA + SECTIONS complete, validated
-  chain). Next: turn the chain into its own board (rows = L-steps /
-  Q-steps, with grab.html shots G1–G4 as its visual set) — a separate
-  STORYBOARD, not mixed with Film B's.
+- Film A: COMPLETE STRUCTURE CHAIN — COURSE (5 movements) → MAP (25
+  verbatim units) → RAMP (33 × 5 levels, cross-audited clean) →
+  LESSONS (33-row index) + FORMULA + SECTIONS + grab.html. WEAVE
+  F1–F46. Next: the plain-english swap pass over MAP/RAMP, then Film
+  A's own storyboard (separate from Film B's).
 - Film B: board PASS (30 rows, all narration banked or deliberately
   silent); remaining = A3/A4 zone writing with [RENDER]s, timing pass,
   stills.

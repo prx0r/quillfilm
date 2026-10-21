@@ -284,6 +284,18 @@ set + row-count assertions whenever the pack grows.
   A3/A4 narration writing (renders) · timing pass · audio-rights check
   for recorded sermons · puppet/beams spares as rows thicken.
 
+## 10b. Progress log (continued)
+
+- 2026-10-21: two-films split (FILMS.md) · FORMULA (owner chain +
+  substitutions + stream entry + cameras) · SECTIONS (six under the
+  avijjā/vijjā binary + THE INVISIBILITY TRICK) · grab.html realtime
+  model · THE LOOP format (5 passes, full encapsulation by .4) ·
+  COURSE (five movements, chain-verified 22+/33 continuations) ·
+  RAMP (165 blocks, mN.1–mN.5, cross-audited: 0 sub-0.90) ·
+  MAP (25 verbatim units, recombine-never-rewrite) · WEAVE now F1–F46
+  (11 banked raw-verified this session) · LESSONS index (33 rows) ·
+  INVISIBILITY.md (the definition) · VALIDATION (five houses).
+
 ## 11. Next steps (board stage, in order)
 
 1. Close the two [DRAFT] slots (I11, I4) from the bank.
