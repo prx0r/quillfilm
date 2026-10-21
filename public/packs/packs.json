@@ -690,7 +690,8 @@
       ],
       "sources": [
         "WEAVE.md",
-        "DECODE.md"
+        "DECODE.md",
+        "VALIDATION.md"
       ]
     }
   ]
