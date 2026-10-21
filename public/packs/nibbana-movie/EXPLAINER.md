@@ -16,6 +16,9 @@ later adapt from it; they do not own it.
 - **Six passes** over that skeleton, each a full document:
   - **P1 — the backbone** ✅ done: 28 blocks, minimal selection that
     still makes the argument stand alone (`PASS1.md`)
+  - **P1plain — the render** ✅ done: P1 block-by-block into the plain
+    register (DECODE terms; fidelity checklist at its foot) — the
+    pairing pattern every later pass may repeat: PASSn → PASSnplain
   - **P2 — extended**: P1 + the next tier of blocks from each segment
     pool (every remaining ### block in the excavations is a candidate),
     plus deeper blocks on P1's topics
