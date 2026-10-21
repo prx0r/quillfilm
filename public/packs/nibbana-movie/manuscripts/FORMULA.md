@@ -87,6 +87,102 @@ the way.* The recipe book's whole ingredient list on one line.
 
 ---
 
+## THE SUBSTITUTIONS (push the rule until it bottoms out)
+
+nibbāna = **destruction of craving.**
+destruction of craving = **the grab-policy stops firing at tones**
+(the tone→link is prediction-maintained; prediction fails; tag decays).
+⟹ nibbāna = the state where tones arrive and no grab follows.
+
+destruction of craving = **the felt world-pull decaying out** — the
+pull was the tag projected as a world-property; tag gone, the things
+just stand there.
+⟹ nibbāna = things-as-they-are, minus the felt pull.
+
+destruction of craving = **the misbinding seen through** — the pull
+recognized as generated (the view from outside the binding).
+⟹ nibbāna = a seeing that cannot un-see. (This is why it's an
+irreversible knowledge-change, not a strength-change.)
+
+destruction of craving = **the recursion cut** — the policy no longer
+applied to its own outputs: no second dart, no "and then", no
+simulated-future suffering.
+⟹ nibbāna = first-order tone without second-order story.
+Experience, un-looped.
+
+destruction of craving = **the objective function losing its owner**
+— there is no "my discrepancy" left to minimize; the field keeps
+running (six senses still sense) but nothing is kept (assetless).
+⟹ nibbāna = the loop without the grabber.
+
+## STREAM ENTRY, SHARPLY (the point of no return)
+
+Question: is stream-entry a physiological point of no return where the
+grab can't get stronger? Answer in three cuts:
+
+1. **What snaps is not the grab — it's the misbinding's owner.**
+Stream-entry = the first structural installation of the
+view-from-outside-the-binding: the identity-peg (sakkāyadiṭṭhi) that
+the grab needed in order to *recruit a self* is cracked. The
+tone→urge machinery still fires (even the Buddha was offered
+temptations) — but the urge can no longer grow a story: it cannot
+recruit the self-model, cannot spiral, cannot build the second dart.
+The grab *can* fire; it cannot *escalate*.
+
+2. **Why it's a point of no return:** it's knowledge, not strength.
+Habits (strength) can reassert under stress — the tradition even
+allows a stream-enterer minor ethical failures — but the *view* cannot
+re-form, because the peg it would need to hang on is gone. You cannot
+un-see the trick. Optimization terms: not a flattened landscape but a
+**revised objective function** — no "my discrepancy" to minimize; the
+recursion has no ground to restart.
+
+3. **The ladder = which branches are deleted:**
+- **stream-entry** — the recursion re-entry ramp deleted (identity-
+  grab can't re-form); the sensual grab may fire but can't recruit a self
+- **once-returner** — the sensual branch's charge halved (the tag's
+  pull visibly dimmed)
+- **non-returner** — the sensual branch **deleted** — no appetitive
+  tag for sense-pleasure exists anymore: it *can't* get stronger,
+  there is nothing to strengthen
+- **arahant** — approach, avoid and model-error branches all gone, and
+  the recursion node dissolved with them.
+(The canonical guarantee — "cannot fall", ≤7 lives — is the doctrine's
+own statement of the same irreversibility; the physiological claim we
+may make is the objective-function one.)
+
+## THE VISUAL SEQUENCE — "the grab fires" (Film A centerpiece)
+
+The realtime→slow-mo→practice model. Four shots, one insertable block:
+
+- **G1 REALTIME (0.01×… no — 1.0×): 15–20s.** The loop at life
+  speed: tone → clench → urge → action → reset, ×3 — so fast it's
+  almost impossible to see. That IS the point: sub-aware. No labels.
+- **G2 SLOWED (0.02–0.05×): 45–60s.** The same event with the clock
+  readout: t+0 tone (vedanā) · t+25–100ms tag/clench (taṇhā) ·
+  action · outcome · the recursion arrow curving back into the "I"-node.
+  In Film A: labels appear at each beat; in Film B: image only.
+- **G3 PRACTICE (trials): 60–90s.** Awareness gate inserted at the
+  gap: wave rises → watched → decays without completing → *trial 1/7*
+  — the decrements are trial-based, not clock-based (each seen-
+  unreinforced instance IS the extinction). Show the wave amplitude
+  collapsing across trials until: tone → flicker → nothing.
+  Honest timing card: one craving wave ≈ minutes; the link weakens
+  over weeks of practice (measurable in8-week trainings); full
+  re-patterning = months. The formula cares about trials, not hours.
+- **G4 PEG SNAP (stream entry, optional): 20s.** The "I"-node the
+  recursion fed into greys out; the re-entry ramp deletes; the
+  first-order wave can still rise (grey) but there is no organism to
+  amplify it. Title card (Film A only): *point of no return — it is
+  knowledge, not strength.*
+
+Model for these shots (live, slowed down, practice mode):
+`/grab.html` in quillfilm (run `npm run dev` → open
+http://localhost:3000/grab.html). It plays the loop realtime, has a
+speed slider down to slow-mo, and a practice mode that runs the
+extinction trials and the peg-snap. The film's G1–G4 should be
+rendered from this exact logic.
+
 ## OWNER FRAMING (verbatim — keep)
 
 > unfortunately in order to understand nirvana, you basically need to
