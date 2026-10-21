@@ -78,6 +78,13 @@ FILM C — THE FOUR NOBLE TRUTHS short (companion / ultra-compression)
   do not bank, do not link.
   status: idea-level; mini-board after Film A L1.
 
+## INDEPENDENT — THE 6-PASS EXPLAINER (see EXPLAINER.md)
+
+Not a film and not owned by A/B/C: six segments × six passes of pure
+copy-paste deepening (P1 done: PASS1.md in manuscripts). Publishable
+per-pass as documents. Shares the library; borrows nothing from the
+films; the films may adapt from it later.
+
 **How they relate:** Film A is *the argument, told out loud, from
 every chair in the room*; Film B is the same argument with its mouth
 closed, hidden in a magic show. Film A says "nibbāna is the end of

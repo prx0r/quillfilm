@@ -1,6 +1,8 @@
 # nibbana-movie — quill pack
 
-**Two films share this pack — see `FILMS.md` for the ownership map.**
+**Two films + one independent project share this pack — see `FILMS.md`
+and `EXPLAINER.md` for the ownership map.**
+INDEPENDENT: the 6-pass explainer (PASS1–PASS6, pure copy-paste).
 FILM A (the clear one): FORMULA + SECTIONS + grab.html. FILM B (the
 cinematic pointer): INTRO + MOVIE + ARC + SCREENPLAY + STORYBOARD +
 PASSAGES + world (MOTIFS). Library shared: WEAVE · DECODE · VALIDATION.
