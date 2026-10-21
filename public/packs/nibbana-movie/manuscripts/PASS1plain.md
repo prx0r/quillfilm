@@ -1,213 +1,299 @@
-# PASS1plain — P1 rendered into our language
+# PASS1plain — his own plain sentences (selected, never written)
 
-The render of PASS1: same six segments, same block order, every block
-translated from the corresponding (S##) block into the plain register
-we defined (DECODE: the lean, the grab, the stamp, the peg, the chain,
-appearing-as-given).
-
-RENDER RULES:
-- Fidelity: every sentence is a translation of its source block —
-  nothing added, no new doctrine, nothing dropped that carries the
-  argument.
-- Images stay his: lamp, fire, mirror, razor, lotus, whirlpool — the
-  pictures are already plain.
-- Terms come from DECODE (lean/grab/stamp/peg/spiralling/chain);
-  Pāli only where the term IS the point.
-- Jargon budget: minimal; if a Pāli term must appear, gloss it in
-  four words.
-- Provenance: each block header names the block it renders.
-
----
+THE RULE (corrected): no translating, no summarizing, no writing.
+Frame verses and repeated formulae stay exactly as he says them. This
+pass is SELECTION: from each P1 block, the sentences he has already
+put in plain language — verbatim, same order. DECODE is the ear that
+recognizes plain speech; it supplies no words. A block with no plain
+sentences is skipped, never rephrased into one.
 
 ## SECTION 1 — WHAT NIBBANA IS
 
-### [RENDER · S01 · theme verse]
-This is peaceful. This is excellent: everything that was being made,
-settled; every hold, relinquished; the reaching, destroyed; the
-fading, the stopping. That's nibbāna. It's a meditation subject in its
-own right — sit with the settling.
+**(S01 · copied)**
+### The theme verse (AN, the whole series' frame)
+"Etam santam etam panitam: sabbasankharasamatho, sabbupadhipatinissaggo, tanhakkhayo, virago, nirodho, nibbanam."
 
-### [RENDER · S01 · extinction evidence]
-Every canonical image of the goal is a fire going out. The wise go out
-like a lamp; the mind's release, like a torch. There are thirty-three
-names for it — "extinction" won, because the goal is a fire that stops.
-A flame thrown by wind reaches its end and can't be located. No one
-can measure the one who's gone out; with the phenomena uprooted, every
-pathway of speech is uprooted with them.
+"This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
-### [RENDER · S01 · tanhakkhayo IS nibbana]
-Destruction of craving IS nibbāna — the suttas use them as one word.
-The commentator said "mere destruction isn't enough." That's a
-commentarial invention, not a sutta position. All the world's pleasures
-are not worth one-sixteenth of the bliss of craving's destruction.
-Cut the reaching at the root and asking what to wander after is like
-giving water to someone who's already quenched.
+"This is peaceful, this is sublime: the calming of all constructions, the letting go of all supports, the extinguishing of craving, dispassion, cessation, Nibbana."
 
-### [RENDER · S01 · elevenfold fire]
-Existence is an eleven-fold fire — greed, hate, delusion are fires too.
-Therefore "extinction" is the only honest translation.
+**(S01 · copied)**
+### The extinction evidence
+"Nibbanti dhiro yathayam padipo"
 
-### [RENDER · S23 · cessation of the six sense-spheres]
-When the six sense-windows close, all the measuring stops — and that
-is what nibbāna means: the cessation of the six spheres.
+"Those wise ones get extinguished even like this lamp."
 
----
+"the mind's release was like the extinguishing of a torch."
+
+"Nibbana won out because of its fire allusion."
+
+"Like the flame thrown by the force of the wind, reaches its end, it cannot be reckoned."
+
+"There is no measure of one who has gone out."
+
+"There is no means by which they might speak of him."
+
+"When all phenomena have been uprooted, all pathways of speech have also been uprooted."
+
+**(S01 · copied)**
+### Tanhakkhayo IS nibbana (the synonym argument)
+"Whatever bliss from sense-desires there is in the world, whatever divine bliss there is — all these are not worth one-sixteenth of the bliss of the destruction of craving."
+
+"What is the use of a well, if water is there all the time, having cut craving at the root, in search of what should one wander?"
+
+"To think that the destruction of craving is not sufficient is like trying to give water to one who has already quenched his thirst."
+
+**(S01 · copied)**
+### The elevenfold fire
+"Existence is said to be an eleven-fold fire."
+
+"So the entire existence is a raging fire."
+
+"Lust, hate, delusion — all these are fires."
+
+"Therefore Nibbana may be best rendered by the word 'extinction'."
+
+**(S23 · copied)**
+### Nibbana = cessation of the six sense-spheres
+"All those measuring rods and scales lose their applicability with the cessation of the six sense-spheres."
 
 ## SECTION 2 — HOW THE MECHANISM WORKS
 
-### [RENDER · S01 · idappaccayata]
-The wood burns because of the fire; the fire burns because of the
-wood — this-then-that. And fuel and grabbing are one word here: the
-fire holds the wood, the wood holds the fire — that's why we say
-firewood. Grabbing is existence: so long as there's grabbing, there's
-existence.
+**(S01 · copied)**
+### Idappaccayata (this-to-that conditionality)
+"The wood burns because of the fire and the fire burns because of the wood."
 
-### [RENDER · S02 · the formula]
-"This being, this comes to be. With the arising of this, this arises.
-This not being, this does not come to be. With the cessation of this,
-this ceases." The algebra. The twelve links are only the illustration;
-this fourfold line is the actual law.
+"The fire catches hold of the wood, and the wood catches hold of the fire."
 
-### [RENDER · S03 · going round / going out]
-Saṃsāra means going round. Nibbāna means going out. The whirlpool
-explains both at once.
+"And so we call it firewood."
 
-### [RENDER · S03 · where has the whirlpool gone]
-Where did the whirlpool go? Same trap as "where did the fire go." You
-can't say it joined something, or hid. All you can honestly say: there
-was an activity, running on causes — and while it ran, you could name
-it. Stop the activity and there's nothing left to name.
+"dependent on grasping is existence."
 
-### [RENDER · S26 · the norm]
-That fourfold line — usually overlooked — is the norm, the suchness
-the Buddha discovered.
+"So long as there is grasping, there is an existence."
 
-### [RENDER · S26 · twelve links as illustration]
-The twelve links are things that dependently arise — illustrations of
-the law, not the law. Even ignorance depends (on the influxes). So
-ignorance isn't the first cause; the law is.
+**(S02 · copied)**
+### The idappaccayata formula (the basic principle)
+"This being, this comes to be."
 
----
+"With the arising of this, this arises."
+
+"This not being, this does not come to be."
+
+"With the cessation of this, this ceases."
+
+"It resembles an algebraical formula."
+
+"The twelve-linked formula is the illustration; the fourfold statement is the basic principle."
+
+**(S03 · copied)**
+### Where has the whirlpool gone?
+"If someone asks where the vortex or the whirlpool has gone, what sort of answer can we give?"
+
+"It is the same difficulty that comes up in answering the question: 'Where has the fire gone after it has gone out?'"
+
+"We cannot say that they united, nor can we say that it went and hid somewhere."
+
+"Here we find ourselves in a queer situation."
+
+"All we can say in fairness to truth is that there had been a certain form of activity, a certain state of unrest, due to certain causes and conditions."
+
+"Because of that activity that was going on there, it was possible to designate it, to give it a name."
+
+**(S26 · copied)**
+### The basic principle of dependent arising (the norm)
+"This statement of the basic principle of dependent arising is very often overlooked."
+
+**(S26 · copied)**
+### The twelve links are illustrations, not the cause
+"This conjunctive clearly indicates that the twelve-linked formula is an illustration."
+
+"So even ignorance is not the cause."
+
+"The cause is the underlying principle itself."
 
 ## SECTION 3 — WHAT KEEPS THE MECHANISM RUNNING
 
-### [RENDER · S01 · nama is name]
-In the suttas, "name" means name. The commentators wanted something
-fancier ("bending"). But "name" carries all the depth you need: the
-labelled. The toddler knows the ball by feel before the word lands.
+**(S01 · copied)**
+### Nama is name (not bending)
+"It may be that they thought it too simple an interpretation to explain nama with reference to 'name', particularly because it is a term that has to do with deep insight."
 
-### [RENDER · S12 · perception grasps a sign]
-Perception is stamp-grabbing: it notches the tree so it can find its
-way back. It catches a sign of permanence in everything — "hurt,"
-"mine," "beautiful" — so it can recognize it later. The word for
-perception basically means the stamp.
+**(S12 · copied)**
+### Perception grasps a sign
+"To perceive is to grasp a sign of permanence in something."
 
-### [RENDER · S27 · lust is a maker of signs]
-Only while greed, hate and delusion are alive do stamps mean
-anything — those three are the makers of signs. The arahant is
-"thing-less" not because he owns nothing, but because those three are
-extinct: nothing in him left for a sign to point at.
+"Perception has the characteristic of grasping a sign."
 
-### [RENDER · S10 · the asmi peg]
-"Am" is more basic than "is." The peg. All measuring of the world
-starts from it — and the "mana" in the conceit-of-am means measuring
-too.
+"Just as a party going through a forest would blaze a trail with an axe in order to find their way back with the help of notches on the trees, so does perception catch a sign in order to be able to recognize."
 
----
+"The word sanna, used to denote perception as such, primarily means the 'sign', 'symbol', or 'mark', with which one recognizes."
+
+**(S27 · copied)**
+### Lust is a maker of signs (Mahāvedalla)
+"Lust, friend, is something, hate is something, delusion is something."
+
+"They have been abandoned in an influx-free monk, uprooted, made like a palm tree deprived of its site, made extinct and rendered incapable of sprouting again."
+
+"It is only so long as there are things like lust, hate and delusion that signs are significant..."
+
+"He is thing-less not because he no longer has the worldly possessions of a layman, but because the afore-said things lust, hate and delusion are extinct in him."
+
+**(S10 · copied)**
+### Asmi is more basic than atthi
+"The most elementary concept is asmi, or 'am'."
 
 ## SECTION 4 — WHAT THE MECHANISM BUILDS
 
-### [RENDER · S10 · twenty modes of personality view]
-Five heaps, four moves each — it's mine / it's me / it's in me / it
-contains me — twenty ways of claiming what's there. All of it runs on
-not knowing that name-and-form is only a reflection, like a face in a
-mirror.
+**(S10 · copied)**
+### The twenty modes of personality view
+"As regards form, it is fourfold: He regards form as self, or self as possessing form, or form as in self, or self as in form."
 
-### [RENDER · S10 · the mirror]
-The "am" only occurs with dependence — on form, tone, marks, doings,
-consciousness — like your face in the water: dependent. Look once and
-it installs itself: "Ah, here I am!" The mirror doesn't create a self;
-looking does.
+"It is the same with the other four groups."
 
-### [RENDER · S08 · the puppet show]
-Beings play god, spend down their karmic credit, and land wherever the
-credit puts them — like the props in a play: the stool plays king for a
-scene, then it's a stool again.
+"In this way, the personality view is altogether twenty-fold."
 
-### [RENDER · S25 · duality vs concatenation]
-Subject-object is grammar taken seriously: because there's "something
-to see," there's "someone seeing." Seeing the law means seeing an
-assemblage of conditions — instead of a split.
+"All this comes about due to the ignorance that name-and-form is only a reflection, like that facial image."
 
----
+**(S10 · copied)**
+### The mirror simile (Punna Mantaniputta, Khandha-samyutta)
+"It is with dependence, friend Ananda, that the notion 'am' occurs, not without dependence."
+
+"With dependence on form..."
+
+"on consciousness does the notion 'am' occur."
+
+"Just as a woman or a man, youthful and fond of adornment, in looking at her or his facial image in a mirror or in a bowl filled with pure, clear, clean water, would be seeing it with dependence and not without dependence."
+
+"It is when one looks into a mirror that one suddenly becomes self- conscious..."
+
+"Even if one already has no such notion, the moment one looks into a mirror one is suddenly reminded of it, as if to exclaim: 'Ah, here I am!'"
+
+**(S08 · copied)**
+### The puppet show
+"Beings who enjoyed high positions come down to the level of hungry ghosts, petas, or even to lower realms in their very next birth."
+
+"Beings, who are born in accordance with their karma, entertain the conceit 'I am a god', 'I am a Brahma'."
+
+"Once their karma is spent up, they get destroyed and are reborn somewhere or other."
+
+"It is the same with those items used in a drama, such as the stool and the footstool."
+
+**(S25 · copied)**
+### Two kinds of relationship: duality vs concatenation
+"The worldling takes seriously the subject-object relationship in the grammatical structure..."
+
+"Because there is something to be seen, there is someone who sees..."
+
+"To understand the law of dependent arising is to be free from this duality."
+
+"It is the ability to see a concatenation of conditions..."
+
+"an assemblage instead of a bifurcation."
 
 ## SECTION 5 — HOW TO SEE THROUGH IT
 
-### [RENDER · S14 · the Bahiya training]
-In the seen, just the seen. Train to stop at bare awareness — before
-the label, before the story.
+**(S14 · copied)**
+### The Bahiya training (the tersest practice)
+"In the seen there will be just the seen..."
 
-### [RENDER · S05 · the razor]
-Grip the razor tight and you blunt it on the stone. Hold it relaxed,
-ready to let go — wrist easy, hand supple. The strokes: up, up, up —
-down, down, down — up-down, up-down. That's how insight gets sharpened:
-on the whetstone of mindfulness. You don't wrestle the experience; you
-hold it lightly enough to work.
+"Thus should you train yourself."
 
-### [RENDER · S28 · the elements]
-Internal earth, external earth — both just earth: not mine, not I,
-not self. See it like that and the enchantment drops; the color fades
-out of it.
+"The basic principle in this training seems to be the discipline to stop short at bare awareness."
 
-### [RENDER · S31 · the four right endeavours]
-The effort is graded: interest arises → exertion → energy applied →
-grit → the final all-out shove. Desire to act, then effort, then
-power, then resolve, then the push.
+**(S05 · copied)**
+### The razor simile (parāmasana vs sammasana)
+"With the idea of sharpening the razor, if one grabs it tightly and rubs it on the sharpening stone, it will only become blunt."
 
----
+"One has to hold the razor in a relaxed way, as if one is going to throw it away."
+
+"One holds it lightly, ready to let go of it at any time."
+
+"But, of course, with mindfulness."
+
+"The wrist, also, is not rigid, but relaxed."
+
+"Hand is supple at the joints and easy to swing."
+
+"First: up, up, up, then: down, down, down, and then: up down, up down, up down."
+
+"The third combined movement ensures that those parts of the blade still untouched by the stone will also get duly sharpened."
+
+"Inward, inward, inward — outward, outward, outward — inward outward, inward outward."
+
+"Or else: arising, arising, arising — ceasing, ceasing, ceasing — arising ceasing, arising ceasing."
+
+**(S28 · copied)**
+### The element meditation (MahāHatthipadopama, Sāriputta)
+"hard, solid and clung to, that is, head hairs, body hairs, nails, teeth, skin, flesh, sinews, bones..."
+
+"Now whatever is the internal earth element and whatever is the external earth element, both are simply the earth element; and that should be seen as it actually is with right wisdom thus: 'This is not mine, this I am not, this is not my self."
+
+"Having seen it as it actually is with right wisdom, one becomes disenchanted with the earth element, becomes dispassionate towards the earth element."
+
+**(S31 · copied)**
+### The four right endeavours as ascending effort
+"For the non-arising of unarisen evil unskilful mental states he arouses a desire, makes an effort, puts forth energy, makes firm the mind and endeavours..."
 
 ## SECTION 6 — WHAT REMAINS
 
-### [RENDER · S01 · the arahants' own words]
-"I am grown cool, extinguished as I am." The words cool the one who
-hears them. Extinction happens inside a person and brings a bliss of
-appeasement — won free of charge; normally appeasement costs
-something. The one who's quenched for good watches the world running
-after water and looks within: there's the well-spring.
+**(S01 · copied)**
+### The arahants' own words
+"I am grown cool, extinguished as I am."
 
-### [RENDER · S23 · the lotus on the rubbish heap]
-A lotus on a rubbish heap by the highway — pure, sweet-smelling — so
-the awakened one's disciple shines out among the blind. The arahant is
-that lotus, rising from the cesspool. There is nothing frightening
-about it.
+"had a cooling effect even to the listener."
 
-### [RENDER · S27 · hunger-less and appeased]
-Suffering is conditioned by consciousness; calm the consciousness and
-suffering can't arise. Knowing that, the monk becomes hunger-less and
-fully appeased. Nibbāna doesn't falsify — seeing that truth, they
-become hungerless.
+"Extinction is something that occurs within an individual and it brings with it a unique bliss of appeasement."
 
-### [RENDER · S26 · what the arahant is percipient of]
-What does the arahant know? The title of this whole series: this is
-peaceful, this is excellent — the settling of all the making, the end
-of the reaching. Nibbāna.
+"they experience the bliss of appeasement won free of charge."
 
----
+"Normally appeasement is won at a cost; here it comes gratis."
 
-## CLOSE — the bookend (same as the open)
-### [RENDER · S01 · theme verse — reprise]
-This is peaceful. This is excellent: everything that was being made,
-settled; every hold, relinquished; the reaching, destroyed; the
-fading, the stopping. That's nibbāna.
+"One who has quenched his thirst for good is aware of that blissful experience."
 
----
+"When he sees the world running here and there in search of water, he looks within and sees the well-spring of his bliss."
 
-## FIDELITY CHECKLIST (before any pass of this ships)
-- [ ] every RENDER block sits opposite its (S##) source block in P1
-- [ ] no sentence here adds a claim the source block doesn't carry
-- [ ] all images preserved (lamp, fire, mirror, razor, lotus,
-      whirlpool, stool, stamp)
-- [ ] DECODE terms only (lean/grab/stamp/peg/chain/spiralling/
-      appearing-as-given) — no new vocabulary
-- [ ] the Pāli count stays near zero (idappaccayatā, saṃsāra,
-      nibbāna, asmi — each glossed in ≤4 words)
+**(S23 · copied)**
+### The lotus on the rubbish heap (the positive side of void)
+"As on top of a rubbish heap, dumped by the highway side, there blossoms forth a lotus, pure in fragrance and charming."
+
+"So amidst the worldlings blind, the Fully Awakened One's disciple outshines them in marked contrast, in point of wisdom bright."
+
+"The dawn of that wisdom which sees the voidness of a self..."
+
+"Surely there cannot be anything frightful about it."
+
+**(S27 · copied)**
+### Hunger-less and fully appeased (Dvayatānupassana)
+"Whatever suffering that arises, all that is due to consciousness."
+
+"With the cessation of consciousness, there is no arising of suffering."
+
+"by calming down consciousness, a monk is hunger-less and fully appeased."
+
+**(S26 · copied)**
+### What the arahant is percipient of
+"Of what is he percipient or conscious? That is none other than what comes up as the title of these series of sermons, namely: Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ — 'This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction.'"
+
+## CLOSE (the bookend — same block as the open, copied again)
+
+**(S01 · copied — reprise)**
+### The theme verse (AN, the whole series' frame)
+"Etam santam etam panitam: sabbasankharasamatho, sabbupadhipatinissaggo, tanhakkhayo, virago, nirodho, nibbanam."
+
+"This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
+
+"This is peaceful, this is sublime: the calming of all constructions, the letting go of all supports, the extinguishing of craving, dispassion, cessation, Nibbana."
+
+"--- ## STATUS (not a film yet) Pass 1 = the standalone explanation of record."
+
+"Publishable AS THIS — the six-segment explanation in his words, bookended by the theme verse."
+
+"Video packaging does NOT exist yet: no intro (Film B's INTRO.md belongs to Film B and is not borrowed here), no timing, no voice, no render."
+
+"When this becomes a film it gets its own designed opening."
+
+"Rules that will apply when it is voiced (kept here so they shape any early reading): - READ RULE: only text inside quotation marks is spoken; everything else is card, chyron, or silence."
+
+"- LENGTH RULE: a beat shortens only by cutting a whole block — selection, never rewriting."
+
+
+(skipped — no already-plain sentences: Nibbana = going out (nissarana) vs samsara = going round (samsarana))
