@@ -22,6 +22,47 @@ plus the grab-mechanics from FORMULA. Cross-read: FORMULA = how the
 grab runs · SECTIONS = what the sermons are claiming · CAMERAS = how
 the traditions shoot it.
 
+## THE INVISIBILITY TRICK (why nobody finds it alone)
+
+The working of ignorance: **the very fact that you cannot see the
+ignorance is the ignorance working.** Nothing is wrong with what you
+are seeing — the data is fine, the image is fine. What is absent is
+the noticing that it is an image. Absence has no surface: a missing
+thing cannot be found by examining what is present (you'd be using
+the missing tool to search for the missing tool). And it's worse:
+**the instrument of the search IS the missing.**
+
+But it betrays itself — three ways:
+
+1. **Symptoms.** The invisible has visible traces: the craving that
+   fires and doesn't land, the promise that never arrives. Wanting-
+   without-liking is the fingerprint. **Suffering is the visible trace
+   of the invisible** — which is why the canon starts there, and why
+   "what am I missing?" answers itself the moment you look at what is
+   *not working* rather than at what you're seeing.
+2. **Glitches.** The double-take at the mirror. The gap that never
+   closes by running. The image that dissolves when looked at
+   directly. Moments where the "given" fails to hold — the
+   invisibility going transparent for one frame.
+3. **The engineering answer (the canon's own):** the two — and only
+   two — conditions for right view: **parato ghoso** (a signal from
+   outside your blind spot) and **yoniso manasikāra** (attention aimed
+   at the instrument, not the object). AN 10.61's food-chain runs both
+   ways: "not hearing the true Dhamma" is food for ignorance;
+   "hearing" is food for clear knowing. The external voice is the
+   nutrient that inverts the system.
+
+**The average person: screwed on autopilot, not in principle.** The
+system cannot generate its own exit code from inside its run — but the
+fix is binary and the input comes from outside. One accurate look at
+the *looking* (never at the content) and the missing was never there.
+
+**Film consequence (hard rule):** the film can never show a defect —
+there is none to show. Images stay beautiful; a broken-pixel movie
+would be lying. The only honest device is the voice from outside the
+screen — the narrator is parato ghoso. The trojan is not a style
+choice; it is the epistemology.
+
 ---
 
 ## SECTION 1 — WHAT NIBBĀNA IS
