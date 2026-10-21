@@ -64,9 +64,34 @@ gets fed properly).
   findable). Retrieval + rhythm, not acts.
 - **The 4 truths** = the skeleton stated where Nāṇananda states it (M5)
   and carried silently behind M3–M4; FORMULA's L7 is its compression.
-- **The levels of detail (L1–L6)** = the *depth dial* applied per
-  movement: any movement can be told compressed (L1) or receipted (L6);
-  the film chooses one depth per act rather than building 36 units.
+## THE FORMAT — 1→33, increasing granularity (the gradient)
+
+One pass through the sermons in order, with **depth rising along the
+way**. Depth is a function of position, not a per-act choice:
+
+| movement | sermons | granularity | what the frame looks like |
+|---|---|---|---|
+| M1 | 1–8 | L1–L2 (compressed → evidence) | wide, sparse: one motif at a time, big and simple (fire alone, the dog alone) |
+| M2 | 9–17 | L2–L3 (evidence → mechanism) | motifs begin explaining themselves; anatomy appears (the loop, the stamp) |
+| M3 | 18–25 | L3–L4 (mechanism → full argument) | dense: the tetralemma chain carried in full; motif *interactions* (fire×ocean×palm-stump) |
+| M4 | 26–27 | L4 (the hinge, meta) | the show looks at itself; the pivot; grain briefly pulls back to wide for the turn |
+| M5 | 28–33 | L4–L6 (practice → receipts) | finest: tool-kits, trial timing, first principles, the receipts on screen |
+
+**Why this is the source's own shape:** the sermons already re-approach
+each theme at greater depth (the continuation chain is re-approach).
+The film's gradient simply stops fighting that — early sermons fast and
+wide because they ARE establishing; late sermons slow and fine because
+they ARE the unpacking.
+
+**Visualization rule (motifs expand, not multiply):** every motif is
+INTRODUCED at the shallowest level that needs it (one clean image), and
+when the sermons re-approach it later, it RETURNS at higher resolution
+— fire: a flame (M1) → the fuel catechism's anatomy (M3) → the ember
+reprise (M5). The frame density curve rises with the granularity:
+sparse → dense. Motifs are leitmotifs developed symphonically — never
+reintroduced from scratch, never left at first-statement depth.
+
+- **The levels of detail (L1–L6)**
 - **The invisibility/urgency doctrine** = M2's interpretive key (why
   the machinery is unseen) and M4's device (the film never shows a
   defect).
