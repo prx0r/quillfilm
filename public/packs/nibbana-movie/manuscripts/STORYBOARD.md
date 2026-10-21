@@ -46,7 +46,7 @@ runs. True loop point of the finished film = H1 (the question re-asked).
 | # | est t | SCENE (still) | NARRATION / SOUND | BELL |
 |---|---|---|---|---|
 | I14 | 10:30–11:30 | pixels increase → screen revealed as pure pixels (screen itself unchanged) | [F3] "The rapidity itself gives an impression of permanence, which is a perversion" | — |
-| I15 | 11:30–12:30 | someone chops the tree; wood + water carried to camp | [DRAFT] transition line | — |
+| I15 | 11:30–12:30 | someone chops the tree; wood + water carried to camp | — (labour, wood, water; silent) | — |
 | I16 | 12:30–13:30 | fire set from the wood — close on flame | [F7] "Those wise ones get extinguished even like this lamp." | **BELL F — MOTIF 1** |
 
 ## A3 ZONE WALK (rows after narration pass)
