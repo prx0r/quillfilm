@@ -1,5 +1,10 @@
 # nibbana-movie — quill pack
 
+**Two films share this pack — see `FILMS.md` for the ownership map.**
+FILM A (the clear one): FORMULA + SECTIONS + grab.html. FILM B (the
+cinematic pointer): INTRO + MOVIE + ARC + SCREENPLAY + STORYBOARD +
+PASSAGES + world (MOTIFS). Library shared: WEAVE · DECODE · VALIDATION.
+
 Manuscripts (File → Video packs… loads these into the editor):
 - `SCREENPLAY.md` — **the stagewrite**: prologue + the 6 scaffold
   sections as scene blocks keyed to row IDs, with rhythm cues
