@@ -689,7 +689,8 @@
         }
       ],
       "sources": [
-        "WEAVE.md"
+        "WEAVE.md",
+        "DECODE.md"
       ]
     }
   ]
